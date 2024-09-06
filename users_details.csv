@@ -1,0 +1,2001 @@
+user_detail_id,first_name,last_name,gender,age,username,password,email,phone_number,address
+1,Karja,Yulianti,F,45,karja232,*3KtD0_hq&,karja.yulianti@gmail.com,+62 (89) 080-7035,"Gang Cempaka No. 629
+Medan, SG 30927"
+2,Lanang,Najmudin,M,30,lanang165,8Ki1Kiu2L(,lanang.najmudin@yahoo.com,-7318,"Gg. Cihampelas No. 5
+Langsa, KU 89576"
+3,Legawa,Namaga,F,47,namaga786,fc0IkcOa(@,legawa.namaga@yahoo.com,(0318) 842-8281,"Gang Ir. H. Djuanda No. 1
+Bau-Bau, Sumatera Selatan 44358"
+4,Zahra,Prasetya,F,24,prasetya191,)2dg1BOi20,zahra.prasetya@yahoo.com,+62 (004) 865 6790,"Gang Rumah Sakit No. 200
+Surakarta, SB 31884"
+5,Teddy,Waluyo,F,48,teddy724,K7GyLutN+X,teddy.waluyo@gmail.com,-9161,"Gg. Joyoboyo No. 669
+Batam, GO 67435"
+6,Keisha,Hakim,M,24,keisha590,ngPXvLRC%4,keisha.hakim@hotmail.com,(0914) 027-6981,"Jalan W.R. Supratman No. 46
+Singkawang, Lampung 92154"
+7,Pardi,Nurdiyanti,F,47,pardi722,w$W(8MTfca,pardi.nurdiyanti@hotmail.com,+62 (46) 857 2299,"Gg. Kutai No. 0
+Lubuklinggau, Sulawesi Utara 32835"
+8,Kiandra,Siregar,F,42,siregar996,_6VxQ+uce2,kiandra.siregar@yahoo.com,(0863) 980-1307,"Jalan Jend. A. Yani No. 46
+Kupang, KB 56379"
+9,Chelsea,Napitupulu,M,50,napitupulu46,&ke8DrzYCd,chelsea.napitupulu@gmail.com,+62 (03) 833-1127,"Gang Setiabudhi No. 38
+Makassar, Kepulauan Bangka Belitung 43116"
+10,Drajat,Wasita,F,77,wasita813,(uMQfK#a7X,drajat.wasita@yahoo.com,+62 (937) 543-6039,"Gg. BKR No. 45
+Surabaya, GO 53992"
+11,Samsul,Mahendra,F,89,samsul179,+y#2*wIjN^,samsul.mahendra@hotmail.com,+62 (099) 267-3501,"Gang Yos Sudarso No. 497
+Makassar, JA 15155"
+12,Warsita,Tampubolon,F,59,tampubolon177,UYB%0AaR_*,warsita.tampubolon@yahoo.com,-5659,"Jl. Soekarno Hatta No. 76
+Probolinggo, GO 78201"
+13,Prasetyo,Tampubolon,F,49,prasetyo913,*Uj&sET5r0,prasetyo.tampubolon@yahoo.com,(0005) 403 4631,"Jalan Ahmad Yani No. 987
+Kediri, Papua Barat 65625"
+14,Kambali,Laksita,F,44,laksita101,#De6Bc+w3S,kambali.laksita@yahoo.com,+62 (038) 782-2560,"Jl. PHH. Mustofa No. 969
+Cimahi, Papua 30758"
+15,Asman,Prasetya,F,45,prasetya145,+6PO9bd5Iz,asman.prasetya@gmail.com,+62 (084) 386 9425,"Jl. Peta No. 724
+Surakarta, JK 19091"
+16,Dewi,Pudjiastuti,M,47,dewi689,h^Wb4Scssg,dewi.pudjiastuti@yahoo.com,+62 (06) 761 2850,"Jl. Suniaraja No. 5
+Prabumulih, SG 94683"
+17,Setya,Novitasari,F,83,setya416,5t9oSxcLj%,setya.novitasari@yahoo.com,-7687,"Jalan Sukajadi No. 648
+Surakarta, Nusa Tenggara Timur 36071"
+18,Himawan,Namaga,M,44,himawan941,_y(y2UTv5b,himawan.namaga@hotmail.com,+62 (060) 185-1700,"Jalan Jend. Sudirman No. 048
+Banjarbaru, KR 10031"
+19,Warta,Kusmawati,F,16,kusmawati384,qs@4GGuhS*,warta.kusmawati@gmail.com,+62 (62) 792-8859,"Jl. Ahmad Yani No. 329
+Binjai, Aceh 29549"
+20,Raditya,Wibisono,F,46,wibisono482,2hT1FaQk%Z,raditya.wibisono@gmail.com,(073) 817-6811,"Gg. Jamika No. 3
+Mojokerto, BB 46722"
+21,Luis,Saragih,F,43,saragih700,*$7C^yJQU4,luis.saragih@yahoo.com,083 214 2953,"Jalan Cihampelas No. 974
+Tomohon, JT 33219"
+22,Asirwada,Nurdiyanti,F,80,nurdiyanti258,ZWB#1PnPmD,asirwada.nurdiyanti@yahoo.com,+62 (0816) 930-6283,"Jl. Abdul Muis No. 29
+Padangpanjang, KI 33981"
+23,Luis,Rahimah,F,25,rahimah662,zy@Z+2RlOq,luis.rahimah@hotmail.com,+62 (027) 373 6023,"Jalan Antapani Lama No. 686
+Pontianak, RI 01943"
+24,Cager,Maryati,M,36,maryati134,_NMH%JsB$7,cager.maryati@hotmail.com,+62 (91) 136-3319,"Gg. Pasteur No. 848
+Jambi, SR 05261"
+25,Aswani,Zulaika,M,80,aswani918,n0M35Jcg!r,aswani.zulaika@yahoo.com,+62 (75) 166-9003,"Gang Laswi No. 272
+Lhokseumawe, KB 27617"
+26,Elon,Riyanti,F,34,elon210,n!5Wy@gII!,elon.riyanti@yahoo.com,-8592,"Jalan Joyoboyo No. 480
+Kota Administrasi Jakarta Pusat, BE 03871"
+27,Diah,Tamba,F,88,diah140,01JYVp*t(4,diah.tamba@yahoo.com,+62 (545) 379 6389,"Jalan Lembong No. 40
+Serang, Kepulauan Bangka Belitung 20484"
+28,Jumari,Dongoran,M,16,jumari610,mA1WLyHfm),jumari.dongoran@yahoo.com,(0782) 513-9511,"Jl. Medokan Ayu No. 963
+Purwokerto, JA 00018"
+29,Dagel,Maryadi,F,89,dagel484,1#$3ZpWvf4,dagel.maryadi@yahoo.com,(051) 262 0356,"Gg. Setiabudhi No. 42
+Bau-Bau, KS 80409"
+30,Karsa,Pudjiastuti,F,37,karsa538,f!I9EqMB+_,karsa.pudjiastuti@gmail.com,(0228) 058 5526,"Jl. PHH. Mustofa No. 621
+Sibolga, Riau 00874"
+31,Jamal,Prabowo,F,32,jamal771,#m9OiMYh%#,jamal.prabowo@yahoo.com,-9406,"Gang Suryakencana No. 284
+Bitung, Papua 82003"
+32,Jatmiko,Palastri,M,76,palastri317,J%%Z4BcF0E,jatmiko.palastri@yahoo.com,(0165) 838 2439,"Jl. Laswi No. 11
+Denpasar, KU 10925"
+33,Hafshah,Utami,F,22,hafshah811,hvj09SJz$%,hafshah.utami@yahoo.com,085 480 7847,"Gg. Jayawijaya No. 1
+Padangpanjang, Jawa Timur 53441"
+34,Ilsa,Novitasari,M,51,ilsa931,xX%4aB6c5k,ilsa.novitasari@gmail.com,-198,"Jl. Jamika No. 45
+Pekalongan, Lampung 85676"
+35,Shakila,Wijayanti,M,31,wijayanti937,W59+LiV*)d,shakila.wijayanti@gmail.com,885580417,"Jl. Peta No. 88
+Batam, SR 31575"
+36,Sabri,Rajata,F,89,sabri426,#ro4mLnR70,sabri.rajata@gmail.com,-1975,"Jl. Rajawali Barat No. 34
+Serang, SN 54736"
+37,Najam,Setiawan,M,77,setiawan133,li!8t7PiP%,najam.setiawan@yahoo.com,-4371,"Jalan Moch. Toha No. 13
+Meulaboh, NB 99429"
+38,Among,Mahendra,M,68,mahendra710,Z88DBm1$&&,among.mahendra@hotmail.com,-3547,"Jalan Moch. Toha No. 173
+Pasuruan, KR 84050"
+39,Putri,Firmansyah,F,52,firmansyah716,kp3!2NNa+$,putri.firmansyah@gmail.com,+62 (0505) 640-1968,"Jalan H.J Maemunah No. 7
+Jayapura, KR 11630"
+40,Atmaja,Purwanti,M,89,atmaja566,c7(QFb(E^6,atmaja.purwanti@hotmail.com,-4654,"Gang Erlangga No. 577
+Kendari, Lampung 38828"
+41,Cahya,Haryanti,F,45,haryanti209,X@3Zs%foWI,cahya.haryanti@gmail.com,-8639,"Jalan Tebet Barat Dalam No. 4
+Bengkulu, Sulawesi Tenggara 61921"
+42,Nadia,Lailasari,M,32,lailasari800,#NAME?,nadia.lailasari@hotmail.com,(015) 001-0030,"Jl. Dipatiukur No. 160
+Kediri, Sumatera Utara 93353"
+43,Salimah,Marpaung,M,33,salimah736,F#(8EDSuD(,salimah.marpaung@gmail.com,+62 (0561) 131-6797,"Jl. Gegerkalong Hilir No. 5
+Balikpapan, KU 91648"
+44,Janet,Aryani,M,56,aryani501,$0dZ!U)z9*,janet.aryani@gmail.com,-7457,"Jalan Dipatiukur No. 685
+Tual, AC 76762"
+45,Lasmono,Marpaung,F,50,lasmono351,L$#5BX8U3m,lasmono.marpaung@gmail.com,-3967,"Gang Suniaraja No. 6
+Blitar, Gorontalo 67629"
+46,Ridwan,Rahimah,F,31,ridwan892,2jU3BkhE%p,ridwan.rahimah@gmail.com,(061) 229-8147,"Jl. Dr. Djunjunan No. 47
+Mataram, BA 40666"
+47,Bagas,Thamrin,M,21,bagas922,*(6BwwQG@c,bagas.thamrin@yahoo.com,846407425,"Gg. Cempaka No. 042
+Jayapura, KU 66986"
+48,Himawan,Nurdiyanti,M,51,himawan384,c!O5N2hKbY,himawan.nurdiyanti@hotmail.com,-6473,"Gang Pelajar Pejuang No. 10
+Tidore Kepulauan, SU 11808"
+49,Raden,Widiastuti,M,52,widiastuti912,!j%Lf2Tb0q,raden.widiastuti@yahoo.com,895788434,"Gang Rawamangun No. 27
+Manado, NT 47993"
+50,Galak,Wahyuni,M,87,wahyuni64,y$0_2Qr2xc,galak.wahyuni@yahoo.com,+62 (08) 197 4592,"Jl. Pacuan Kuda No. 2
+Jayapura, Maluku 15819"
+51,Lamar,Usamah,F,56,usamah251,!m64CP2i%(,lamar.usamah@hotmail.com,+62 (0733) 366 9480,"Jl. BKR No. 01
+Pangkalpinang, Bali 90791"
+52,Galak,Thamrin,M,37,thamrin74,+V8C0Tbi@v,galak.thamrin@yahoo.com,(0578) 838-1622,"Gang Moch. Ramdan No. 547
+Bengkulu, SN 28202"
+53,Yance,Wijaya,F,21,yance237,(qU+Xi^at6,yance.wijaya@gmail.com,811023937,"Jl. Laswi No. 222
+Sawahlunto, GO 59220"
+54,Mila,Iswahyudi,M,87,mila134,#48Y5&N)ow,mila.iswahyudi@gmail.com,+62 (0985) 501-2028,"Jalan Sukabumi No. 604
+Salatiga, Aceh 95206"
+55,Dodo,Narpati,M,55,dodo669,m21C6Tcz4@,dodo.narpati@hotmail.com,-7627,"Gg. Erlangga No. 73
+Kotamobagu, SU 10273"
+56,Aslijan,Iswahyudi,F,72,iswahyudi453,5BBnOt9e_@,aslijan.iswahyudi@gmail.com,-3645,"Jl. Cempaka No. 591
+Depok, Maluku Utara 93161"
+57,Cahyo,Padmasari,M,51,padmasari185,D98JC3On&c,cahyo.padmasari@hotmail.com,881360518,"Gg. Kiaracondong No. 1
+Gorontalo, KI 80215"
+58,Harsanto,Salahudin,F,77,harsanto537,#KBFB6Cc+0,harsanto.salahudin@gmail.com,+62 (013) 436 3289,"Gang Monginsidi No. 340
+Tual, RI 30399"
+59,Gara,Uwais,F,42,gara941,*0O0l4uK+3,gara.uwais@hotmail.com,+62 (038) 602-5154,"Gang Surapati No. 558
+Pagaralam, SN 36495"
+60,Opung,Suwarno,F,23,suwarno462,_C23$JCfMJ,opung.suwarno@hotmail.com,+62 (0859) 790 5294,"Gg. Kendalsari No. 581
+Bima, Nusa Tenggara Timur 50253"
+61,Mitra,Siregar,M,56,mitra635,%6TTscdWT7,mitra.siregar@hotmail.com,865394866,"Gg. Kutisari Selatan No. 1
+Banjarbaru, Sulawesi Selatan 09160"
+62,Wahyu,Yuniar,F,60,yuniar302,#V(5UEbFVr,wahyu.yuniar@hotmail.com,+62 (013) 251 5758,"Gang Pelajar Pejuang No. 25
+Kota Administrasi Jakarta Selatan, PA 91749"
+63,Kezia,Firmansyah,F,68,kezia182,R2PPNC7e_N,kezia.firmansyah@hotmail.com,+62 (0696) 046-4497,"Gg. Ahmad Yani No. 832
+Manado, Jawa Barat 39001"
+64,Cayadi,Pratiwi,M,57,cayadi824,U%37EmaThQ,cayadi.pratiwi@yahoo.com,(023) 009-5157,"Jl. Yos Sudarso No. 80
+Purwokerto, KI 36604"
+65,Bakijan,Siregar,M,51,bakijan222,U(j9xN5a$A,bakijan.siregar@hotmail.com,+62 (076) 178-7430,"Jl. Setiabudhi No. 543
+Kendari, Sulawesi Tenggara 52565"
+66,Kawaya,Wacana,F,18,kawaya652,@2MPfnIS#o,kawaya.wacana@hotmail.com,+62 (0113) 156 4073,"Gang Tebet Barat Dalam No. 2
+Metro, KU 82517"
+67,Bagas,Astuti,F,84,bagas111,jV67MRiw%_,bagas.astuti@gmail.com,-9766,"Gang Otto Iskandardinata No. 6
+Ambon, Papua Barat 49599"
+68,Yance,Winarsih,F,22,winarsih268,*z99kUiI&%,yance.winarsih@gmail.com,-9044,"Gang Jakarta No. 9
+Bengkulu, Nusa Tenggara Barat 49246"
+69,Gamblang,Puspasari,F,69,gamblang509,_0^hTH(9+g,gamblang.puspasari@yahoo.com,+62 (75) 841 8409,"Jalan Cikapayang No. 0
+Bukittinggi, SB 88722"
+70,Intan,Kurniawan,F,67,intan828,PY6sDBDx%l,intan.kurniawan@hotmail.com,+62 (016) 028-9698,"Jalan Kutai No. 24
+Bima, MU 98631"
+71,Bagiya,Novitasari,F,35,novitasari897,eZ56)MEi@N,bagiya.novitasari@gmail.com,+62 (59) 832-6344,"Gang Kiaracondong No. 7
+Tanjungbalai, YO 74471"
+72,Hana,Natsir,M,63,hana804,n#1Q&NZkMu,hana.natsir@hotmail.com,-1854,"Jalan Kiaracondong No. 879
+Padang Sidempuan, Jawa Tengah 35972"
+73,Catur,Hastuti,M,17,catur870,N7+CDfOW)W,catur.hastuti@hotmail.com,+62 (296) 256 0922,"Jl. Joyoboyo No. 961
+Lubuklinggau, Nusa Tenggara Timur 31837"
+74,Aditya,Wijaya,M,69,wijaya562,PZGWZamt(6,aditya.wijaya@yahoo.com,-9105,"Jl. W.R. Supratman No. 878
+Kota Administrasi Jakarta Selatan, Kalimantan Barat 11075"
+75,Eja,Usamah,F,37,eja127,zmr^5R)pO%,eja.usamah@yahoo.com,+62 (0652) 428-2370,"Gang Surapati No. 59
+Medan, Sulawesi Utara 48732"
+76,Raisa,Wastuti,F,76,wastuti842,S%4B$wqe14,raisa.wastuti@yahoo.com,+62 (0459) 737 6432,"Jalan Moch. Ramdan No. 42
+Singkawang, JT 31390"
+77,Kadir,Mayasari,M,22,kadir133,o4KODdSo#g,kadir.mayasari@hotmail.com,-9291,"Jl. Pacuan Kuda No. 28
+Cirebon, BB 67790"
+78,Hairyanto,Palastri,M,48,hairyanto449,+U4LSi4W8@,hairyanto.palastri@hotmail.com,+62 (0518) 716 0114,"Jalan Otto Iskandardinata No. 2
+Prabumulih, Sulawesi Tenggara 24646"
+79,Nalar,Nugroho,M,79,nugroho324,V#)3THwYPS,nalar.nugroho@hotmail.com,+62 (0385) 853 2477,"Jl. Ahmad Dahlan No. 5
+Bitung, Sulawesi Tenggara 59739"
+80,Yance,Wibisono,M,31,wibisono337,21R!P_v#*L,yance.wibisono@yahoo.com,+62 (046) 554 6411,"Jalan Sadang Serang No. 3
+Manado, Sulawesi Selatan 80857"
+81,Salman,Rahayu,F,39,rahayu315,0+4L0MBxTj,salman.rahayu@hotmail.com,+62 (004) 865 1127,"Jl. Yos Sudarso No. 08
+Palangkaraya, JA 75150"
+82,Jumadi,Irawan,M,61,irawan975,12qeXogz#E,jumadi.irawan@hotmail.com,(079) 102 2160,"Jalan Pelajar Pejuang No. 575
+Tebingtinggi, KI 50340"
+83,Sidiq,Hartati,M,66,hartati507,8y$lZKat$4,sidiq.hartati@yahoo.com,-5883,"Gg. Rajawali Timur No. 823
+Magelang, JT 91281"
+84,Puspa,Nugroho,M,27,puspa247,@RV4sQcbj3,puspa.nugroho@yahoo.com,(084) 845 3801,"Gang Kapten Muslihat No. 52
+Probolinggo, Kepulauan Riau 47494"
+85,Ade,Jailani,F,79,jailani673,4h_Xn#HU^A,ade.jailani@yahoo.com,-1337,"Jalan Abdul Muis No. 556
+Surakarta, Jawa Barat 29495"
+86,Makara,Siregar,F,20,siregar737,a2#6XuHxkv,makara.siregar@hotmail.com,+62 (081) 294 5324,"Gang H.J Maemunah No. 479
+Pekalongan, ST 98498"
+87,Amelia,Budiman,F,42,budiman551,BqT^8Hp!0f,amelia.budiman@gmail.com,089 087 5972,"Gang H.J Maemunah No. 608
+Kotamobagu, ST 74185"
+88,Raina,Maryati,M,67,raina911,_ZAkrm44$0,raina.maryati@hotmail.com,(0211) 017-5607,"Jl. Rajawali Timur No. 340
+Samarinda, BE 00034"
+89,Cemplunk,Samosir,M,28,cemplunk137,R4Uri1CcI#,cemplunk.samosir@hotmail.com,+62 (0432) 353-4464,"Jl. Dr. Djunjunan No. 2
+Tarakan, Jawa Barat 43165"
+90,Sabri,Wibowo,F,86,wibowo707,)7eFVfeFA7,sabri.wibowo@hotmail.com,(0475) 873 1839,"Jalan Pasirkoja No. 3
+Binjai, KB 59245"
+91,Kasiran,Salahudin,M,54,salahudin473,88!JqU&v#Q,kasiran.salahudin@gmail.com,+62 (31) 883 9606,"Gang PHH. Mustofa No. 9
+Pekanbaru, Maluku 61630"
+92,Najwa,Farida,M,39,najwa38,+Mc$o7Cdw),najwa.farida@yahoo.com,(068) 126 9370,"Jalan Sadang Serang No. 81
+Serang, Bengkulu 72706"
+93,Rafid,Hasanah,M,59,hasanah628,G_0aJih%Ns,rafid.hasanah@gmail.com,+62 (0573) 084-0209,"Gg. Pasteur No. 73
+Tidore Kepulauan, Maluku Utara 34814"
+94,Putri,Wacana,M,35,wacana491,n_2JzQSr9W,putri.wacana@yahoo.com,-2276,"Jalan Cikapayang No. 6
+Kota Administrasi Jakarta Timur, KR 36985"
+95,Dalimin,Mustofa,M,84,mustofa285,_0e1_Eoe$N,dalimin.mustofa@hotmail.com,+62 (053) 356-9904,"Jl. Indragiri No. 6
+Bandung, Kalimantan Tengah 99942"
+96,Jarwa,Dabukke,F,53,jarwa996,z1VUqINB)i,jarwa.dabukke@hotmail.com,+62 (0026) 947-9845,"Jl. Raya Setiabudhi No. 964
+Parepare, KI 85733"
+97,Asmianto,Lestari,M,56,asmianto200,MI71oYqRj$,asmianto.lestari@yahoo.com,(046) 001-0665,"Jl. Otto Iskandardinata No. 32
+Bandar Lampung, Sumatera Utara 25393"
+98,Leo,Saputra,F,56,leo632,xoBr0D@g*@,leo.saputra@gmail.com,+62 (072) 088-3755,"Jl. Rajiman No. 8
+Kupang, AC 04760"
+99,Wani,Suwarno,F,70,suwarno226,nWOBbxTe*4,wani.suwarno@gmail.com,-7195,"Jl. Rawamangun No. 372
+Yogyakarta, BB 42779"
+100,Gamani,Purwanti,F,52,purwanti454,_3Lmii+U)1,gamani.purwanti@hotmail.com,(0044) 706-4999,"Gang Pasirkoja No. 86
+Tebingtinggi, Sulawesi Tenggara 17590"
+101,Jamil,Haryanti,M,50,haryanti217,T*94Lz59I1,jamil.haryanti@gmail.com,(0429) 220-2920,"Jalan Pasir Koja No. 0
+Madiun, JT 17098"
+102,Tami,Wahyuni,M,80,wahyuni569,qNq3AwhB(S,tami.wahyuni@yahoo.com,086 216 5221,"Jalan Rajawali Timur No. 40
+Samarinda, BA 38195"
+103,Ella,Prayoga,M,80,prayoga245,%7Nmm@*O3q,ella.prayoga@hotmail.com,-7465,"Gg. BKR No. 164
+Mataram, JK 35044"
+104,Citra,Gunawan,M,46,citra956,(D4%Gl!PjR,citra.gunawan@yahoo.com,-10501,"Jl. Gegerkalong Hilir No. 1
+Tarakan, Papua Barat 82649"
+105,Darman,Permadi,M,78,permadi685,KyU%kJg%@5,darman.permadi@gmail.com,+62 (015) 643 4414,"Jalan M.H Thamrin No. 12
+Cilegon, KI 19721"
+106,Gaiman,Permadi,F,73,permadi242,6S90_5Wud^,gaiman.permadi@hotmail.com,(002) 941 8249,"Jalan Cikapayang No. 760
+Kediri, SG 41664"
+107,Yoga,Nurdiyanti,M,25,yoga154,u3P5AbYv)p,yoga.nurdiyanti@hotmail.com,840143256,"Jalan Pelajar Pejuang No. 84
+Lubuklinggau, PA 72193"
+108,Cahya,Siregar,F,23,siregar803,B^9e9cCXGe,cahya.siregar@hotmail.com,808299849,"Gang Dr. Djunjunan No. 047
+Tangerang Selatan, Maluku Utara 67251"
+109,Galar,Aryani,M,30,galar126,n_44RhGLpj,galar.aryani@yahoo.com,+62 (91) 354-6990,"Jalan K.H. Wahid Hasyim No. 925
+Tasikmalaya, MU 00688"
+110,Sakura,Suartini,F,55,suartini873,_0Z_OnMK#6,sakura.suartini@yahoo.com,+62 (0807) 132 0440,"Gang Tebet Barat Dalam No. 2
+Bukittinggi, DKI Jakarta 35867"
+111,Nasab,Uwais,F,75,nasab651,N9)Mnrqn+9,nasab.uwais@gmail.com,+62 (56) 397 6815,"Jl. Pacuan Kuda No. 2
+Tangerang, JB 23913"
+112,Jane,Adriansyah,F,84,jane658,FDRBK4a&(1,jane.adriansyah@yahoo.com,-7727,"Jl. KH Amin Jasuta No. 816
+Bogor, Sulawesi Tenggara 41082"
+113,Banawi,Samosir,F,82,banawi102,Y4@PKkwd+p,banawi.samosir@hotmail.com,+62 (065) 914-3048,"Gang Cikutra Timur No. 826
+Kendari, RI 21216"
+114,Edi,Saputra,F,70,edi795,e%!82IRt$F,edi.saputra@gmail.com,+62 (622) 790 6710,"Gg. M.H Thamrin No. 3
+Meulaboh, Sulawesi Tenggara 06545"
+115,Ami,Kusumo,M,84,ami659,Lb&1_SbISU,ami.kusumo@hotmail.com,-1928,"Gang Kutisari Selatan No. 269
+Semarang, GO 29088"
+116,Arsipatra,Siregar,F,66,arsipatra725,(qE3(Hgajs,arsipatra.siregar@hotmail.com,+62 (0472) 526 9066,"Gang HOS. Cokroaminoto No. 1
+Bau-Bau, KS 70076"
+117,Akarsana,Andriani,M,89,akarsana672,7zYZCPHl@m,akarsana.andriani@gmail.com,+62 (0381) 988 0222,"Jl. Ahmad Yani No. 171
+Bekasi, KB 51780"
+118,Jayeng,Firgantoro,M,48,jayeng64,G$0Q01qDeu,jayeng.firgantoro@yahoo.com,+62 (90) 340 4578,"Jl. PHH. Mustofa No. 9
+Tanjungbalai, KT 49594"
+119,Aisyah,Gunarto,F,77,gunarto798,&APgBb!oU6,aisyah.gunarto@yahoo.com,(0548) 596 7397,"Gg. PHH. Mustofa No. 5
+Depok, MA 24197"
+120,Kayun,Rahimah,F,72,kayun441,^8vMtYZbHn,kayun.rahimah@hotmail.com,(085) 596-5399,"Jalan Merdeka No. 950
+Singkawang, Kepulauan Bangka Belitung 32028"
+121,Tomi,Palastri,F,84,palastri749,u*3Ix#oy#C,tomi.palastri@hotmail.com,(055) 381-2523,"Gg. M.T Haryono No. 27
+Tarakan, Lampung 42123"
+122,Kariman,Uyainah,M,54,uyainah318,4JaESlMA@g,kariman.uyainah@hotmail.com,+62 (022) 051-7217,"Gang Rajawali Timur No. 813
+Tidore Kepulauan, SS 13790"
+123,Raihan,Manullang,M,55,manullang588,*Vt8BYu@zw,raihan.manullang@gmail.com,-6538,"Gang Asia Afrika No. 761
+Prabumulih, Lampung 05372"
+124,Dadap,Dabukke,F,21,dadap14,o++@%3Kp&X,dadap.dabukke@hotmail.com,+62 (79) 049-8925,"Jalan Moch. Ramdan No. 4
+Padang Sidempuan, Maluku Utara 78178"
+125,Karma,Permata,M,69,permata859,8p(5TsEedv,karma.permata@hotmail.com,(077) 975-0741,"Jalan Pacuan Kuda No. 6
+Palembang, Kalimantan Tengah 98238"
+126,Najam,Sirait,M,46,sirait335,%fqWGj2m$1,najam.sirait@hotmail.com,+62 (0107) 596 6481,"Gg. R.E Martadinata No. 50
+Pekanbaru, JI 58621"
+127,Maman,Kuswoyo,M,86,kuswoyo505,A7YDacRi^),maman.kuswoyo@hotmail.com,+62 (953) 775-6085,"Gg. Sukabumi No. 07
+Bukittinggi, DI Yogyakarta 23116"
+128,Cengkal,Zulaika,F,38,cengkal425,uU8%MrMf+q,cengkal.zulaika@yahoo.com,080 473 9733,"Gg. Monginsidi No. 59
+Tanjungbalai, Banten 23444"
+129,Okta,Natsir,M,79,okta821,VCk1GpE4D+,okta.natsir@yahoo.com,(027) 041-8962,"Jalan Cikapayang No. 0
+Purwokerto, JT 03477"
+130,Oman,Rajasa,F,69,oman556,_u6Z&8zdHy,oman.rajasa@yahoo.com,+62 (67) 746 0110,"Jalan Pasteur No. 8
+Binjai, KT 97200"
+131,Kayla,Suryatmi,M,16,kayla349,Z#6IINZ5Mj,kayla.suryatmi@hotmail.com,+62 (002) 396 0668,"Gg. Rajawali Timur No. 15
+Tebingtinggi, Bali 41129"
+132,Syahrini,Halim,M,27,syahrini558,zsdKP7Hp4@,syahrini.halim@yahoo.com,(017) 761 8587,"Gang Kebonjati No. 2
+Langsa, Jawa Timur 48586"
+133,Lembah,Hasanah,F,76,lembah15,7&p7AHZd*8,lembah.hasanah@yahoo.com,+62 (001) 874-2773,"Jl. Kapten Muslihat No. 196
+Surabaya, Bali 41907"
+134,Ratna,Hutasoit,M,27,hutasoit648,*jGY9Eoe4b,ratna.hutasoit@yahoo.com,-10093,"Gang Tubagus Ismail No. 8
+Batam, KU 67270"
+135,Uli,Tarihoran,F,79,tarihoran840,)$X6FeXrMn,uli.tarihoran@yahoo.com,082 491 7497,"Gang R.E Martadinata No. 2
+Kota Administrasi Jakarta Pusat, BE 43412"
+136,Zizi,Hidayanto,M,57,zizi509,t+y4)6Nn8(,zizi.hidayanto@gmail.com,+62 (0044) 821-3198,"Jalan Moch. Ramdan No. 173
+Payakumbuh, Sumatera Utara 52401"
+137,Najwa,Halimah,F,65,halimah759,^ZWtf1ew9@,najwa.halimah@yahoo.com,(050) 003-0549,"Jl. Waringin No. 828
+Blitar, Papua Barat 96747"
+138,Ganjaran,Hutagalung,F,18,ganjaran52,@9SWddX0^W,ganjaran.hutagalung@gmail.com,+62 (246) 541-4132,"Jalan Ahmad Yani No. 29
+Bekasi, Sulawesi Tengah 52097"
+139,Lulut,Pratama,M,63,pratama514,()6+RRmiu8,lulut.pratama@hotmail.com,-1832,"Jl. Jakarta No. 234
+Salatiga, Lampung 42377"
+140,Hasta,Hasanah,F,50,hasta770,$6BUg5O^4P,hasta.hasanah@hotmail.com,-1615,"Gang S. Parman No. 016
+Bogor, Sulawesi Tengah 19629"
+141,Hendri,Mahendra,M,78,mahendra454,g%82JMDv^%,hendri.mahendra@gmail.com,+62 (0987) 618-6326,"Jalan Jamika No. 32
+Kota Administrasi Jakarta Barat, NT 64443"
+142,Darmanto,Adriansyah,F,15,adriansyah1,^PrLvXsb56,darmanto.adriansyah@gmail.com,(050) 545-7284,"Jalan Moch. Toha No. 1
+Payakumbuh, Sulawesi Barat 74939"
+143,Paiman,Sitorus,F,84,sitorus790,^$F5vASa8H,paiman.sitorus@gmail.com,(028) 789-8078,"Jl. S. Parman No. 565
+Sorong, BT 22721"
+144,Embuh,Pangestu,F,52,embuh371,PNYTt7FlN),embuh.pangestu@hotmail.com,-2693,"Jl. Pasir Koja No. 130
+Palu, Nusa Tenggara Barat 07778"
+145,Unggul,Nashiruddin,M,44,unggul204,#XP4udaY0h,unggul.nashiruddin@yahoo.com,+62 (25) 200 7422,"Jl. K.H. Wahid Hasyim No. 2
+Solok, KT 58820"
+146,Gawati,Ardianto,M,73,gawati912,+0oCUctgJK,gawati.ardianto@hotmail.com,+62 (0688) 960-4010,"Jl. Stasiun Wonokromo No. 370
+Pontianak, Lampung 57346"
+147,Cici,Nasyidah,F,66,nasyidah508,eRBKdzL9)0,cici.nasyidah@hotmail.com,-7662,"Jalan Medokan Ayu No. 12
+Yogyakarta, Kalimantan Tengah 60620"
+148,Uli,Novitasari,M,72,novitasari773,*a&61Su(Y@,uli.novitasari@gmail.com,+62 (38) 435 5119,"Gg. Merdeka No. 493
+Padangpanjang, Sumatera Barat 91265"
+149,Kasim,Tamba,M,42,tamba154,_S3O5WskT),kasim.tamba@yahoo.com,(0013) 494-3190,"Jl. Ahmad Dahlan No. 462
+Tanjungpinang, Maluku 34883"
+150,Keisha,Lazuardi,M,63,lazuardi476,v0TOV9P9+i,keisha.lazuardi@gmail.com,+62 (094) 258 2583,"Jalan Sukajadi No. 590
+Langsa, JT 85760"
+151,Enteng,Marbun,M,68,marbun927,jg3TOcti#%,enteng.marbun@yahoo.com,851346295,"Gg. Ahmad Yani No. 6
+Langsa, Riau 55332"
+152,Prayogo,Suwarno,F,78,suwarno337,h4fat&Ev#A,prayogo.suwarno@hotmail.com,(0414) 443-3357,"Gg. Kutisari Selatan No. 443
+Lubuklinggau, Lampung 26800"
+153,Cager,Prasasta,F,38,cager334,l4@g7V*f7f,cager.prasasta@gmail.com,-2934,"Jl. W.R. Supratman No. 290
+Surakarta, Bengkulu 87706"
+154,Jumadi,Napitupulu,M,69,napitupulu74,E%9R1PSuJJ,jumadi.napitupulu@gmail.com,-4554,"Gang Pelajar Pejuang No. 83
+Kota Administrasi Jakarta Selatan, DKI Jakarta 91445"
+155,Ibrahim,Zulaika,M,25,ibrahim926,Wck1vH53)1,ibrahim.zulaika@hotmail.com,+62 (007) 875 2326,"Jl. S. Parman No. 2
+Kota Administrasi Jakarta Selatan, JB 00002"
+156,Slamet,Hutagalung,M,39,slamet544,)(FYBOMo9b,slamet.hutagalung@yahoo.com,(0692) 075-2093,"Jl. Ciwastra No. 58
+Medan, AC 33352"
+157,Kasiyah,Farida,F,41,kasiyah434,_2VV*nbSTv,kasiyah.farida@yahoo.com,890062508,"Gg. Ciumbuleuit No. 058
+Sibolga, Jawa Barat 49341"
+158,Juli,Prayoga,M,29,prayoga332,Gv182sGz)#,juli.prayoga@yahoo.com,+62 (091) 792 1269,"Gg. Cikapayang No. 978
+Padang, SS 69970"
+159,Tantri,Wahyuni,F,39,tantri614,_Pe2)9Mc#),tantri.wahyuni@gmail.com,+62 (95) 763-2288,"Gg. Asia Afrika No. 926
+Sungai Penuh, Maluku 23254"
+160,Samiah,Hardiansyah,F,45,hardiansyah733,SW6P@XRm&v,samiah.hardiansyah@hotmail.com,-2031,"Jalan Yos Sudarso No. 7
+Kota Administrasi Jakarta Utara, Sumatera Selatan 17157"
+161,Aisyah,Mangunsong,F,65,mangunsong408,c8ge#XBS(5,aisyah.mangunsong@gmail.com,-1830,"Gang W.R. Supratman No. 4
+Metro, Sulawesi Tengah 87873"
+162,Mutia,Namaga,F,63,namaga750,)gI11Kp9hY,mutia.namaga@gmail.com,+62 (09) 430-1977,"Jalan Jamika No. 051
+Padangpanjang, MA 13471"
+163,Samsul,Pradana,F,73,pradana960,1ft5aqKg(e,samsul.pradana@gmail.com,+62 (041) 438-5882,"Jalan M.H Thamrin No. 754
+Tangerang Selatan, JK 39474"
+164,Kamal,Purnawati,M,42,kamal996,ZAE^6XtP@L,kamal.purnawati@hotmail.com,+62 (86) 627 8334,"Gang Cihampelas No. 0
+Singkawang, Kalimantan Utara 48862"
+165,Endah,Permata,M,54,endah748,l#B9Jhfjrl,endah.permata@hotmail.com,+62 (92) 817 0502,"Jalan Medokan Ayu No. 820
+Malang, SB 96652"
+166,Laras,Uwais,M,48,laras772,3(56kCm#m4,laras.uwais@hotmail.com,-8959,"Gg. Setiabudhi No. 70
+Bontang, NB 93109"
+167,Gilang,Nasyidah,F,31,nasyidah92,D^57LHhAY%,gilang.nasyidah@hotmail.com,+62 (50) 894-0143,"Gg. Pasir Koja No. 733
+Metro, KT 98815"
+168,Diana,Nainggolan,F,22,nainggolan885,eGG0laMfV$,diana.nainggolan@hotmail.com,852737605,"Gg. Monginsidi No. 062
+Sungai Penuh, Papua Barat 26968"
+169,Asman,Purnawati,M,20,asman276,#vX(c2TogB,asman.purnawati@hotmail.com,-5851,"Jl. Astana Anyar No. 3
+Kota Administrasi Jakarta Utara, PA 01728"
+170,Hendra,Padmasari,M,20,padmasari939,!$tq2Cs!mC,hendra.padmasari@yahoo.com,+62 (063) 170 9006,"Gg. Pasteur No. 93
+Serang, KR 25194"
+171,Harimurti,Waskita,M,63,waskita509,1s6YPBnun!,harimurti.waskita@gmail.com,+62 (91) 246-9707,"Gang Tebet Barat Dalam No. 83
+Pangkalpinang, LA 89274"
+172,Zalindra,Uyainah,M,51,uyainah164,0%)6UTuntf,zalindra.uyainah@gmail.com,083 659 8242,"Jalan Surapati No. 861
+Payakumbuh, Sulawesi Barat 22420"
+173,Lasmanto,Napitupulu,F,85,napitupulu216,x_2^Z2Le5c,lasmanto.napitupulu@yahoo.com,(0600) 864-5237,"Gg. Rumah Sakit No. 907
+Malang, SU 83935"
+174,Cahyadi,Wacana,F,26,wacana96,j!o8MOEa^@,cahyadi.wacana@hotmail.com,087 905 6280,"Gang Raya Ujungberung No. 2
+Cirebon, ST 59857"
+175,Sadina,Habibi,M,89,habibi380,0c99AEdI7(,sadina.habibi@yahoo.com,-2585,"Gg. Pasteur No. 591
+Banjarbaru, Kalimantan Barat 62070"
+176,Daliman,Permata,F,53,daliman914,4#&)52Sb7r,daliman.permata@yahoo.com,+62 (069) 578 8757,"Jalan Stasiun Wonokromo No. 5
+Tanjungpinang, SU 43265"
+177,Sabar,Kurniawan,M,59,kurniawan390,$#R31nyp$3,sabar.kurniawan@gmail.com,(066) 785 8841,"Gang Jakarta No. 82
+Tarakan, KB 85920"
+178,Elma,Utama,F,29,utama821,Fi%#^5Vdb3,elma.utama@gmail.com,-5519,"Jl. Medokan Ayu No. 10
+Bekasi, MU 47762"
+179,Ellis,Suryatmi,F,29,ellis859,BA+6W)Heu*,ellis.suryatmi@hotmail.com,(0575) 732-8302,"Jalan Moch. Toha No. 05
+Pematangsiantar, Bengkulu 64466"
+180,Jamil,Utama,F,70,jamil583,2)i8Bmc8rQ,jamil.utama@gmail.com,(085) 949-6135,"Gg. K.H. Wahid Hasyim No. 6
+Kotamobagu, GO 67165"
+181,Raihan,Handayani,M,55,handayani561,Glk6#0Fl#$,raihan.handayani@gmail.com,-9087,"Gang Tebet Barat Dalam No. 82
+Padangpanjang, Jawa Tengah 30280"
+182,Bakidin,Suryono,F,27,bakidin1,*HNRmXukB4,bakidin.suryono@gmail.com,-828,"Jalan Jend. Sudirman No. 68
+Tangerang, SU 41532"
+183,Dewi,Ramadan,F,63,dewi587,bVa(2^Vxm*,dewi.ramadan@gmail.com,(026) 263 7994,"Gang Sukajadi No. 429
+Salatiga, KB 28925"
+184,Wulan,Damanik,M,43,wulan743,u*i5D6PcDp,wulan.damanik@hotmail.com,(0688) 680-8243,"Gg. HOS. Cokroaminoto No. 83
+Surakarta, JA 59758"
+185,Teddy,Kurniawan,M,42,kurniawan608,!2L9fyu)yQ,teddy.kurniawan@gmail.com,-8059,"Gang Raya Ujungberung No. 492
+Salatiga, KU 27565"
+186,Lurhur,Irawan,F,29,lurhur995,&&l8AxfQ53,lurhur.irawan@gmail.com,(022) 606 4630,"Jalan Raya Setiabudhi No. 77
+Jambi, Sulawesi Barat 23375"
+187,Karsana,Usamah,M,57,usamah176,2rIMb!ZL(4,karsana.usamah@hotmail.com,086 896 9486,"Jalan Abdul Muis No. 84
+Bekasi, Kalimantan Utara 73450"
+188,Jarwadi,Winarsih,F,27,jarwadi38,UlPM@Uaq&4,jarwadi.winarsih@gmail.com,-111,"Gg. Laswi No. 7
+Banjarbaru, DKI Jakarta 44016"
+189,Jamal,Rahmawati,F,49,rahmawati422,LG1ZKwXn$0,jamal.rahmawati@yahoo.com,875670740,"Gg. Cikutra Timur No. 744
+Tangerang, Bali 08978"
+190,Vicky,Haryanti,F,16,haryanti662,@@q0yRfVjB,vicky.haryanti@yahoo.com,877642031,"Jalan M.T Haryono No. 53
+Tanjungpinang, SN 19298"
+191,Rosman,Situmorang,M,35,situmorang188,Z*I9AekoXQ,rosman.situmorang@hotmail.com,-10933,"Gang Veteran No. 6
+Padang Sidempuan, NT 83522"
+192,Cahya,Ardianto,M,76,ardianto993,%FV@RnICj8,cahya.ardianto@yahoo.com,(004) 664-9439,"Gg. Abdul Muis No. 8
+Kediri, NB 27905"
+193,Sabri,Astuti,F,27,sabri73,d!1UClVRhN,sabri.astuti@yahoo.com,(082) 695-9143,"Gg. Jakarta No. 807
+Metro, Nusa Tenggara Timur 59041"
+194,Bakidin,Budiman,F,39,budiman540,k9$CbcwJ@x,bakidin.budiman@hotmail.com,(0572) 322-7042,"Jl. Ciumbuleuit No. 8
+Bandung, SG 23693"
+195,Wardaya,Yulianti,M,27,wardaya831,)DCWn45Lz8,wardaya.yulianti@hotmail.com,+62 (037) 987-6221,"Jalan KH Amin Jasuta No. 3
+Surabaya, Bali 13620"
+196,Nurul,Kusmawati,F,29,kusmawati736,g7fkQ7X1+4,nurul.kusmawati@hotmail.com,+62 (25) 580 8810,"Jl. Gedebage Selatan No. 702
+Malang, Kalimantan Barat 07330"
+197,Okta,Nasyiah,F,16,okta817,*ZG5Vy@h6l,okta.nasyiah@gmail.com,+62 (883) 361-2402,"Jl. Dipenogoro No. 53
+Padang Sidempuan, Kalimantan Selatan 87152"
+198,Mujur,Maulana,M,56,maulana457,694DkGQk@f,mujur.maulana@yahoo.com,(063) 344-1449,"Jl. Jamika No. 87
+Jayapura, Gorontalo 29130"
+199,Oni,Ardianto,F,35,ardianto116,r4PRn7C6+t,oni.ardianto@hotmail.com,-2320,"Jl. Raya Ujungberung No. 322
+Banjar, BT 25186"
+200,Tami,Mandasari,F,30,tami888,wW(24ByF^),tami.mandasari@yahoo.com,(029) 075 7498,"Jalan K.H. Wahid Hasyim No. 00
+Dumai, SB 87314"
+201,Tira,Gunawan,M,71,tira104,J*GUN4EsPg,tira.gunawan@yahoo.com,+62 (40) 910 3865,"Jl. PHH. Mustofa No. 23
+Jayapura, Lampung 79671"
+202,Hartaka,Uwais,F,80,uwais959,x%RNQgv2@4,hartaka.uwais@hotmail.com,+62 (229) 900 7001,"Jalan Raya Ujungberung No. 942
+Depok, Kalimantan Timur 73445"
+203,Bakiono,Prayoga,F,76,prayoga926,$r)ShclP4+,bakiono.prayoga@gmail.com,-11087,"Jl. Antapani Lama No. 8
+Samarinda, Sulawesi Tengah 59695"
+204,Sadina,Wibowo,M,21,sadina782,3#O5Ho_d$9,sadina.wibowo@hotmail.com,+62 (0976) 902-2668,"Jalan Gegerkalong Hilir No. 9
+Sibolga, KR 53129"
+205,Leo,Mulyani,M,53,mulyani101,^6($)aX45j,leo.mulyani@yahoo.com,+62 (365) 102-1767,"Gg. Sentot Alibasa No. 5
+Payakumbuh, Kepulauan Bangka Belitung 23687"
+206,Rahmi,Pratiwi,M,15,rahmi240,Ys$2Tc6MKo,rahmi.pratiwi@gmail.com,(078) 550 4187,"Jalan H.J Maemunah No. 83
+Ternate, SU 88385"
+207,Irfan,Pertiwi,M,42,irfan357,xM_5Q(pjEY,irfan.pertiwi@hotmail.com,+62 (014) 920-4320,"Gg. Rawamangun No. 629
+Bitung, BT 90607"
+208,Zahra,Tarihoran,M,58,zahra941,h^6s0Vnf_8,zahra.tarihoran@hotmail.com,081 329 2125,"Jl. Moch. Toha No. 854
+Magelang, Kepulauan Bangka Belitung 82951"
+209,Harimurti,Andriani,F,44,andriani421,^^L@lBYz51,harimurti.andriani@gmail.com,881379755,"Gg. Sukabumi No. 89
+Magelang, Papua Barat 82626"
+210,Argono,Kusumo,F,65,argono447,_8K(Hf(5s@,argono.kusumo@gmail.com,085 847 2450,"Jl. Moch. Toha No. 7
+Tarakan, KU 29352"
+211,Bagya,Mandasari,F,16,bagya806,$^1WRG!p%H,bagya.mandasari@gmail.com,+62 (054) 719-9984,"Gang Ahmad Dahlan No. 9
+Mojokerto, Papua 42638"
+212,Xanana,Dongoran,F,70,xanana201,(5PSbIee2z,xanana.dongoran@hotmail.com,-4605,"Gang Rawamangun No. 730
+Yogyakarta, SN 72783"
+213,Almira,Hidayat,M,53,almira343,Jm9ke2QLx_,almira.hidayat@gmail.com,885405782,"Gang Dipatiukur No. 10
+Pekalongan, ST 13533"
+214,Harsanto,Gunarto,M,48,harsanto672,e#VC1SOb7#,harsanto.gunarto@yahoo.com,+62 (0043) 822-5230,"Gang PHH. Mustofa No. 114
+Cilegon, NT 80358"
+215,Bagiya,Aryani,M,23,bagiya389,N_2n7XejkN,bagiya.aryani@gmail.com,(027) 255-4054,"Jalan Kapten Muslihat No. 70
+Kota Administrasi Jakarta Timur, Sumatera Selatan 28672"
+216,Prabu,Maryati,M,25,maryati609,cl6CH+P@a),prabu.maryati@yahoo.com,(017) 301-3840,"Gang Ahmad Yani No. 41
+Salatiga, MU 70033"
+217,Jaeman,Novitasari,M,28,jaeman736,+65tY&lvb$,jaeman.novitasari@yahoo.com,082 328 8160,"Jl. Dipenogoro No. 343
+Tebingtinggi, MU 04127"
+218,Ilyas,Mayasari,F,39,ilyas41,e+7SptQV3J,ilyas.mayasari@gmail.com,-6396,"Gg. Pasteur No. 0
+Kediri, Jawa Barat 30471"
+219,Nilam,Adriansyah,M,29,nilam770,U+(5Y58e^@,nilam.adriansyah@hotmail.com,(0691) 538-8701,"Jalan Sadang Serang No. 21
+Surabaya, Sulawesi Tengah 79929"
+220,Bakiman,Anggraini,M,73,bakiman987,^*1ShVbA&+,bakiman.anggraini@gmail.com,+62 (409) 736 0084,"Gg. Soekarno Hatta No. 202
+Meulaboh, NB 15577"
+221,Oman,Putra,M,66,putra446,QopM8Uhp$9,oman.putra@yahoo.com,+62 (0281) 088 2649,"Jl. Dipenogoro No. 187
+Metro, Bali 52111"
+222,Vera,Yuliarti,F,18,vera620,&z$hCmGTq4,vera.yuliarti@hotmail.com,-8595,"Jalan Astana Anyar No. 549
+Kotamobagu, Maluku 44709"
+223,Usman,Purwanti,F,82,usman280,!@UUCiNoE8,usman.purwanti@hotmail.com,+62 (024) 863 3492,"Jl. Sadang Serang No. 612
+Serang, NB 08253"
+224,Calista,Wulandari,F,42,wulandari377,&+T4UpwYh!,calista.wulandari@hotmail.com,+62 (91) 247-4163,"Jalan Sukajadi No. 72
+Tanjungbalai, Kalimantan Tengah 82160"
+225,Ika,Oktaviani,M,58,oktaviani52,#NAME?,ika.oktaviani@hotmail.com,-7219,"Gang Gedebage Selatan No. 9
+Mojokerto, Riau 80605"
+226,Pangestu,Irawan,M,65,pangestu214,_CRrudyU#3,pangestu.irawan@gmail.com,-7919,"Jalan Raya Setiabudhi No. 44
+Probolinggo, BE 29388"
+227,Ghaliyati,Saefullah,M,75,ghaliyati568,l_0oZ1R1Cw,ghaliyati.saefullah@yahoo.com,+62 (362) 084 8223,"Jalan Rajiman No. 7
+Tangerang, Kepulauan Riau 75022"
+228,Embuh,Sudiati,F,15,sudiati229,Ck1(WFaie),embuh.sudiati@hotmail.com,+62 (333) 057 0610,"Jl. Raya Ujungberung No. 308
+Padangpanjang, Sumatera Selatan 32968"
+229,Prayitna,Marpaung,F,62,marpaung217,2!$1N1solG,prayitna.marpaung@hotmail.com,-7833,"Jl. Tubagus Ismail No. 2
+Solok, Papua 99527"
+230,Jamil,Farida,M,32,jamil699,X^3pIe3Xgb,jamil.farida@yahoo.com,880705639,"Gang Ronggowarsito No. 7
+Bandar Lampung, Jawa Barat 80543"
+231,Malika,Natsir,F,22,natsir472,_3P5ErZL#L,malika.natsir@yahoo.com,084 661 7629,"Gang Moch. Ramdan No. 189
+Parepare, KI 21287"
+232,Hafshah,Hakim,F,50,hafshah165,I)#%FCcK(9,hafshah.hakim@hotmail.com,-7613,"Jl. BKR No. 81
+Madiun, SG 98731"
+233,Anastasia,Winarsih,M,83,anastasia812,m@n8ETtuK1,anastasia.winarsih@yahoo.com,(0142) 772 9793,"Gang Rajawali Timur No. 81
+Bau-Bau, SR 68543"
+234,Erik,Damanik,X,44,damanik414,5H%nYKAw)K,erik.damanik@yahoo.com,-4318,"Jalan Sentot Alibasa No. 880
+Tarakan, AC 74582"
+235,Titin,Nurdiyanti,F,69,titin803,xOV3Cz&xK^,titin.nurdiyanti@hotmail.com,+62 (0383) 365 9731,"Jalan K.H. Wahid Hasyim No. 3
+Pekalongan, Kalimantan Tengah 81015"
+236,Cahyadi,Pradipta,F,35,pradipta569,t5(TNl^U$D,cahyadi.pradipta@yahoo.com,+62 (075) 485 6959,"Jl. Cikutra Barat No. 8
+Cirebon, JA 90656"
+237,Almira,Ramadan,F,59,ramadan18,v@u0Gnbz3E,almira.ramadan@yahoo.com,+62 (939) 350 5757,"Jl. Suniaraja No. 8
+Mojokerto, NT 66838"
+238,Enteng,Anggraini,F,76,anggraini164,(76^CUm!S),enteng.anggraini@gmail.com,(089) 602-2239,"Gg. Rawamangun No. 982
+Ternate, Jambi 47176"
+239,Ade,Mandala,F,45,ade20,#8jMCSra)^,ade.mandala@hotmail.com,+62 (78) 482 7130,"Gang KH Amin Jasuta No. 66
+Semarang, Bengkulu 57625"
+240,Ikhsan,Puspita,F,22,puspita38,0!ATPaVq&m,ikhsan.puspita@gmail.com,(0750) 574-4037,"Gang Rajawali Barat No. 055
+Bogor, Bengkulu 07923"
+241,Artawan,Oktaviani,F,70,artawan697,U6i6X8o4#g,artawan.oktaviani@hotmail.com,+62 (019) 612 7802,"Gg. Gardujati No. 3
+Batam, SB 56461"
+242,Nardi,Laksita,M,51,laksita395,O&2IYwj4R4,nardi.laksita@hotmail.com,(0306) 718-6314,"Gang Antapani Lama No. 094
+Purwokerto, MA 45577"
+243,Ian,Prasetya,F,39,ian430,v#1T6_!haj,ian.prasetya@yahoo.com,(0564) 475-5223,"Jalan Ahmad Yani No. 683
+Blitar, JK 40042"
+244,Kala,Prasetya,M,43,prasetya786,#8Dg^Cme(Q,kala.prasetya@hotmail.com,+62 (0671) 597 5660,"Gang Kendalsari No. 2
+Bengkulu, SB 64024"
+245,Ilyas,Kuswoyo,F,67,kuswoyo599,^6XuwKuy0D,ilyas.kuswoyo@yahoo.com,(095) 819-4390,"Jl. H.J Maemunah No. 53
+Semarang, Sulawesi Selatan 77795"
+246,Labuh,Halim,X,49,halim897,Z*#5A9yqwp,labuh.halim@yahoo.com,(086) 802-1962,"Jl. Indragiri No. 61
+Tebingtinggi, JA 06701"
+247,Lukman,Halim,M,30,halim225,(F^T1Kx8)a,lukman.halim@yahoo.com,(052) 138 2177,"Gg. Surapati No. 058
+Pekalongan, BB 83398"
+248,Omar,Natsir,M,17,omar705,t@S2Efg9%r,omar.natsir@gmail.com,(0060) 428-7131,"Gg. Laswi No. 4
+Bau-Bau, Gorontalo 21937"
+249,Gabriella,Suwarno,F,59,gabriella440,!x%t3TTuB5,gabriella.suwarno@hotmail.com,(0125) 588-2509,"Jalan Rumah Sakit No. 4
+Probolinggo, Maluku Utara 47608"
+250,Olga,Prabowo,F,30,olga849,$elrCk+dr8,olga.prabowo@yahoo.com,-3436,"Gg. Pasirkoja No. 0
+Kediri, KR 76980"
+251,Virman,Anggriawan,F,78,anggriawan162,tc37Wx_Nr&,virman.anggriawan@yahoo.com,+62 (020) 105-9394,"Jalan Astana Anyar No. 38
+Singkawang, KR 87019"
+252,Jaeman,Sihombing,M,24,jaeman956,I_c6I@v$qQ,jaeman.sihombing@yahoo.com,(0698) 998 8053,"Jalan Erlangga No. 9
+Banjarmasin, JB 10999"
+253,Zahra,Najmudin,M,75,zahra887,)cLE5YVmh5,zahra.najmudin@yahoo.com,(0043) 602-4937,"Gg. Sadang Serang No. 0
+Tarakan, Nusa Tenggara Barat 25138"
+254,Yoga,Sitompul,M,57,yoga540,B!7i+R#n%!,yoga.sitompul@hotmail.com,+62 (092) 680-2015,"Jalan Pacuan Kuda No. 72
+Pontianak, AC 77189"
+255,Wardaya,Haryanti,M,16,wardaya945,!Fd8VsHiY3,wardaya.haryanti@hotmail.com,+62 (0746) 444 9304,"Gg. Cikapayang No. 6
+Padang Sidempuan, SR 51772"
+256,Harimurti,Permadi,M,33,harimurti465,*5+H6eGoog,harimurti.permadi@hotmail.com,-3629,"Jalan K.H. Wahid Hasyim No. 36
+Banda Aceh, KS 62076"
+257,Padmi,Pertiwi,F,43,pertiwi187,*$15bIyukL,padmi.pertiwi@hotmail.com,080 756 2603,"Jalan Dipenogoro No. 6
+Sukabumi, JA 28660"
+258,Martana,Narpati,M,45,martana721,FWWHPwdD(3,martana.narpati@hotmail.com,-5855,"Jalan Antapani Lama No. 477
+Dumai, SN 65901"
+259,Jarwi,Hasanah,X,44,jarwi893,fBz4i9oXY^,jarwi.hasanah@yahoo.com,+62 (093) 024-8173,"Jl. K.H. Wahid Hasyim No. 6
+Bandung, Sulawesi Tenggara 63536"
+260,Adikara,Mangunsong,M,81,adikara113,+0B9f3ii!I,adikara.mangunsong@gmail.com,+62 (773) 576-7450,"Jalan Dr. Djunjunan No. 77
+Kendari, Gorontalo 23106"
+261,Yuliana,Kusumo,M,70,kusumo254,&K7f5Gba!J,yuliana.kusumo@hotmail.com,+62 (61) 863-0125,"Gang Raya Setiabudhi No. 8
+Jayapura, Jambi 84340"
+262,Gada,Siregar,M,85,gada722,GM3ZZjavv&,gada.siregar@yahoo.com,(0787) 982-0838,"Gg. Sentot Alibasa No. 0
+Mataram, Kalimantan Selatan 17473"
+263,Mustofa,Waskita,M,51,waskita523,aCUj4KxOf#,mustofa.waskita@gmail.com,801761879,"Gang Pelajar Pejuang No. 346
+Batu, Bengkulu 48264"
+264,Vanesa,Zulaika,F,78,zulaika518,A9_eDhWy+r,vanesa.zulaika@hotmail.com,+62 (0534) 711-0781,"Gg. PHH. Mustofa No. 538
+Sungai Penuh, Sumatera Utara 41602"
+265,Pranata,Prasasta,F,45,prasasta72,$3nXu380hq,pranata.prasasta@yahoo.com,+62 (14) 743 5925,"Jl. Gardujati No. 2
+Tangerang Selatan, JT 10833"
+266,Qori,Marpaung,F,37,qori123,^uTl!td18A,qori.marpaung@yahoo.com,-2598,"Gg. Kutisari Selatan No. 4
+Padang, SG 01465"
+267,Zizi,Nainggolan,M,50,zizi187,(xgKW3Piv9,zizi.nainggolan@hotmail.com,-3149,"Jalan Jayawijaya No. 80
+Pagaralam, Jawa Tengah 32723"
+268,Kamila,Hardiansyah,F,85,hardiansyah839,6CnP+ZJo#M,kamila.hardiansyah@gmail.com,+62 (086) 100 9896,"Gang Raya Ujungberung No. 40
+Tangerang Selatan, Kepulauan Riau 73817"
+269,Ihsan,Susanti,F,60,susanti377,%l5U&Dgw9A,ihsan.susanti@hotmail.com,+62 (0901) 234-4456,"Gang Sentot Alibasa No. 561
+Padang Sidempuan, KU 91630"
+270,Ismail,Hastuti,F,43,ismail366,+_(q6fTnP9,ismail.hastuti@yahoo.com,+62 (067) 106-1536,"Gg. Gegerkalong Hilir No. 963
+Bandar Lampung, Sumatera Barat 22981"
+271,Pranawa,Saputra,F,67,saputra225,x4PMmknZ@3,pranawa.saputra@hotmail.com,+62 (66) 472 1065,"Gg. Rungkut Industri No. 8
+Jayapura, KR 84017"
+272,Julia,Mansur,F,40,julia78,&k*u9cSy(),julia.mansur@gmail.com,-4328,"Jl. Merdeka No. 250
+Sukabumi, Banten 89923"
+273,Kusuma,Kusmawati,F,77,kusmawati863,3R%6NZqM!6,kusuma.kusmawati@hotmail.com,+62 (17) 333-4644,"Gg. Tubagus Ismail No. 799
+Blitar, GO 08781"
+274,Hafshah,Rahmawati,F,80,rahmawati949,_N@Znn$l@4,hafshah.rahmawati@gmail.com,-9307,"Jalan Gardujati No. 002
+Meulaboh, JK 18616"
+275,Jayeng,Situmorang,F,16,situmorang275,1Z4JjoGrI_,jayeng.situmorang@hotmail.com,(064) 564 4844,"Gg. Cihampelas No. 41
+Solok, SU 51665"
+276,Ulya,Pudjiastuti,M,45,pudjiastuti17,g#s(0sJ*_v,ulya.pudjiastuti@hotmail.com,(0068) 776-3566,"Jl. Raya Setiabudhi No. 4
+Manado, BE 41417"
+277,Mujur,Simanjuntak,F,27,mujur382,!CbH1V9im3,mujur.simanjuntak@yahoo.com,(0724) 869-1833,"Gang S. Parman No. 79
+Medan, Bengkulu 31385"
+278,Slamet,Manullang,F,60,slamet262,8NdKFhnm*i,slamet.manullang@hotmail.com,(0233) 124 1587,"Gang S. Parman No. 360
+Lubuklinggau, Lampung 23319"
+279,Malika,Hutagalung,M,89,malika829,&b6_I9ds3n,malika.hutagalung@yahoo.com,+62 (0191) 559-2951,"Jalan K.H. Wahid Hasyim No. 036
+Banjarmasin, Sulawesi Barat 56391"
+280,Jaga,Pudjiastuti,F,35,pudjiastuti155,!9R!Wngu#_,jaga.pudjiastuti@yahoo.com,+62 (186) 301-2688,"Jalan Soekarno Hatta No. 6
+Kota Administrasi Jakarta Barat, Maluku Utara 78717"
+281,Panca,Rajasa,F,90,rajasa912,t7osjD!v*J,panca.rajasa@hotmail.com,-7272,"Gang Ahmad Dahlan No. 5
+Manado, Kalimantan Barat 45371"
+282,Jumadi,Maulana,F,24,jumadi795,%Edy5bZbP),jumadi.maulana@gmail.com,(079) 575 0154,"Gg. Cempaka No. 71
+Banda Aceh, YO 69442"
+283,Dwi,Pratama,F,23,dwi856,p*^r6KbLW#,dwi.pratama@hotmail.com,+62 (072) 191 2709,"Gang Wonoayu No. 7
+Prabumulih, Papua Barat 13626"
+284,Teddy,Permadi,F,34,permadi631,D@K9q&Fff&,teddy.permadi@gmail.com,(029) 614-4387,"Jalan Ahmad Dahlan No. 37
+Tanjungpinang, BA 81826"
+285,Titin,Fujiati,M,81,titin163,k+M9utKkjk,titin.fujiati@hotmail.com,-5856,"Gg. Wonoayu No. 6
+Surakarta, Kalimantan Barat 66267"
+286,Paiman,Usamah,F,72,usamah421,!1Us#jnI+i,paiman.usamah@hotmail.com,+62 (091) 991 9196,"Jl. Surapati No. 704
+Padang, Lampung 56432"
+287,Putri,Napitupulu,M,22,putri441,)mRF0BA&g2,putri.napitupulu@hotmail.com,-1426,"Jalan Sadang Serang No. 3
+Subulussalam, Kalimantan Barat 12602"
+288,Najwa,Kurniawan,F,90,kurniawan118,E5PL!xa6@x,najwa.kurniawan@gmail.com,(023) 565-2625,"Gg. Waringin No. 0
+Kota Administrasi Jakarta Utara, DKI Jakarta 06253"
+289,Gamblang,Iswahyudi,M,35,iswahyudi692,D9LtrshU%j,gamblang.iswahyudi@hotmail.com,+62 (052) 263 4098,"Jalan Gegerkalong Hilir No. 992
+Padang Sidempuan, AC 93729"
+290,Jamal,Gunawan,F,70,jamal848,X(ZJ%M0z%7,jamal.gunawan@hotmail.com,+62 (0718) 410-4796,"Jalan Indragiri No. 08
+Bandar Lampung, Jawa Timur 10764"
+291,Kamaria,Nurdiyanti,F,83,nurdiyanti435,A$5OC(huu0,kamaria.nurdiyanti@hotmail.com,+62 (0368) 725 5600,"Jl. Suniaraja No. 1
+Tomohon, SN 37204"
+292,Anastasia,Rajasa,F,45,anastasia755,!2^E_$Zm8D,anastasia.rajasa@hotmail.com,+62 (022) 851-8033,"Jalan R.E Martadinata No. 3
+Surabaya, Kalimantan Barat 51808"
+293,Reksa,Mahendra,M,46,mahendra914,2+0ZYKQi*S,reksa.mahendra@hotmail.com,080 444 7567,"Gang Setiabudhi No. 3
+Kediri, Jawa Timur 53149"
+294,Luhung,Yulianti,M,70,luhung585,QZEvj0rs(2,luhung.yulianti@gmail.com,+62 (029) 144 9959,"Gg. Sukajadi No. 550
+Bogor, KI 89347"
+295,Murti,Lazuardi,M,15,murti180,Muu3RYte6#,murti.lazuardi@yahoo.com,(0916) 139 9436,"Gang Veteran No. 8
+Balikpapan, SU 73517"
+296,Anom,Astuti,M,70,anom152,j4#CaHZA(w,anom.astuti@gmail.com,-545,"Jl. Stasiun Wonokromo No. 355
+Bandar Lampung, Papua Barat 44988"
+297,Tina,Saragih,F,53,tina58,mQ2u*Lki^I,tina.saragih@gmail.com,-1513,"Gg. Astana Anyar No. 389
+Probolinggo, Sulawesi Tenggara 74002"
+298,Kayun,Mayasari,F,71,mayasari393,bImWzuUt%3,kayun.mayasari@gmail.com,+62 (0321) 642 8383,"Gg. Pasir Koja No. 50
+Denpasar, Kalimantan Timur 94535"
+299,Legawa,Kusmawati,M,28,kusmawati938,)4C$aNbzGu,legawa.kusmawati@gmail.com,+62 (014) 028-2743,"Jalan Veteran No. 60
+Banjar, Jambi 55403"
+300,Hardi,Aryani,F,74,aryani635,bADZSr0h!2,hardi.aryani@yahoo.com,+62 (0819) 964 8780,"Jalan Kutai No. 9
+Palopo, Gorontalo 70381"
+301,Wulan,Setiawan,F,31,wulan137,f9UqzOzU+t,wulan.setiawan@hotmail.com,087 403 5662,"Jalan BKR No. 08
+Cirebon, Nusa Tenggara Barat 36979"
+302,Malik,Namaga,M,19,namaga600,T8K(FM$f^6,malik.namaga@yahoo.com,+62 (0198) 651-3159,"Jalan Rajiman No. 887
+Manado, Kalimantan Tengah 78469"
+303,Kajen,Tarihoran,M,42,kajen6,+mFbg#44^2,kajen.tarihoran@yahoo.com,(0244) 337-4956,"Jalan Abdul Muis No. 83
+Langsa, Sumatera Barat 71691"
+304,Jayeng,Permata,F,50,permata376,&4mY47wyV7,jayeng.permata@yahoo.com,(080) 221-9829,"Gang Gedebage Selatan No. 845
+Meulaboh, KR 05758"
+305,Adikara,Prakasa,F,15,prakasa503,a7%!1#CfH(,adikara.prakasa@yahoo.com,-9150,"Jalan Veteran No. 30
+Bontang, Nusa Tenggara Barat 32404"
+306,Laswi,Uwais,F,24,uwais235,49#cNPb8$A,laswi.uwais@hotmail.com,+62 (072) 330-8618,"Gg. BKR No. 15
+Bekasi, Sumatera Utara 22761"
+307,Jayeng,Hidayat,M,68,jayeng760,HjjGiuw+(1,jayeng.hidayat@gmail.com,(0794) 619-6668,"Gang Rumah Sakit No. 399
+Blitar, JB 95914"
+308,Budi,Oktaviani,F,79,oktaviani814,&2BLGKIywJ,budi.oktaviani@yahoo.com,+62 (0740) 954 4413,"Jalan K.H. Wahid Hasyim No. 233
+Banjar, Sulawesi Barat 13208"
+309,Raina,Habibi,M,55,raina627,aIK0Hsfv@c,raina.habibi@hotmail.com,875948363,"Jl. Tebet Barat Dalam No. 946
+Tanjungpinang, SU 41814"
+310,Raharja,Maheswara,M,53,raharja311,+*SYJFsu4j,raharja.maheswara@gmail.com,+62 (022) 563 3257,"Gg. Ciumbuleuit No. 7
+Cirebon, KS 56804"
+311,Ratna,Puspasari,M,55,puspasari63,9@Em+xIu^e,ratna.puspasari@yahoo.com,+62 (078) 737-5465,"Gg. Pacuan Kuda No. 25
+Dumai, DKI Jakarta 17434"
+312,Darman,Susanti,F,26,darman981,fC@4NF)nz&,darman.susanti@hotmail.com,842350664,"Gang Raya Ujungberung No. 696
+Pontianak, YO 47108"
+313,Hamima,Laksita,F,26,laksita451,!80kU0)hRA,hamima.laksita@yahoo.com,(081) 891 1754,"Jalan Monginsidi No. 4
+Kotamobagu, Kalimantan Timur 59060"
+314,Rangga,Hidayat,F,77,hidayat661,)o97I^mc*%,rangga.hidayat@hotmail.com,-1579,"Jalan Rawamangun No. 430
+Batu, MA 65586"
+315,Langgeng,Sitorus,F,24,langgeng280,d!J6WKhWzJ,langgeng.sitorus@yahoo.com,-8898,"Gang Dr. Djunjunan No. 5
+Pagaralam, KB 78214"
+316,Zahra,Setiawan,X,79,zahra515,)2DHvft@7j,zahra.setiawan@hotmail.com,(0844) 402-2786,"Gang Rajiman No. 96
+Pariaman, JT 75243"
+317,Paramita,Adriansyah,M,28,paramita167,rYk+9Grdh#,paramita.adriansyah@yahoo.com,085 033 2279,"Jalan Indragiri No. 8
+Parepare, SU 87126"
+318,Jarwa,Palastri,F,49,palastri525,l@_3iBniCP,jarwa.palastri@hotmail.com,+62 (068) 652 4632,"Jalan Dipenogoro No. 88
+Surakarta, SG 79293"
+319,Lili,Maryati,M,90,lili179,4f@9C*eO7#,lili.maryati@yahoo.com,-3963,"Gang Monginsidi No. 695
+Surakarta, SU 96157"
+320,Prabu,Irawan,M,52,irawan888,kk&4SIqJ(T,prabu.irawan@gmail.com,+62 (955) 630-4126,"Jl. Laswi No. 682
+Tidore Kepulauan, JI 76284"
+321,Ian,Winarsih,M,43,ian262,#u!7!EUg8n,ian.winarsih@yahoo.com,+62 (828) 071-0433,"Gg. PHH. Mustofa No. 45
+Palangkaraya, KT 91573"
+322,Cinta,Waskita,F,50,waskita785,%r+C%@+bu0,cinta.waskita@yahoo.com,-2431,"Jalan Laswi No. 49
+Tidore Kepulauan, Kalimantan Barat 07052"
+323,Oskar,Hidayanto,F,77,oskar607,u)C2&Vp5F6,oskar.hidayanto@gmail.com,(0976) 887-2116,"Gang Jend. A. Yani No. 3
+Tidore Kepulauan, Lampung 63344"
+324,Tania,Agustina,F,41,tania341,48IGF#hS)S,tania.agustina@hotmail.com,-1778,"Gg. Otto Iskandardinata No. 2
+Palopo, PA 88799"
+325,Agus,Novitasari,M,39,novitasari826,(WMkG!lct4,agus.novitasari@yahoo.com,(0031) 105 6796,"Jalan Gardujati No. 29
+Pagaralam, Nusa Tenggara Barat 99825"
+326,Galih,Andriani,F,87,galih970,#9RD(FIsz),galih.andriani@gmail.com,(0359) 791 8130,"Jl. Gedebage Selatan No. 756
+Tanjungbalai, DKI Jakarta 90127"
+327,Rini,Sihombing,M,30,sihombing321,s#1IQb85SA,rini.sihombing@yahoo.com,+62 (0564) 900-3444,"Jl. Otto Iskandardinata No. 5
+Jambi, DI Yogyakarta 49237"
+328,Dagel,Megantara,F,43,megantara398,%3S+dvLVnl,dagel.megantara@yahoo.com,+62 (954) 651-2182,"Jl. Ahmad Dahlan No. 68
+Binjai, Kalimantan Barat 27701"
+329,Daru,Natsir,M,67,daru693,f7QcSr&n_w,daru.natsir@hotmail.com,+62 (67) 538-7443,"Gg. Gardujati No. 4
+Pontianak, Lampung 69549"
+330,Kasiyah,Santoso,M,52,kasiyah453,%c8ngEVxmb,kasiyah.santoso@hotmail.com,(047) 780-3348,"Gang Dipenogoro No. 83
+Manado, DI Yogyakarta 43390"
+331,Waluyo,Ramadan,F,59,waluyo336,H93U@2JuG(,waluyo.ramadan@gmail.com,(0177) 020-2749,"Jalan Sukabumi No. 502
+Singkawang, Kalimantan Tengah 34208"
+332,Emil,Lazuardi,F,30,lazuardi664,&uEh_&xh4V,emil.lazuardi@yahoo.com,+62 (77) 741-5542,"Jalan Jamika No. 85
+Bima, Kalimantan Barat 67273"
+333,Cahyadi,Mustofa,M,46,mustofa50,i!9BP_jeQF,cahyadi.mustofa@yahoo.com,+62 (170) 969-2352,"Jl. Gedebage Selatan No. 09
+Kota Administrasi Jakarta Utara, SB 68855"
+334,Cemani,Halimah,M,21,cemani876,hzF#uWi*!0,cemani.halimah@hotmail.com,+62 (0564) 406 3246,"Gg. Yos Sudarso No. 0
+Probolinggo, Lampung 21296"
+335,Cawuk,Waluyo,F,44,cawuk899,*a6tEHzZKN,cawuk.waluyo@yahoo.com,+62 (002) 258 2873,"Jalan Jayawijaya No. 0
+Tegal, DI Yogyakarta 96450"
+336,Nasab,Sihotang,M,27,sihotang547,5+^5Gf_!)P,nasab.sihotang@yahoo.com,+62 (0758) 141-7761,"Jl. Rumah Sakit No. 4
+Bekasi, SG 21153"
+337,Pangestu,Mayasari,F,59,mayasari618,^7SY&0Nh9U,pangestu.mayasari@gmail.com,(023) 165-8532,"Gg. Ciumbuleuit No. 35
+Kota Administrasi Jakarta Pusat, LA 99470"
+338,Rahman,Pratama,F,35,pratama510,*OCLhm1j6N,rahman.pratama@yahoo.com,(086) 419 2238,"Jl. Antapani Lama No. 6
+Pekanbaru, Bengkulu 48564"
+339,Mujur,Kusumo,M,75,mujur671,94Nse84O(7,mujur.kusumo@yahoo.com,-3925,"Jalan Antapani Lama No. 563
+Palangkaraya, BA 18447"
+340,Harto,Gunarto,F,80,harto126,!W7Ny*Rxh0,harto.gunarto@yahoo.com,(0017) 262 4529,"Gang Soekarno Hatta No. 429
+Probolinggo, Kalimantan Timur 26092"
+341,Nasim,Samosir,M,37,nasim79,1j&FW1Cy+6,nasim.samosir@yahoo.com,087 895 3953,"Jalan Ahmad Yani No. 0
+Pekanbaru, SR 30930"
+342,Rangga,Hardiansyah,F,43,rangga315,O9UIG1eO_2,rangga.hardiansyah@yahoo.com,+62 (335) 955 2405,"Gg. Lembong No. 1
+Sungai Penuh, BB 07705"
+343,Warsita,Winarno,M,17,warsita314,v4PhZGh8)R,warsita.winarno@yahoo.com,-10121,"Gg. Indragiri No. 376
+Depok, JA 10071"
+344,Maryadi,Salahudin,M,26,maryadi515,i3PpGyhv_X,maryadi.salahudin@yahoo.com,+62 (691) 034-1770,"Gang Kendalsari No. 84
+Pekalongan, Sumatera Barat 03887"
+345,Cakrawangsa,Wahyudin,F,88,wahyudin910,*LByEnHw2@,cakrawangsa.wahyudin@yahoo.com,+62 (0276) 783 6082,"Gang Raya Ujungberung No. 1
+Cirebon, Papua 38826"
+346,Gading,Rahimah,F,65,gading209,+c8RuHUrJa,gading.rahimah@yahoo.com,+62 (786) 597-6753,"Gang Astana Anyar No. 30
+Banjarmasin, NT 75503"
+347,Cahyadi,Haryanto,F,47,haryanto24,c!pFoMLiX4,cahyadi.haryanto@gmail.com,+62 (66) 877-7490,"Jl. Pelajar Pejuang No. 370
+Payakumbuh, Kalimantan Timur 42841"
+348,Cakrabuana,Pratiwi,M,44,cakrabuana168,*)h6VBiweM,cakrabuana.pratiwi@gmail.com,-856,"Jl. Pacuan Kuda No. 77
+Purwokerto, BA 36042"
+349,Himawan,Tampubolon,M,62,tampubolon771,^ZXBJGPa4&,himawan.tampubolon@hotmail.com,+62 (086) 345-0492,"Jalan Rungkut Industri No. 83
+Ternate, JB 72366"
+350,Galar,Usamah,F,57,usamah890,6(O9GqlJH+,galar.usamah@yahoo.com,-2009,"Gg. Moch. Ramdan No. 1
+Jambi, LA 51246"
+351,Zahra,Lestari,F,53,zahra632,%#M%kgVlg0,zahra.lestari@hotmail.com,-6114,"Gg. Siliwangi No. 3
+Langsa, Kalimantan Timur 01786"
+352,Rachel,Maryati,M,83,maryati10,4(4B9GlvIT,rachel.maryati@gmail.com,+62 (0353) 286 3641,"Gg. Asia Afrika No. 854
+Surakarta, BE 18945"
+353,Langgeng,Utama,X,90,langgeng378,W5HSSqpp$5,langgeng.utama@yahoo.com,+62 (052) 001 3589,"Jalan Moch. Toha No. 214
+Mataram, Sumatera Selatan 49200"
+354,Dacin,Adriansyah,M,18,adriansyah203,*2P@8UynX4,dacin.adriansyah@hotmail.com,827307845,"Jalan Pasteur No. 72
+Surabaya, JB 01695"
+355,Tirtayasa,Marpaung,M,65,tirtayasa399,#^stKW2q8P,tirtayasa.marpaung@yahoo.com,(0112) 979-1902,"Gg. KH Amin Jasuta No. 237
+Pontianak, KS 22390"
+356,Mulyono,Rahimah,M,74,mulyono56,iUv+17Fn%Y,mulyono.rahimah@yahoo.com,-8676,"Gang R.E Martadinata No. 8
+Pangkalpinang, MU 21338"
+357,Nabila,Zulkarnain,M,32,zulkarnain590,O4T1kVFo(_,nabila.zulkarnain@hotmail.com,877944226,"Jl. Kutisari Selatan No. 06
+Denpasar, YO 62187"
+358,Nardi,Sihombing,F,37,sihombing604,$u#kOfLu2C,nardi.sihombing@hotmail.com,+62 (0749) 125-0796,"Jl. Cempaka No. 315
+Batu, Lampung 49471"
+359,Daliono,Simanjuntak,F,25,simanjuntak216,Vu0K+twE)*,daliono.simanjuntak@yahoo.com,824686804,"Gg. Bangka Raya No. 0
+Bontang, Riau 92052"
+360,Nasim,Usamah,M,68,usamah623,XU_0MOuvOi,nasim.usamah@yahoo.com,(0959) 769 7311,"Gg. Kapten Muslihat No. 43
+Pangkalpinang, Maluku Utara 66598"
+361,Wulan,Yuniar,M,51,wulan275,E$0OgLTs#s,wulan.yuniar@gmail.com,+62 (0413) 300 6834,"Jalan Kutai No. 75
+Cirebon, Lampung 34122"
+362,Puspa,Maheswara,M,36,puspa370,!y6B&)7x5),puspa.maheswara@yahoo.com,+62 (764) 407-5342,"Gang Cihampelas No. 164
+Lhokseumawe, GO 03528"
+363,Sabri,Najmudin,M,25,sabri553,u7q0ZY)c)2,sabri.najmudin@hotmail.com,+62 (65) 260-4337,"Jalan Dr. Djunjunan No. 2
+Tanjungbalai, JK 17014"
+364,Jati,Hakim,F,38,jati529,%24Pxy)Jn$,jati.hakim@yahoo.com,084 075 2519,"Jalan KH Amin Jasuta No. 973
+Mataram, Bengkulu 54321"
+365,Cakrawangsa,Hidayanto,F,21,cakrawangsa369,roRYCxY!+9,cakrawangsa.hidayanto@yahoo.com,+62 (59) 574 7436,"Gang S. Parman No. 9
+Tidore Kepulauan, Kepulauan Riau 73512"
+366,Teguh,Firmansyah,F,28,firmansyah974,+2D(*Vrgx3,teguh.firmansyah@hotmail.com,+62 (59) 477 2008,"Jl. Sentot Alibasa No. 66
+Pontianak, KT 10056"
+367,Banawi,Firgantoro,X,69,firgantoro475,%FLdmAzT8f,banawi.firgantoro@gmail.com,(0759) 693 8532,"Jl. Ciwastra No. 03
+Pagaralam, YO 36519"
+368,Eka,Firgantoro,M,88,firgantoro16,4&MIe6L53x,eka.firgantoro@gmail.com,(081) 595-7762,"Gg. Cempaka No. 5
+Bandung, KS 40456"
+369,Vicky,Hardiansyah,F,16,vicky277,F!4HsdFsx!,vicky.hardiansyah@hotmail.com,-465,"Gang Medokan Ayu No. 679
+Singkawang, Sumatera Selatan 54409"
+370,Diah,Rajata,F,65,rajata960,!bDMJDu^83,diah.rajata@hotmail.com,084 886 3928,"Gg. Tebet Barat Dalam No. 02
+Surabaya, Lampung 50188"
+371,Nurul,Simbolon,F,27,nurul219,&7gNxvThL*,nurul.simbolon@hotmail.com,+62 (023) 475-8788,"Gang Ahmad Dahlan No. 38
+Magelang, YO 73175"
+372,Vivi,Handayani,M,87,handayani49,xfJ_FQ3a$1,vivi.handayani@yahoo.com,-10416,"Gang Jakarta No. 330
+Tanjungbalai, Sulawesi Utara 05359"
+373,Ismail,Padmasari,M,20,padmasari473,(()7etLum#,ismail.padmasari@gmail.com,817195762,"Gang Otto Iskandardinata No. 4
+Padangpanjang, BB 47848"
+374,Lala,Wijayanti,M,61,lala937,j&s9)JWqxC,lala.wijayanti@gmail.com,+62 (81) 524 2450,"Gg. Ahmad Dahlan No. 8
+Bekasi, AC 04501"
+375,Bahuwarna,Gunawan,F,26,bahuwarna408,12Qx94cE&v,bahuwarna.gunawan@gmail.com,(0930) 046-3915,"Jalan Jayawijaya No. 63
+Tanjungpinang, SU 24029"
+376,Gambira,Samosir,M,37,samosir338,J4VyFWJi!@,gambira.samosir@hotmail.com,-2874,"Gg. Indragiri No. 44
+Banjar, SB 33017"
+377,Umar,Pradana,F,46,umar475,&gp5t0Ys3k,umar.pradana@gmail.com,+62 (65) 502-3493,"Gang Tebet Barat Dalam No. 56
+Mojokerto, KR 50864"
+378,Jumari,Pudjiastuti,F,73,pudjiastuti104,34*8+1Stri,jumari.pudjiastuti@gmail.com,+62 (616) 386 7412,"Gang Antapani Lama No. 9
+Bontang, JT 45720"
+379,Jayadi,Suryono,F,77,suryono679,*H99Q*f!TH,jayadi.suryono@yahoo.com,(0475) 444 4080,"Gang R.E Martadinata No. 817
+Purwokerto, AC 25719"
+380,Hana,Januar,M,81,hana606,rzY%$1JswJ,hana.januar@hotmail.com,(0496) 284-6554,"Gang Cikapayang No. 25
+Batam, SB 00067"
+381,Elma,Sitorus,F,50,elma205,j^s3P4w0hH,elma.sitorus@hotmail.com,+62 (566) 163 8805,"Gg. Asia Afrika No. 03
+Bukittinggi, PA 74904"
+382,Lasmanto,Wijayanti,M,28,lasmanto788,A#E5Kbpp+G,lasmanto.wijayanti@gmail.com,(011) 222-2117,"Jl. Raya Setiabudhi No. 30
+Dumai, Jawa Barat 99963"
+383,Darmana,Hasanah,F,48,hasanah556,jU5GKl!f(w,darmana.hasanah@hotmail.com,(0794) 238 4264,"Gg. BKR No. 7
+Tual, KI 05072"
+384,Kezia,Winarsih,M,54,kezia139,T!7U@cLVOn,kezia.winarsih@hotmail.com,(0921) 632-8266,"Jl. Dr. Djunjunan No. 117
+Mataram, ST 78779"
+385,Jasmani,Prasasta,M,88,prasasta541,e2nV8lt*^d,jasmani.prasasta@yahoo.com,087 684 4657,"Jalan Sentot Alibasa No. 37
+Cimahi, YO 15307"
+386,Raden,Lailasari,F,37,lailasari407,^QTj1WNiG(,raden.lailasari@hotmail.com,+62 (043) 566 6445,"Jalan S. Parman No. 57
+Padang Sidempuan, SU 78169"
+387,Ani,Fujiati,M,49,ani241,KRy1wVzih+,ani.fujiati@yahoo.com,+62 (0929) 169 9325,"Jalan Medokan Ayu No. 460
+Madiun, Kalimantan Selatan 93654"
+388,Purwanto,Kusumo,F,72,purwanto758,!IO+E+Coq8,purwanto.kusumo@yahoo.com,084 927 7260,"Gang Veteran No. 862
+Malang, Kalimantan Selatan 81994"
+389,Lutfan,Yolanda,F,29,lutfan428,+0%UQvq%&u,lutfan.yolanda@hotmail.com,+62 (085) 271-5996,"Gg. Moch. Ramdan No. 626
+Pangkalpinang, SS 86723"
+390,Jail,Maryati,F,74,maryati669,@3V!^RYo#u,jail.maryati@gmail.com,-9285,"Jl. Sadang Serang No. 27
+Bontang, BT 28964"
+391,Aslijan,Suryono,F,18,suryono193,!0N#xH8_XU,aslijan.suryono@yahoo.com,+62 (70) 150-7322,"Jl. Veteran No. 88
+Mataram, SB 91773"
+392,Kiandra,Saefullah,F,71,kiandra127,ll1Ys!xh_3,kiandra.saefullah@hotmail.com,-7310,"Gang Rajiman No. 690
+Sabang, BA 42606"
+393,Chelsea,Putra,F,25,putra714,y^a4apYuNx,chelsea.putra@hotmail.com,-3257,"Jl. Bangka Raya No. 9
+Depok, SN 35117"
+394,Diana,Hidayat,M,46,diana835,^yBp3w+rJ1,diana.hidayat@yahoo.com,-7454,"Jl. Ahmad Yani No. 80
+Kota Administrasi Jakarta Pusat, BT 07992"
+395,Asmianto,Agustina,M,38,agustina216,$&)4c6D4oj,asmianto.agustina@yahoo.com,-8021,"Gg. W.R. Supratman No. 521
+Gorontalo, KU 00232"
+396,Ajeng,Hassanah,F,78,ajeng149,_7SJ(Ykn%z,ajeng.hassanah@gmail.com,+62 (906) 627-7324,"Jl. Rungkut Industri No. 9
+Jayapura, Kalimantan Utara 39952"
+397,Talia,Halimah,M,80,talia857,_PgyFJMsj3,talia.halimah@yahoo.com,-2674,"Gg. Pacuan Kuda No. 483
+Cirebon, Sumatera Selatan 92170"
+398,Ellis,Firgantoro,M,69,firgantoro591,&nJ15I6gwm,ellis.firgantoro@gmail.com,-4606,"Gang Suryakencana No. 629
+Depok, DI Yogyakarta 11286"
+399,Aswani,Putra,M,56,aswani338,EJ!Usst2#7,aswani.putra@gmail.com,083 436 7400,"Gang Kebonjati No. 636
+Sabang, Kalimantan Utara 82937"
+400,Hani,Padmasari,F,32,hani516,*C7HFOMquB,hani.padmasari@gmail.com,+62 (839) 599-1803,"Jalan Monginsidi No. 03
+Tasikmalaya, Sulawesi Selatan 51831"
+401,Tirtayasa,Hardiansyah,F,69,hardiansyah900,1&oDq+Tg%3,tirtayasa.hardiansyah@gmail.com,(063) 046 5188,"Jalan Dipenogoro No. 6
+Denpasar, Jawa Tengah 70742"
+402,Almira,Wibisono,M,53,wibisono732,eoIr8PVzN+,almira.wibisono@yahoo.com,+62 (035) 191-1322,"Gg. Kutisari Selatan No. 66
+Tebingtinggi, Jambi 88175"
+403,Gabriella,Nasyidah,M,85,nasyidah895,r(cE8hWu0I,gabriella.nasyidah@gmail.com,+62 (042) 069 5116,"Gg. Sukabumi No. 14
+Tomohon, Sulawesi Tenggara 22855"
+404,Maya,Mandala,F,26,mandala64,Os4@NYUx)_,maya.mandala@yahoo.com,+62 (00) 044-5263,"Gang Soekarno Hatta No. 086
+Langsa, Nusa Tenggara Timur 63755"
+405,Zaenab,Winarno,M,31,zaenab139,9e&7T0OccS,zaenab.winarno@gmail.com,+62 (43) 724-6943,"Gg. Ronggowarsito No. 20
+Payakumbuh, AC 24663"
+406,Dadi,Lestari,M,44,lestari228,6(iaNsZl@Z,dadi.lestari@hotmail.com,081 953 7002,"Gg. Indragiri No. 9
+Sungai Penuh, Nusa Tenggara Timur 35851"
+407,Yulia,Oktaviani,M,32,yulia617,(wAMfE1jR0,yulia.oktaviani@yahoo.com,(046) 409 8992,"Gg. Kebonjati No. 81
+Banjar, Kalimantan Selatan 01493"
+408,Gawati,Latupono,M,87,gawati386,mJ44Wxgp@#,gawati.latupono@yahoo.com,810809758,"Gg. Ciwastra No. 3
+Makassar, JT 49489"
+409,Yunita,Mandala,M,80,yunita71,(fIwsChWz5,yunita.mandala@yahoo.com,+62 (095) 409 8044,"Gg. Yos Sudarso No. 40
+Cirebon, SR 30506"
+410,Kania,Rahimah,F,41,rahimah492,(8RDqcyq+I,kania.rahimah@hotmail.com,-9691,"Jalan Raya Setiabudhi No. 40
+Kediri, Riau 35991"
+411,Makara,Zulkarnain,M,74,makara653,Mp_l6nBe57,makara.zulkarnain@yahoo.com,+62 (79) 949-9730,"Jl. Astana Anyar No. 464
+Salatiga, NT 62973"
+412,Emas,Usada,M,72,usada904,$YPccA_rK2,emas.usada@gmail.com,(010) 261-5134,"Gang Dipenogoro No. 54
+Depok, DKI Jakarta 90347"
+413,Hendri,Budiyanto,F,24,budiyanto234,@4W$v3npJ_,hendri.budiyanto@yahoo.com,(0484) 720-5944,"Jl. Cikutra Timur No. 3
+Palembang, Nusa Tenggara Timur 19185"
+414,Harto,Nasyiah,F,33,harto428,+1GXl7loW1,harto.nasyiah@gmail.com,+62 (0836) 801 6108,"Jl. Pacuan Kuda No. 981
+Tangerang Selatan, JK 23255"
+415,Candra,Rajata,M,68,candra590,(xBV&+##11,candra.rajata@gmail.com,-9011,"Gg. Jend. Sudirman No. 074
+Ambon, Kalimantan Selatan 05875"
+416,Muhammad,Suryono,F,79,suryono886,8OY@X1Pk93,muhammad.suryono@hotmail.com,(0674) 135 2012,"Gg. H.J Maemunah No. 801
+Jayapura, Sulawesi Tenggara 57780"
+417,Arta,Pranowo,F,76,arta133,R(1DeQwbOQ,arta.pranowo@gmail.com,+62 (0267) 900 4761,"Jl. Rajawali Timur No. 0
+Palembang, Bengkulu 10663"
+418,Anita,Hutagalung,F,23,anita50,90CdX&KP!r,anita.hutagalung@yahoo.com,+62 (009) 514 7622,"Gg. Setiabudhi No. 16
+Pariaman, Banten 72359"
+419,Ajeng,Lestari,F,82,lestari650,5hbg^Trp$3,ajeng.lestari@hotmail.com,+62 (0627) 660-4713,"Gg. Rungkut Industri No. 331
+Pematangsiantar, Maluku 49462"
+420,Darmaji,Anggraini,M,34,anggraini755,&C38I@ot73,darmaji.anggraini@gmail.com,+62 (813) 635-1327,"Jl. Tubagus Ismail No. 4
+Tanjungpinang, JI 94680"
+421,Latika,Prabowo,M,50,prabowo278,#*6R24Yrzc,latika.prabowo@yahoo.com,-555,"Gang Ronggowarsito No. 458
+Palu, KU 75627"
+422,Jabal,Nashiruddin,M,17,nashiruddin95,v7M9#mXq^M,jabal.nashiruddin@gmail.com,-7470,"Jalan K.H. Wahid Hasyim No. 7
+Palangkaraya, Sulawesi Utara 59544"
+423,Gangsar,Padmasari,F,37,padmasari809,)ur8tF@Cq@,gangsar.padmasari@yahoo.com,083 663 7312,"Jalan Ronggowarsito No. 9
+Semarang, Riau 37323"
+424,Labuh,Pratama,M,60,pratama205,@E94Dt4uD%,labuh.pratama@hotmail.com,+62 (063) 670 9660,"Jalan Rumah Sakit No. 1
+Bogor, JT 78129"
+425,Arta,Riyanti,M,79,riyanti15,nQh45^8zb$,arta.riyanti@yahoo.com,(014) 092 5005,"Jalan Ir. H. Djuanda No. 37
+Palu, YO 90432"
+426,Karen,Gunarto,F,80,karen316,(VRb^Y!ac5,karen.gunarto@hotmail.com,(0410) 596 4454,"Gang Antapani Lama No. 10
+Tual, Riau 30354"
+427,Kemal,Nugroho,M,26,kemal757,T$7z6WFc)^,kemal.nugroho@yahoo.com,+62 (868) 356 1775,"Jalan Monginsidi No. 02
+Probolinggo, Kalimantan Timur 00367"
+428,Yono,Waskita,X,41,waskita447,h%YKY6Omw7,yono.waskita@yahoo.com,(0947) 361-7626,"Jalan Ahmad Dahlan No. 82
+Palembang, SN 63317"
+429,Rahmat,Santoso,F,47,rahmat38,f0J9n0Sl_Z,rahmat.santoso@yahoo.com,+62 (948) 630-0189,"Jl. Pasirkoja No. 6
+Lhokseumawe, RI 84368"
+430,Cahya,Fujiati,F,76,cahya52,rE5_Ylt*(8,cahya.fujiati@gmail.com,-8796,"Gang Joyoboyo No. 258
+Pontianak, Sulawesi Selatan 84551"
+431,Bakiono,Firmansyah,F,38,bakiono95,+**EyMY&21,bakiono.firmansyah@yahoo.com,-526,"Jalan HOS. Cokroaminoto No. 12
+Padang, Sulawesi Utara 71926"
+432,Warsita,Sihombing,M,28,sihombing499,$7HwokutY9,warsita.sihombing@hotmail.com,+62 (050) 177 6315,"Jalan Erlangga No. 1
+Batu, Sulawesi Utara 95964"
+433,Jayadi,Prasetya,M,73,prasetya881,)z3)Ct57Pg,jayadi.prasetya@gmail.com,(068) 369 5001,"Jl. Tebet Barat Dalam No. 25
+Bandung, MA 87597"
+434,Cinta,Prabowo,M,56,cinta364,Y5nDWNu_#c,cinta.prabowo@gmail.com,+62 (086) 401 2534,"Gang Asia Afrika No. 0
+Banjarbaru, Bali 12403"
+435,Cengkir,Waskita,F,89,cengkir24,#NAME?,cengkir.waskita@yahoo.com,+62 (499) 367-3309,"Gang Gardujati No. 1
+Tomohon, JB 95695"
+436,Vino,Yuliarti,M,53,vino467,&KYYxYmi37,vino.yuliarti@hotmail.com,+62 (01) 576-5801,"Gg. Rumah Sakit No. 2
+Bima, Papua 96980"
+437,Bahuwarna,Aryani,M,26,aryani852,09KhMjaO_p,bahuwarna.aryani@hotmail.com,-2259,"Jl. Laswi No. 30
+Tebingtinggi, BT 63944"
+438,Bajragin,Permata,F,33,permata208,C6v1S#!^@p,bajragin.permata@yahoo.com,(062) 753 0294,"Gg. Cikapayang No. 59
+Purwokerto, MU 30874"
+439,Umi,Nuraini,M,43,nuraini423,bu(3!Wa)+i,umi.nuraini@hotmail.com,+62 (045) 897-9190,"Gg. W.R. Supratman No. 9
+Bima, KI 92215"
+440,Dirja,Saefullah,M,49,saefullah561,C#0Zy^!b_O,dirja.saefullah@gmail.com,+62 (511) 258 1002,"Gang Cikutra Timur No. 9
+Yogyakarta, Sumatera Barat 83236"
+441,Victoria,Prakasa,F,41,prakasa572,_#lr47G7Qq,victoria.prakasa@gmail.com,-5200,"Gang Kutisari Selatan No. 63
+Tangerang, SU 70979"
+442,Kurnia,Yuniar,M,57,kurnia96,X3lWy0sb!e,kurnia.yuniar@hotmail.com,(003) 593-4297,"Gg. PHH. Mustofa No. 928
+Mojokerto, JA 69138"
+443,Heryanto,Natsir,F,41,heryanto795,dI11gYggZ_,heryanto.natsir@hotmail.com,+62 (0880) 254-6690,"Jl. S. Parman No. 50
+Banda Aceh, BE 53286"
+444,Dadi,Damanik,F,57,dadi599,64pS%Sga@K,dadi.damanik@hotmail.com,+62 (074) 515-4087,"Gang Pasir Koja No. 525
+Ternate, KR 28619"
+445,Galur,Sihotang,F,80,sihotang394,_L_8EhnyQy,galur.sihotang@hotmail.com,+62 (0277) 555-5328,"Jalan Lembong No. 3
+Pasuruan, Papua 20277"
+446,Rina,Irawan,F,87,rina207,w7IQpfgu$&,rina.irawan@gmail.com,(012) 201 7187,"Gg. KH Amin Jasuta No. 6
+Medan, Gorontalo 25638"
+447,Eka,Hidayat,M,55,hidayat161,#5Bij$Gsf7,eka.hidayat@yahoo.com,(0727) 175 9482,"Jalan HOS. Cokroaminoto No. 2
+Surabaya, Sulawesi Tenggara 02314"
+448,Ilyas,Zulkarnain,M,39,ilyas562,V5UbECqK)_,ilyas.zulkarnain@hotmail.com,-9122,"Gg. Ahmad Dahlan No. 756
+Kota Administrasi Jakarta Barat, Kalimantan Barat 67734"
+449,Ajimin,Uyainah,M,71,uyainah890,bjv71dRy$C,ajimin.uyainah@yahoo.com,+62 (0320) 481-6156,"Jalan Gegerkalong Hilir No. 461
+Banjarbaru, AC 28904"
+450,Ozy,Pertiwi,F,61,pertiwi870,b0wD*Qpf%x,ozy.pertiwi@yahoo.com,+62 (0160) 824-4924,"Jalan Rawamangun No. 206
+Bitung, Kalimantan Utara 72424"
+451,Rafid,Nuraini,M,45,nuraini984,tJ))5M*v!4,rafid.nuraini@yahoo.com,(0437) 845 8611,"Gang Ciwastra No. 52
+Magelang, Sulawesi Utara 68503"
+452,Surya,Purwanti,F,90,purwanti57,91!)6RZeZT,surya.purwanti@hotmail.com,-7717,"Jalan BKR No. 25
+Bukittinggi, JB 62796"
+453,Edi,Purwanti,F,60,purwanti243,9yAHgtpx^3,edi.purwanti@yahoo.com,-4338,"Jalan Otto Iskandardinata No. 060
+Sibolga, LA 37353"
+454,Bagiya,Haryanto,F,79,haryanto68,%QQ5QjlN(y,bagiya.haryanto@yahoo.com,(0294) 857-5053,"Gg. Pelajar Pejuang No. 0
+Bitung, KS 39095"
+455,Zalindra,Siregar,M,28,siregar993,*4iAJokH2!,zalindra.siregar@gmail.com,082 370 8929,"Gang Laswi No. 81
+Ambon, Kalimantan Selatan 53581"
+456,Oskar,Purnawati,F,73,oskar459,M$9XkyRV8d,oskar.purnawati@hotmail.com,+62 (794) 806 8765,"Jalan Dipenogoro No. 126
+Padang, PA 14785"
+457,Paiman,Wasita,F,67,wasita720,!XYSanEf7_,paiman.wasita@hotmail.com,-4986,"Jl. Pacuan Kuda No. 26
+Banda Aceh, NB 35184"
+458,Cemeti,Sitompul,M,19,cemeti963,t*7X9JSd0X,cemeti.sitompul@gmail.com,-4518,"Gang R.E Martadinata No. 3
+Tangerang, Jawa Barat 79002"
+459,Azalea,Purnawati,M,22,azalea983,x^6hTlOqEW,azalea.purnawati@yahoo.com,-3136,"Jl. Ciwastra No. 3
+Lubuklinggau, Gorontalo 99480"
+460,Kamila,Wibowo,F,73,kamila179,@g4QA0Wy9#,kamila.wibowo@hotmail.com,+62 (0059) 392 7617,"Jl. Soekarno Hatta No. 848
+Tual, Sulawesi Utara 32525"
+461,Rusman,Prabowo,M,87,prabowo311,50JJlsXe&K,rusman.prabowo@hotmail.com,-1996,"Jalan Jayawijaya No. 6
+Bengkulu, Sulawesi Tengah 62066"
+462,Kunthara,Simanjuntak,F,70,kunthara91,3!jPl2PuqB,kunthara.simanjuntak@gmail.com,-6593,"Gg. K.H. Wahid Hasyim No. 16
+Pematangsiantar, DI Yogyakarta 41688"
+463,Latika,Zulkarnain,X,44,latika670,t3Ls48#h(M,latika.zulkarnain@yahoo.com,+62 (935) 072-2980,"Gg. Cikapayang No. 320
+Pematangsiantar, DKI Jakarta 33878"
+464,Bakiadi,Hariyah,F,20,bakiadi585,7j9@Z8b8!o,bakiadi.hariyah@yahoo.com,080 941 7967,"Gg. Rawamangun No. 970
+Kendari, KB 84422"
+465,Ikhsan,Melani,M,56,melani412,&S4IhbSIj6,ikhsan.melani@gmail.com,889554954,"Jl. Rumah Sakit No. 6
+Depok, KI 77130"
+466,Najwa,Hidayat,M,61,hidayat549,Iw@&3GmrjE,najwa.hidayat@hotmail.com,+62 (022) 176 2968,"Jalan Kapten Muslihat No. 5
+Bandung, KI 07501"
+467,Cahya,Winarno,F,47,winarno390,F2OOgaT2%0,cahya.winarno@hotmail.com,+62 (904) 337 8257,"Gang H.J Maemunah No. 7
+Tangerang, Maluku Utara 87266"
+468,Leo,Wibowo,M,87,wibowo401,3^s1+Tyy&a,leo.wibowo@yahoo.com,+62 (119) 913-7887,"Gang Dipenogoro No. 370
+Subulussalam, Sulawesi Tengah 13655"
+469,Shakila,Yuliarti,M,15,yuliarti887,iA%0r^vy#$,shakila.yuliarti@hotmail.com,(0860) 060 9612,"Jl. Asia Afrika No. 638
+Kota Administrasi Jakarta Selatan, Sumatera Utara 09762"
+470,Caturangga,Hakim,F,63,caturangga843,_eFQ$9Buq9,caturangga.hakim@hotmail.com,(0240) 273 4304,"Jl. Dr. Djunjunan No. 5
+Gorontalo, AC 69337"
+471,Nurul,Hidayanto,F,87,nurul920,!A8R8pDX&a,nurul.hidayanto@hotmail.com,(0111) 454 5261,"Gang Yos Sudarso No. 37
+Tual, Jawa Timur 81672"
+472,Maryanto,Kusmawati,M,22,maryanto366,kaXy&2MkUr,maryanto.kusmawati@hotmail.com,+62 (0616) 219-4828,"Jl. Jend. A. Yani No. 8
+Padang Sidempuan, Sumatera Barat 66890"
+473,Oskar,Yuniar,F,57,yuniar516,k+6i3FRgZU,oskar.yuniar@hotmail.com,+62 (037) 598 5896,"Gg. Moch. Toha No. 5
+Pekalongan, Kalimantan Utara 63288"
+474,Ajiono,Kuswandari,F,70,ajiono405,&E)Fqq$j9E,ajiono.kuswandari@gmail.com,085 036 9901,"Jl. Ciwastra No. 63
+Blitar, Jawa Barat 41546"
+475,Balamantri,Saragih,F,15,balamantri514,+u0Bol)x)!,balamantri.saragih@hotmail.com,-6231,"Jl. Astana Anyar No. 266
+Langsa, MA 14640"
+476,Garan,Prasetya,F,61,prasetya787,E0!Idw!d!5,garan.prasetya@yahoo.com,+62 (030) 977 0966,"Gang Jend. A. Yani No. 8
+Bau-Bau, BE 07339"
+477,Aswani,Marpaung,F,56,aswani150,1y5I*E8#*9,aswani.marpaung@gmail.com,(0546) 764 2656,"Gang R.E Martadinata No. 909
+Ambon, DKI Jakarta 81063"
+478,Candrakanta,Natsir,F,80,candrakanta361,N7rO2sng%D,candrakanta.natsir@gmail.com,817932215,"Gang Pasteur No. 4
+Tangerang, BB 60697"
+479,Elvina,Gunawan,F,76,gunawan278,4@!9Tc38*S,elvina.gunawan@hotmail.com,+62 (033) 692-6352,"Gang Dipatiukur No. 101
+Cilegon, Jawa Barat 07921"
+480,Prakosa,Laksita,M,34,laksita749,_Rh5ApKcJ0,prakosa.laksita@gmail.com,+62 (0491) 833 5237,"Jalan Pacuan Kuda No. 00
+Tasikmalaya, SR 00108"
+481,Kasiran,Pradana,M,90,kasiran570,v8GWvx)G*_,kasiran.pradana@gmail.com,+62 (086) 330 6157,"Gang Tubagus Ismail No. 9
+Kota Administrasi Jakarta Utara, Sumatera Utara 55498"
+482,Rendy,Anggriawan,M,44,rendy124,44nXtG2b^4,rendy.anggriawan@hotmail.com,(0295) 049-9188,"Gg. Suniaraja No. 5
+Singkawang, ST 88654"
+483,Dasa,Wibisono,M,76,dasa776,(Q1BGxh%R1,dasa.wibisono@hotmail.com,871802499,"Gang Kutai No. 2
+Balikpapan, NT 53300"
+484,Sari,Susanti,F,39,sari764,Y9&pA+!q%0,sari.susanti@gmail.com,+62 (035) 240-1282,"Gg. R.E Martadinata No. 46
+Tarakan, MU 69548"
+485,Kalim,Santoso,M,76,kalim968,*5Y#tA8(sr,kalim.santoso@hotmail.com,+62 (092) 029-1733,"Jl. Siliwangi No. 99
+Blitar, LA 69391"
+486,Kamila,Widiastuti,X,72,widiastuti366,#5HqVfHAN),kamila.widiastuti@yahoo.com,+62 (003) 125 0694,"Jl. Cikutra Barat No. 29
+Sibolga, Papua Barat 64171"
+487,Titi,Gunawan,F,23,gunawan90,C9O2Quw5^9,titi.gunawan@yahoo.com,+62 (12) 501-7617,"Jalan HOS. Cokroaminoto No. 899
+Sibolga, Jawa Timur 21193"
+488,Kurnia,Laksita,F,32,laksita380,K5a#@MAr#5,kurnia.laksita@yahoo.com,+62 (94) 053 4867,"Gang Kapten Muslihat No. 45
+Tidore Kepulauan, Jawa Tengah 72279"
+489,Eja,Mulyani,M,43,mulyani490,^9uOuMBcGt,eja.mulyani@gmail.com,+62 (74) 608 2496,"Gg. R.E Martadinata No. 65
+Tangerang Selatan, DKI Jakarta 19192"
+490,Darsirah,Santoso,M,26,darsirah664,7%J$mlHY&D,darsirah.santoso@hotmail.com,(0316) 995 9348,"Jl. Suryakencana No. 07
+Kota Administrasi Jakarta Selatan, PA 01596"
+491,Drajat,Prabowo,M,53,drajat997,)xE6uck7b1,drajat.prabowo@yahoo.com,-9596,"Gg. S. Parman No. 35
+Padang, SR 69453"
+492,Omar,Wijaya,F,41,wijaya98,c8LnzCM8!r,omar.wijaya@yahoo.com,+62 (75) 309-5431,"Jalan Ahmad Dahlan No. 3
+Samarinda, Jambi 71684"
+493,Rudi,Gunawan,F,73,gunawan609,u+S1LurxcE,rudi.gunawan@hotmail.com,+62 (088) 193-6364,"Gang Ciwastra No. 10
+Tidore Kepulauan, NT 27071"
+494,Rama,Hasanah,M,82,rama501,_97BxVP63n,rama.hasanah@yahoo.com,(0288) 237 9909,"Jl. Dipatiukur No. 96
+Makassar, SU 36035"
+495,Febi,Puspasari,F,37,febi757,N&bET5Ehj0,febi.puspasari@gmail.com,+62 (39) 746 2837,"Jl. Cihampelas No. 52
+Banjarbaru, Banten 06013"
+496,Jamal,Wibowo,M,63,jamal641,)gO7ZDy)ws,jamal.wibowo@hotmail.com,+62 (026) 958 7463,"Jalan Otto Iskandardinata No. 58
+Pontianak, JB 00980"
+497,Genta,Saefullah,M,57,genta309,sKQ3RTZh^#,genta.saefullah@gmail.com,+62 (952) 952 7441,"Jl. Ciwastra No. 743
+Gorontalo, Bengkulu 95776"
+498,Daryani,Mandala,M,57,daryani170,(t2+Y!yg5E,daryani.mandala@hotmail.com,+62 (350) 408 8605,"Jalan Pacuan Kuda No. 8
+Kupang, Kalimantan Timur 38121"
+499,Dipa,Hutasoit,F,73,dipa839,)^0fWyvTU#,dipa.hutasoit@gmail.com,085 513 8292,"Jl. Ir. H. Djuanda No. 980
+Depok, Riau 03486"
+500,Bakiman,Kuswoyo,M,61,kuswoyo459,(byFEEp*7I,bakiman.kuswoyo@yahoo.com,858341981,"Jalan Lembong No. 100
+Lhokseumawe, PA 92904"
+501,Kartika,Nasyiah,F,49,kartika144,r(5Ofy_fn*,kartika.nasyiah@yahoo.com,+62 (043) 838-0229,"Jalan S. Parman No. 67
+Ternate, YO 90723"
+502,Ilsa,Narpati,M,45,ilsa572,!$UlI_Hpl7,ilsa.narpati@yahoo.com,+62 (042) 051-3032,"Gg. Dr. Djunjunan No. 678
+Prabumulih, Kepulauan Bangka Belitung 32280"
+503,Septi,Pudjiastuti,M,38,pudjiastuti891,+&PBjGfff0,septi.pudjiastuti@hotmail.com,+62 (27) 688-8374,"Gang Pelajar Pejuang No. 806
+Pariaman, Sulawesi Utara 46436"
+504,Dewi,Wahyudin,F,59,dewi876,^2)5_SOeLs,dewi.wahyudin@gmail.com,+62 (039) 513-5262,"Gg. Rawamangun No. 3
+Pekalongan, Maluku Utara 29300"
+505,Maryanto,Yolanda,F,22,yolanda155,f%l8ZfpcqN,maryanto.yolanda@yahoo.com,+62 (083) 785-0683,"Jl. W.R. Supratman No. 7
+Mataram, Maluku 87823"
+506,Yance,Sirait,F,41,sirait499,78ZJADNf^H,yance.sirait@yahoo.com,085 990 6293,"Gang Rajawali Timur No. 6
+Purwokerto, JA 91386"
+507,Harjaya,Widodo,F,58,harjaya843,!4P!5wpQ8#,harjaya.widodo@hotmail.com,+62 (0895) 581 5273,"Jl. Suryakencana No. 3
+Padang, MA 85111"
+508,Ajiono,Nasyiah,F,75,ajiono145,$2GMK&5nE3,ajiono.nasyiah@hotmail.com,+62 (0427) 243-0968,"Gang Rajawali Barat No. 886
+Magelang, Jawa Barat 69657"
+509,Tina,Mandasari,F,60,mandasari749,kC%0Woe%7&,tina.mandasari@gmail.com,(0106) 021-0400,"Gang Waringin No. 09
+Cilegon, Kepulauan Riau 42204"
+510,Harjo,Winarno,M,35,winarno802,73Q8FTi6(S,harjo.winarno@yahoo.com,+62 (60) 292 8179,"Gang Kebonjati No. 5
+Denpasar, Maluku Utara 32376"
+511,Maras,Santoso,F,86,santoso924,&TOqB+D_*1,maras.santoso@yahoo.com,(0512) 038-8416,"Jalan Moch. Ramdan No. 0
+Magelang, PB 10638"
+512,Diana,Suryono,M,87,suryono857,a7Tw1b7v#o,diana.suryono@gmail.com,-8137,"Gang Pacuan Kuda No. 757
+Bogor, ST 43242"
+513,Wira,Suryono,F,63,suryono553,mb&4IpRepV,wira.suryono@hotmail.com,(0911) 177-9220,"Jl. Asia Afrika No. 974
+Medan, SR 03353"
+514,Ghaliyati,Astuti,M,37,astuti339,@ME1wz6h6s,ghaliyati.astuti@gmail.com,+62 (154) 894-0591,"Gg. Abdul Muis No. 21
+Blitar, Gorontalo 89596"
+515,Eluh,Prayoga,F,39,prayoga345,_z3n3Lx0XA,eluh.prayoga@hotmail.com,+62 (30) 651 8216,"Gg. Monginsidi No. 153
+Kupang, Sulawesi Selatan 32476"
+516,Dodo,Megantara,F,26,dodo208,4e&DstXV)8,dodo.megantara@gmail.com,-7735,"Jalan Siliwangi No. 930
+Manado, Sulawesi Utara 89418"
+517,Elon,Suryono,F,28,suryono430,)U^10JzALz,elon.suryono@hotmail.com,-2319,"Jalan Gardujati No. 6
+Singkawang, Kalimantan Selatan 41901"
+518,Unjani,Sihombing,F,89,sihombing1000,%*1XeX&I#c,unjani.sihombing@hotmail.com,+62 (07) 128-4134,"Jalan Ir. H. Djuanda No. 10
+Pekalongan, NT 70621"
+519,Cagak,Kusumo,M,61,kusumo386,xJVUoHuh^0,cagak.kusumo@gmail.com,+62 (888) 614-5022,"Gg. Sukabumi No. 4
+Cimahi, SR 36379"
+520,Heru,Saefullah,F,55,saefullah869,n%9IFBLms#,heru.saefullah@yahoo.com,+62 (69) 963 4429,"Jl. Suryakencana No. 9
+Pariaman, BE 01323"
+521,Narji,Mayasari,M,22,narji702,&S^mIkPZ6y,narji.mayasari@yahoo.com,-8739,"Jl. PHH. Mustofa No. 34
+Tegal, PB 83391"
+522,Nasab,Agustina,M,65,nasab954,m1Ng9udU_3,nasab.agustina@hotmail.com,+62 (063) 096 1300,"Gang Medokan Ayu No. 691
+Kediri, Sulawesi Tengah 72991"
+523,Mahesa,Wijaya,M,40,mahesa23,6nDBDbAZ!2,mahesa.wijaya@yahoo.com,(079) 226 1763,"Jalan Soekarno Hatta No. 256
+Pasuruan, GO 03180"
+524,Balidin,Riyanti,F,22,riyanti367,7rC#eub%%a,balidin.riyanti@yahoo.com,-2845,"Gg. Stasiun Wonokromo No. 91
+Palembang, JB 13442"
+525,Jamil,Anggraini,M,67,jamil549,Y*7B9GwH)x,jamil.anggraini@hotmail.com,(032) 482-5711,"Jl. Dipenogoro No. 702
+Kota Administrasi Jakarta Barat, Sulawesi Tengah 87764"
+526,Yono,Wahyuni,F,52,yono611,c&!4BkKBId,yono.wahyuni@gmail.com,+62 (639) 503 8671,"Jl. K.H. Wahid Hasyim No. 019
+Probolinggo, KT 35566"
+527,Asmuni,Najmudin,M,46,najmudin583,WW2$xKob5&,asmuni.najmudin@hotmail.com,-1067,"Gg. M.T Haryono No. 339
+Sibolga, SN 59483"
+528,Jamil,Permata,F,66,jamil891,!LcOITF0i1,jamil.permata@gmail.com,(0345) 162-4713,"Jalan H.J Maemunah No. 549
+Tanjungbalai, DKI Jakarta 54767"
+529,Lili,Wijaya,F,85,lili108,1(54CNqC(S,lili.wijaya@yahoo.com,-4892,"Gang Erlangga No. 28
+Lubuklinggau, SN 84381"
+530,Kurnia,Wacana,M,83,kurnia652,m_(7WPO&tf,kurnia.wacana@gmail.com,-3667,"Jalan Asia Afrika No. 695
+Kota Administrasi Jakarta Pusat, BE 25344"
+531,Cemeti,Wastuti,M,41,cemeti338,s!%2(B*zX),cemeti.wastuti@yahoo.com,-2348,"Jl. Otto Iskandardinata No. 95
+Kota Administrasi Jakarta Timur, KS 93775"
+532,Sabri,Januar,F,47,januar235,4!B8Wq)@&q,sabri.januar@yahoo.com,(060) 703 1131,"Jalan Ir. H. Djuanda No. 0
+Cilegon, Sulawesi Utara 58051"
+533,Cemani,Kusmawati,F,43,cemani328,+#y646Aei*,cemani.kusmawati@gmail.com,+62 (039) 911 1520,"Gg. Moch. Toha No. 4
+Kupang, Sulawesi Selatan 45755"
+534,Wirda,Hutagalung,M,50,hutagalung818,!7uqF6VmbX,wirda.hutagalung@yahoo.com,(0546) 672-5136,"Jl. Siliwangi No. 451
+Banjar, KI 93134"
+535,Dodo,Anggriawan,M,31,anggriawan384,f0t!z1Lf$Y,dodo.anggriawan@gmail.com,+62 (78) 876 7745,"Jl. H.J Maemunah No. 1
+Blitar, Riau 68666"
+536,Laras,Mansur,M,23,laras187,1fO_ZLd8^3,laras.mansur@gmail.com,-8925,"Jalan Yos Sudarso No. 6
+Kota Administrasi Jakarta Barat, Gorontalo 27346"
+537,Umaya,Melani,F,38,melani169,zoAXwBDd%0,umaya.melani@gmail.com,+62 (094) 508-0861,"Gang HOS. Cokroaminoto No. 1
+Kota Administrasi Jakarta Timur, NB 53755"
+538,Viman,Simanjuntak,F,75,simanjuntak826,@52EmqR7Jg,viman.simanjuntak@hotmail.com,+62 (05) 764 1580,"Jalan Lembong No. 097
+Pasuruan, BE 06249"
+539,Galang,Astuti,M,40,astuti274,@t1U(CYhH6,galang.astuti@gmail.com,083 899 2238,"Jl. Jend. Sudirman No. 28
+Dumai, Jambi 51664"
+540,Estiawan,Prabowo,M,39,prabowo431,&3ErEIxajV,estiawan.prabowo@hotmail.com,+62 (071) 338 3811,"Jalan Asia Afrika No. 0
+Tangerang Selatan, Kalimantan Barat 38027"
+541,Cengkir,Mulyani,M,23,cengkir354,H2)E!Wk1%b,cengkir.mulyani@hotmail.com,+62 (022) 856-2622,"Jalan Kiaracondong No. 606
+Pangkalpinang, DKI Jakarta 27393"
+542,Kambali,Anggriawan,M,31,anggriawan521,s4AWvUN!$v,kambali.anggriawan@gmail.com,+62 (0758) 905 0059,"Jl. Bangka Raya No. 14
+Yogyakarta, SR 76016"
+543,Melinda,Yulianti,F,83,melinda198,@wplILf#2J,melinda.yulianti@hotmail.com,(0616) 327 7381,"Gg. Tubagus Ismail No. 6
+Tasikmalaya, NT 19360"
+544,Maryadi,Santoso,M,17,maryadi344,(0S5M_Sy!b,maryadi.santoso@yahoo.com,+62 (0767) 034 3422,"Gang Ir. H. Djuanda No. 203
+Kotamobagu, BA 96319"
+545,Ina,Mansur,F,38,ina5,7*1Y3NHmRE,ina.mansur@yahoo.com,-2851,"Gg. Pasirkoja No. 84
+Meulaboh, BA 97591"
+546,Harsaya,Halim,M,44,halim265,+wOBZ@yh6P,harsaya.halim@yahoo.com,(006) 617 5895,"Gg. Jend. A. Yani No. 2
+Samarinda, Sulawesi Barat 47359"
+547,Cemplunk,Hutagalung,M,70,hutagalung625,z05xK#e_!!,cemplunk.hutagalung@hotmail.com,+62 (61) 588-6126,"Gg. Cikapayang No. 703
+Meulaboh, Kepulauan Bangka Belitung 10675"
+548,Elvina,Sihotang,F,78,sihotang316,^AXBbPYd8&,elvina.sihotang@gmail.com,(090) 540-0475,"Jl. Rungkut Industri No. 9
+Kota Administrasi Jakarta Timur, JB 13833"
+549,Prabu,Ramadan,F,21,ramadan942,3F*$^3NzcP,prabu.ramadan@hotmail.com,845405341,"Jalan Ronggowarsito No. 82
+Langsa, KR 50669"
+550,Kairav,Prastuti,M,19,kairav744,$^0@Y_zYDq,kairav.prastuti@hotmail.com,(0073) 052 4148,"Gg. Gegerkalong Hilir No. 962
+Lubuklinggau, Kalimantan Selatan 67309"
+551,Koko,Susanti,M,75,susanti161,QGB^wooM(3,koko.susanti@hotmail.com,+62 (546) 264-6482,"Jalan Lembong No. 9
+Tasikmalaya, BB 97066"
+552,Johan,Hardiansyah,F,34,johan298,H(90oR)hz&,johan.hardiansyah@gmail.com,(032) 270-6474,"Gg. Cihampelas No. 101
+Bau-Bau, RI 98230"
+553,Rafid,Saefullah,M,15,rafid45,%Ri4A16luL,rafid.saefullah@hotmail.com,-2488,"Jalan Jayawijaya No. 1
+Bekasi, ST 09221"
+554,Cawuk,Purwanti,M,86,cawuk898,^l8fBjwq8$,cawuk.purwanti@hotmail.com,+62 (87) 589-4246,"Gang Merdeka No. 687
+Bima, Bengkulu 53552"
+555,Devi,Puspasari,F,44,devi7,TLvRp30xV+,devi.puspasari@hotmail.com,-6672,"Gang Gegerkalong Hilir No. 7
+Sibolga, SS 96479"
+556,Uli,Hutagalung,F,66,hutagalung929,!C8TGcg3s*,uli.hutagalung@gmail.com,-4154,"Jl. Tubagus Ismail No. 321
+Bekasi, Sulawesi Barat 55917"
+557,Umi,Samosir,M,57,umi196,#05EfjXgL0,umi.samosir@hotmail.com,(034) 222-0676,"Jl. Kiaracondong No. 7
+Kupang, Papua Barat 06671"
+558,Yani,Simanjuntak,F,69,yani527,!$%^h9Rv+D,yani.simanjuntak@yahoo.com,(0300) 378-5623,"Jl. Medokan Ayu No. 902
+Kota Administrasi Jakarta Timur, KS 47600"
+559,Pangeran,Tampubolon,M,41,pangeran719,D_9w(Sn5%*,pangeran.tampubolon@gmail.com,+62 (0887) 804-0897,"Gang Moch. Toha No. 0
+Banda Aceh, Papua Barat 49941"
+560,Samiah,Farida,F,54,samiah603,S0Ym3#wt_G,samiah.farida@yahoo.com,+62 (175) 615 6516,"Jl. Jend. A. Yani No. 1
+Tanjungbalai, Kalimantan Utara 41342"
+561,Jindra,Rahayu,F,84,jindra221,oJ29Pxz4f@,jindra.rahayu@gmail.com,+62 (064) 091 7121,"Jl. Tebet Barat Dalam No. 805
+Payakumbuh, Papua Barat 63670"
+562,Indah,Anggraini,F,33,indah759,G)Pu0Uws^9,indah.anggraini@yahoo.com,+62 (0384) 850-5663,"Gg. Kutisari Selatan No. 885
+Sorong, DI Yogyakarta 97814"
+563,Eva,Nurdiyanti,F,69,eva314,4#w5s_#zuP,eva.nurdiyanti@hotmail.com,081 804 1096,"Jl. Ir. H. Djuanda No. 808
+Kota Administrasi Jakarta Pusat, KU 73617"
+564,Kadir,Putra,M,19,kadir41,vrHA0J)Nn*,kadir.putra@yahoo.com,-1967,"Gang Kapten Muslihat No. 8
+Langsa, Sulawesi Utara 97525"
+565,Ganep,Firgantoro,F,74,ganep703,&N93%ACl$t,ganep.firgantoro@gmail.com,(057) 643-5359,"Jalan Kutai No. 91
+Binjai, Sumatera Utara 11267"
+566,Hardana,Permadi,M,32,hardana150,!2!CXVRhqJ,hardana.permadi@gmail.com,085 989 7671,"Jl. Rajawali Barat No. 717
+Palembang, NB 62271"
+567,Utama,Pertiwi,M,17,pertiwi601,T+4Wt_%iSS,utama.pertiwi@yahoo.com,(0613) 650-3566,"Gg. Gedebage Selatan No. 11
+Balikpapan, Jawa Timur 30579"
+568,Hasta,Rajata,F,62,rajata693,2^CuY3TbwS,hasta.rajata@yahoo.com,+62 (0014) 592-1475,"Gg. Jend. Sudirman No. 247
+Kota Administrasi Jakarta Pusat, Sumatera Barat 86435"
+569,Lukita,Waskita,M,19,waskita20,cE5^wOJt5#,lukita.waskita@gmail.com,-10640,"Gg. Suryakencana No. 230
+Bandar Lampung, GO 70399"
+570,Rini,Uyainah,M,29,uyainah154,G^1JFaDyI8,rini.uyainah@gmail.com,(0016) 027-4628,"Gang Ir. H. Djuanda No. 43
+Batu, PB 68262"
+571,Ozy,Damanik,F,24,damanik503,6vRDp^Uu_f,ozy.damanik@hotmail.com,086 637 3843,"Jalan Suryakencana No. 959
+Balikpapan, KT 72756"
+572,Iriana,Wahyuni,M,34,iriana986,tSdN3Tf)(4,iriana.wahyuni@hotmail.com,-4227,"Jalan Erlangga No. 7
+Gorontalo, Nusa Tenggara Timur 06918"
+573,Talia,Pertiwi,M,74,talia249,9#!Ds$AG!8,talia.pertiwi@gmail.com,-5227,"Gang Setiabudhi No. 5
+Sukabumi, Aceh 39409"
+574,Agnes,Riyanti,M,37,agnes757,EDU_T9Am^D,agnes.riyanti@yahoo.com,+62 (053) 533 4994,"Gang Wonoayu No. 16
+Singkawang, Sumatera Utara 41282"
+575,Ophelia,Pradipta,M,72,pradipta70,%%o@0DZx%8,ophelia.pradipta@yahoo.com,+62 (011) 286-9356,"Jl. Cikutra Barat No. 13
+Sorong, BB 92586"
+576,Jabal,Halim,F,72,jabal774,&Bxo0Blh#9,jabal.halim@hotmail.com,-6478,"Jl. Cempaka No. 350
+Langsa, Sulawesi Barat 32594"
+577,Kuncara,Hardiansyah,M,80,hardiansyah678,(PQt)xsa9g,kuncara.hardiansyah@hotmail.com,(0909) 026 0631,"Gg. Ciumbuleuit No. 8
+Sibolga, Papua 90767"
+578,Lantar,Uyainah,M,77,lantar834,(va3BkID^a,lantar.uyainah@hotmail.com,(086) 511 5006,"Gg. Dipenogoro No. 772
+Sungai Penuh, KR 36466"
+579,Darmanto,Usada,X,68,darmanto984,F73ufPFy+j,darmanto.usada@yahoo.com,(074) 539-4325,"Jl. Monginsidi No. 5
+Kediri, Jambi 80982"
+580,Raina,Sihombing,F,33,raina864,jVQ8rHRj_M,raina.sihombing@hotmail.com,+62 (132) 568 5040,"Gang Ronggowarsito No. 13
+Kota Administrasi Jakarta Timur, Lampung 25897"
+581,Empluk,Wibisono,F,83,empluk313,O(^4W*fatc,empluk.wibisono@yahoo.com,(0880) 899-4764,"Gang Tebet Barat Dalam No. 858
+Tarakan, KB 06283"
+582,Nadine,Suartini,F,15,suartini373,^0YiEtaQ0j,nadine.suartini@hotmail.com,+62 (28) 237-5902,"Gg. Jayawijaya No. 9
+Pekanbaru, AC 72735"
+583,Zulfa,Nababan,M,27,nababan855,33Fc8P$3^g,zulfa.nababan@hotmail.com,(042) 538-7454,"Jl. M.H Thamrin No. 58
+Padang Sidempuan, Jambi 17379"
+584,Dalimin,Maheswara,M,32,dalimin887,QH#0YVMvH_,dalimin.maheswara@gmail.com,804615268,"Jalan Bangka Raya No. 339
+Pasuruan, Kalimantan Selatan 15031"
+585,Jaya,Sirait,M,28,sirait130,7%)9Zva%%q,jaya.sirait@hotmail.com,828989276,"Gang Sentot Alibasa No. 935
+Ternate, PA 22042"
+586,Johan,Wijayanti,F,67,johan417,pY9TWhIWq%,johan.wijayanti@gmail.com,(065) 083 3695,"Gg. Suryakencana No. 708
+Langsa, BB 38443"
+587,Gatra,Susanti,F,18,susanti556,s7tM9Jme)S,gatra.susanti@gmail.com,-5796,"Jl. R.E Martadinata No. 51
+Pekanbaru, MU 07780"
+588,Lulut,Kusmawati,F,52,lulut21,L7KTp8Mq+Y,lulut.kusmawati@gmail.com,+62 (0787) 021-5848,"Gg. W.R. Supratman No. 65
+Kota Administrasi Jakarta Timur, GO 46978"
+589,Tari,Rajata,F,20,rajata959,ys7N&Fqj^4,tari.rajata@yahoo.com,+62 (388) 710 4438,"Jl. Kebonjati No. 894
+Mojokerto, MU 16208"
+590,Luwar,Najmudin,M,36,luwar721,WkQr6JopH*,luwar.najmudin@gmail.com,+62 (76) 312 4146,"Gang Ronggowarsito No. 431
+Pagaralam, JK 86652"
+591,Emin,Napitupulu,M,36,napitupulu610,#Y3T1*hnpt,emin.napitupulu@gmail.com,(090) 224 0539,"Gg. Otto Iskandardinata No. 14
+Bukittinggi, Sulawesi Tengah 59389"
+592,Karen,Widodo,M,51,karen269,8+33fEju!J,karen.widodo@gmail.com,(060) 979 6045,"Jl. Dipenogoro No. 136
+Prabumulih, SG 85530"
+593,Karya,Yulianti,M,78,karya243,!@e2SJfVP1,karya.yulianti@hotmail.com,+62 (0574) 470-3315,"Gang Dr. Djunjunan No. 19
+Medan, DKI Jakarta 01762"
+594,Fitria,Hakim,M,43,fitria830,&K^8sRWw2E,fitria.hakim@gmail.com,+62 (0221) 884-3634,"Jl. PHH. Mustofa No. 414
+Lhokseumawe, Jawa Tengah 63951"
+595,Ade,Wasita,M,86,ade555,oWW@8J9bFl,ade.wasita@hotmail.com,-9534,"Gg. Dr. Djunjunan No. 613
+Bengkulu, BE 25223"
+596,Aisyah,Dongoran,M,84,dongoran370,W9DZew5#*2,aisyah.dongoran@hotmail.com,+62 (970) 134 5780,"Gang Kutisari Selatan No. 15
+Serang, BA 29015"
+597,Padma,Mandasari,M,52,padma136,%4nB3xm%+7,padma.mandasari@gmail.com,-3897,"Gg. Ahmad Dahlan No. 02
+Bekasi, DKI Jakarta 31701"
+598,Carla,Prasasta,F,22,carla737,Cy^AZREw*3,carla.prasasta@gmail.com,(010) 944-4641,"Gang Bangka Raya No. 00
+Langsa, ST 28168"
+599,Oskar,Kuswandari,F,85,oskar377,6OK*Oa(r#1,oskar.kuswandari@hotmail.com,+62 (368) 769-3260,"Gang Suryakencana No. 11
+Tual, SS 39379"
+600,Panji,Oktaviani,M,54,oktaviani805,&QdvOyzl5@,panji.oktaviani@gmail.com,-9519,"Jalan Suniaraja No. 8
+Lhokseumawe, SU 31769"
+601,Sakura,Haryanto,M,80,sakura331,xT_4RFpr_C,sakura.haryanto@yahoo.com,+62 (041) 447-1156,"Gang Tubagus Ismail No. 343
+Jambi, PB 42240"
+602,Baktiono,Prakasa,F,75,prakasa937,O*m2QRx7^^,baktiono.prakasa@gmail.com,085 660 3171,"Jalan R.E Martadinata No. 982
+Kota Administrasi Jakarta Timur, Sulawesi Selatan 78528"
+603,Catur,Nashiruddin,M,88,nashiruddin25,p3XWUNwP&^,catur.nashiruddin@yahoo.com,(054) 383-4512,"Jalan Ciumbuleuit No. 97
+Lubuklinggau, Nusa Tenggara Timur 61116"
+604,Juli,Anggriawan,F,40,anggriawan96,XSm5*BpsK&,juli.anggriawan@hotmail.com,+62 (24) 320-1486,"Gg. Rajawali Barat No. 796
+Banjarbaru, Nusa Tenggara Barat 32537"
+605,Nrima,Santoso,F,35,santoso188,c0KI+TAb^%,nrima.santoso@yahoo.com,-5902,"Gang Sukajadi No. 49
+Bontang, KS 34543"
+606,Vanesa,Prakasa,F,66,vanesa294,B#L@2RhA7u,vanesa.prakasa@yahoo.com,+62 (326) 818-6001,"Jalan H.J Maemunah No. 83
+Sukabumi, Jawa Barat 42863"
+607,Novi,Wibisono,F,71,wibisono601,#NAME?,novi.wibisono@yahoo.com,(069) 021-1733,"Jalan H.J Maemunah No. 97
+Pariaman, Sulawesi Barat 32778"
+608,Cindy,Yuliarti,M,36,cindy396,rV12AffU%n,cindy.yuliarti@gmail.com,-8013,"Gang Kutisari Selatan No. 716
+Balikpapan, KT 02126"
+609,Rahman,Permata,M,74,rahman252,yO3JCb6q@#,rahman.permata@yahoo.com,+62 (01) 483-7103,"Jalan KH Amin Jasuta No. 1
+Bontang, Kalimantan Timur 10184"
+610,Olga,Mayasari,F,23,olga724,p9^z!tUS#!,olga.mayasari@gmail.com,+62 (60) 073-6796,"Jalan Ir. H. Djuanda No. 1
+Bontang, JA 81996"
+611,Ellis,Riyanti,F,50,ellis197,$0_^INk@@(,ellis.riyanti@gmail.com,+62 (80) 196-2947,"Jalan Peta No. 702
+Pekalongan, Bali 60060"
+612,Eja,Usada,F,78,eja781,i9AwV(yv*E,eja.usada@gmail.com,-4060,"Jl. Raya Ujungberung No. 3
+Bontang, Sumatera Utara 46947"
+613,Gandi,Utami,F,36,utami857,((d70Y@mP@,gandi.utami@gmail.com,+62 (024) 702-9899,"Jl. Abdul Muis No. 336
+Batam, Jawa Tengah 77484"
+614,Tasnim,Pratiwi,F,58,tasnim633,(Eb%T3At!0,tasnim.pratiwi@gmail.com,+62 (40) 860 7807,"Jalan Waringin No. 97
+Probolinggo, Kalimantan Tengah 62942"
+615,Tedi,Yolanda,M,30,yolanda261,V(&x16Rd+$,tedi.yolanda@hotmail.com,(0391) 310-4203,"Gang Dipenogoro No. 470
+Probolinggo, Maluku Utara 12723"
+616,Alambana,Wijayanti,F,43,alambana94,%@JNl_v_g1,alambana.wijayanti@gmail.com,-1546,"Jalan Stasiun Wonokromo No. 097
+Sukabumi, KS 15622"
+617,Alika,Gunarto,F,57,gunarto720,%RYAiYdt10,alika.gunarto@gmail.com,(034) 949 0691,"Gg. Pelajar Pejuang No. 73
+Binjai, ST 98433"
+618,Bakiman,Suartini,F,70,bakiman821,CdXL1DwU@W,bakiman.suartini@gmail.com,(094) 226 7764,"Jalan Gardujati No. 992
+Gorontalo, Sumatera Barat 55823"
+619,Paiman,Maulana,F,34,maulana697,*#ux0%Obp(,paiman.maulana@yahoo.com,-4130,"Jalan Cikutra Timur No. 77
+Pontianak, ST 97047"
+620,Nilam,Kuswoyo,M,85,kuswoyo424,@c!23AEeZt,nilam.kuswoyo@gmail.com,088 167 8032,"Gg. Monginsidi No. 332
+Lhokseumawe, KR 70231"
+621,Cornelia,Maryadi,F,51,maryadi29,^17OiYZm_A,cornelia.maryadi@hotmail.com,(099) 634-1108,"Jalan Rajawali Timur No. 8
+Pariaman, JT 08566"
+622,Balapati,Anggriawan,F,87,anggriawan533,^0fcCfVu@l,balapati.anggriawan@yahoo.com,+62 (93) 070 8032,"Jalan Erlangga No. 237
+Magelang, BT 54455"
+623,Belinda,Saragih,F,25,belinda647,!DB@f%rz3Q,belinda.saragih@yahoo.com,-9433,"Gang Cihampelas No. 86
+Malang, Sumatera Selatan 03949"
+624,Mahdi,Hutasoit,M,44,hutasoit615,!wSMalb24e,mahdi.hutasoit@gmail.com,(0241) 674 9565,"Gang Wonoayu No. 8
+Pariaman, Sulawesi Barat 97367"
+625,Ayu,Waskita,F,46,waskita366,M*8Jip0!Mh,ayu.waskita@yahoo.com,+62 (660) 675 9129,"Gang Abdul Muis No. 31
+Subulussalam, BA 87303"
+626,Panji,Saefullah,M,71,saefullah796,(8HZJLfg&u,panji.saefullah@yahoo.com,-1576,"Jl. Siliwangi No. 374
+Pematangsiantar, Kalimantan Barat 35788"
+627,Argono,Hardiansyah,M,61,argono534,(cU(Mhs)$8,argono.hardiansyah@gmail.com,(046) 223 0677,"Jl. Astana Anyar No. 16
+Surabaya, BT 96827"
+628,Latika,Maryadi,M,54,maryadi660,79CxX8r3&N,latika.maryadi@hotmail.com,(0699) 653-2311,"Gang Pasir Koja No. 285
+Langsa, BB 25290"
+629,Jabal,Riyanti,F,33,jabal529,@rWzFAErY9,jabal.riyanti@gmail.com,-6745,"Jl. Ahmad Yani No. 33
+Tanjungbalai, KU 32070"
+630,Gasti,Agustina,F,22,agustina263,nv4HgiOsV&,gasti.agustina@hotmail.com,+62 (0004) 639 5400,"Jl. Otto Iskandardinata No. 014
+Tidore Kepulauan, JI 81231"
+631,Alika,Pertiwi,M,64,pertiwi855,TNq5CSFsp),alika.pertiwi@hotmail.com,(0209) 459-4355,"Jalan Tebet Barat Dalam No. 553
+Subulussalam, BB 88077"
+632,Laksana,Pratama,F,26,laksana696,i7cHy(hv*8,laksana.pratama@yahoo.com,+62 (093) 627 4164,"Jl. Moch. Toha No. 01
+Bandar Lampung, DKI Jakarta 51960"
+633,Janet,Suartini,F,70,janet586,2sAiQi0P!c,janet.suartini@gmail.com,-10420,"Gang Wonoayu No. 2
+Mojokerto, Sulawesi Selatan 00051"
+634,Panji,Sirait,M,56,sirait180,$bW)GOLsP9,panji.sirait@hotmail.com,+62 (46) 496 1088,"Gg. Cikutra Barat No. 73
+Palembang, SN 91931"
+635,Mulya,Kusmawati,M,46,mulya984,Tc@$63Mt+u,mulya.kusmawati@gmail.com,-6326,"Gang Siliwangi No. 9
+Tegal, AC 84326"
+636,Maman,Nasyidah,M,34,nasyidah830,lk!8jNtsTz,maman.nasyidah@gmail.com,-6931,"Jalan Kutisari Selatan No. 857
+Blitar, Kalimantan Barat 61487"
+637,Banawa,Wibowo,M,57,banawa618,VqDGoFqm%1,banawa.wibowo@gmail.com,(0068) 168-4619,"Gang Rajiman No. 63
+Pontianak, SR 11711"
+638,Martani,Nugroho,M,79,martani772,l5ybJ(he$O,martani.nugroho@gmail.com,+62 (0064) 294-2310,"Gg. Rungkut Industri No. 60
+Bitung, Sumatera Utara 48172"
+639,Almira,Hutagalung,M,50,almira14,)5nQKhDm8+,almira.hutagalung@hotmail.com,+62 (738) 115-9699,"Gang Kiaracondong No. 2
+Tegal, Kalimantan Barat 59759"
+640,Mustofa,Laksmiwati,F,36,laksmiwati325,_2Pog4202R,mustofa.laksmiwati@gmail.com,-8110,"Jl. M.H Thamrin No. 427
+Semarang, Papua 10207"
+641,Bakianto,Laksmiwati,M,25,laksmiwati259,v&6y7KpR8#,bakianto.laksmiwati@gmail.com,+62 (767) 312 1988,"Gang Tubagus Ismail No. 0
+Surakarta, GO 24600"
+642,Johan,Tampubolon,F,63,tampubolon325,#NAME?,johan.tampubolon@gmail.com,085 122 9044,"Jalan Tubagus Ismail No. 57
+Singkawang, JA 93854"
+643,Mahmud,Sihombing,M,23,mahmud464,_c6AtXjq6@,mahmud.sihombing@yahoo.com,-7694,"Jl. Astana Anyar No. 834
+Batam, Bali 97698"
+644,Agnes,Pertiwi,M,50,pertiwi545,ER7ZeQ)2&v,agnes.pertiwi@hotmail.com,(0008) 662-1777,"Gang Soekarno Hatta No. 32
+Palu, Sulawesi Selatan 02761"
+645,Bahuwarna,Budiyanto,M,35,bahuwarna770,(eT)56KrE#,bahuwarna.budiyanto@yahoo.com,+62 (045) 004-7717,"Gang Rawamangun No. 9
+Yogyakarta, SN 15366"
+646,Atmaja,Susanti,M,61,susanti63,+(PZQ@Su9e,atmaja.susanti@yahoo.com,084 727 5308,"Gang Raya Ujungberung No. 027
+Meulaboh, SU 64051"
+647,Rusman,Pudjiastuti,F,40,rusman732,j_6AXc+&)G,rusman.pudjiastuti@hotmail.com,-4569,"Gg. Lembong No. 17
+Parepare, Bengkulu 90086"
+648,Ghani,Jailani,F,24,jailani318,NJ@4CMes6Y,ghani.jailani@yahoo.com,(060) 458-9170,"Jl. Ahmad Dahlan No. 45
+Surakarta, Kalimantan Selatan 93195"
+649,Gandewa,Marbun,M,38,marbun957,^(aeN(0Hg4,gandewa.marbun@yahoo.com,-8320,"Gg. Merdeka No. 6
+Tangerang Selatan, Sulawesi Barat 75790"
+650,Chelsea,Palastri,F,90,palastri948,*!@20EzM+K,chelsea.palastri@gmail.com,+62 (094) 644 5533,"Jl. Medokan Ayu No. 97
+Mataram, Jambi 44708"
+651,Bahuraksa,Sihombing,X,77,sihombing326,!g1YTxgYpQ,bahuraksa.sihombing@hotmail.com,-4250,"Jl. Astana Anyar No. 862
+Singkawang, DI Yogyakarta 16441"
+652,Kurnia,Sinaga,F,71,kurnia592,+3LTAIIrpd,kurnia.sinaga@hotmail.com,+62 (066) 655-0654,"Jl. Rungkut Industri No. 034
+Cimahi, Sumatera Barat 58011"
+653,Ega,Nasyidah,F,15,nasyidah316,8QHE*u$%!@,ega.nasyidah@yahoo.com,(030) 582 5915,"Jalan Pasir Koja No. 474
+Blitar, Aceh 82283"
+654,Tina,Namaga,M,29,tina815,f48RsX3l@e,tina.namaga@hotmail.com,+62 (228) 051-6245,"Jl. Rajawali Barat No. 83
+Batu, MU 34797"
+655,Wani,Kusumo,M,58,kusumo22,*k6Snj$rSD,wani.kusumo@hotmail.com,-5882,"Gang Antapani Lama No. 03
+Pasuruan, Lampung 27260"
+656,Cecep,Aryani,F,83,cecep368,81r^C2Tl%p,cecep.aryani@gmail.com,+62 (002) 278-5915,"Jalan Asia Afrika No. 48
+Parepare, MU 06571"
+657,Paris,Mandasari,F,86,paris139,!(0Q2&Hk&d,paris.mandasari@yahoo.com,-3498,"Gang Moch. Ramdan No. 03
+Kota Administrasi Jakarta Utara, DI Yogyakarta 89378"
+658,Najwa,Hutagalung,F,79,najwa693,@RDcfpoQ6r,najwa.hutagalung@yahoo.com,+62 (05) 696-6700,"Jl. Kebonjati No. 04
+Banjarbaru, BA 66760"
+659,Hamima,Hasanah,M,31,hasanah573,u5P#J6kC%V,hamima.hasanah@hotmail.com,-11223,"Gang BKR No. 8
+Pagaralam, NB 33065"
+660,Ratna,Firgantoro,X,64,ratna180,+Ty2YNaD(z,ratna.firgantoro@hotmail.com,+62 (070) 705-3680,"Gg. Rajawali Barat No. 8
+Kendari, BT 18618"
+661,Parman,Budiman,F,31,budiman645,2s(1cKa^V5,parman.budiman@hotmail.com,+62 (0965) 455 2069,"Gang Cihampelas No. 8
+Subulussalam, Papua Barat 24378"
+662,Dipa,Hidayat,X,62,dipa113,IB#q7V1jU^,dipa.hidayat@hotmail.com,(047) 715-5275,"Gg. Jend. Sudirman No. 0
+Tanjungpinang, JB 26381"
+663,Ami,Yuniar,F,69,yuniar736,_0b(5W1uFS,ami.yuniar@yahoo.com,+62 (016) 309 6281,"Jl. Ronggowarsito No. 5
+Tarakan, JA 02821"
+664,Adhiarja,Namaga,M,79,namaga146,#NAME?,adhiarja.namaga@hotmail.com,845821724,"Jl. Jend. A. Yani No. 38
+Kota Administrasi Jakarta Selatan, JB 82385"
+665,Darimin,Farida,M,29,farida229,*Z&lL_s29o,darimin.farida@yahoo.com,-9511,"Jl. Medokan Ayu No. 6
+Kota Administrasi Jakarta Barat, Kepulauan Bangka Belitung 92588"
+666,Bakiono,Utama,F,62,bakiono213,&k7IVe7hE5,bakiono.utama@hotmail.com,087 516 2064,"Jalan Bangka Raya No. 153
+Kota Administrasi Jakarta Selatan, BB 18902"
+667,Adhiarja,Nurdiyanti,M,31,nurdiyanti768,)mNC4Lei4P,adhiarja.nurdiyanti@hotmail.com,(028) 233-9574,"Gg. Kendalsari No. 564
+Prabumulih, Gorontalo 45013"
+668,Gambira,Prastuti,M,74,prastuti500,9^p$0Kyr$V,gambira.prastuti@gmail.com,088 750 1165,"Jl. Cihampelas No. 12
+Tual, Kalimantan Timur 08876"
+669,Okto,Anggraini,M,25,okto244,m56&&5Lk1V,okto.anggraini@hotmail.com,880343012,"Jl. W.R. Supratman No. 67
+Tangerang Selatan, Sumatera Selatan 45675"
+670,Carla,Hutagalung,F,68,hutagalung439,8Z73OhOpK+,carla.hutagalung@yahoo.com,(073) 186-4752,"Jl. Pasirkoja No. 04
+Mojokerto, BA 00738"
+671,Bahuraksa,Wasita,M,88,bahuraksa714,%BRthKuo3v,bahuraksa.wasita@hotmail.com,-9414,"Jl. Ir. H. Djuanda No. 445
+Lubuklinggau, Kalimantan Utara 31951"
+672,Rachel,Wijaya,M,37,wijaya715,U@42A^m$1L,rachel.wijaya@gmail.com,(0678) 732-2653,"Jl. Abdul Muis No. 798
+Padang, Jawa Timur 79939"
+673,Tari,Ardianto,F,67,ardianto655,8*0FysM+kb,tari.ardianto@gmail.com,(0711) 825-2205,"Gg. Ahmad Yani No. 7
+Bandung, Sumatera Utara 72040"
+674,Taswir,Mustofa,F,47,taswir501,$o&VAz2q@8,taswir.mustofa@gmail.com,+62 (386) 758 3023,"Jl. Waringin No. 42
+Salatiga, PA 98850"
+675,Gatot,Purwanti,F,29,purwanti426,e980HF#ab%,gatot.purwanti@gmail.com,-8606,"Gang Jayawijaya No. 7
+Jambi, BA 36176"
+676,Raina,Sitompul,F,68,raina600,Lb#6YwxD%e,raina.sitompul@hotmail.com,-5550,"Gang Suryakencana No. 4
+Bima, SS 90522"
+677,Rahmi,Tarihoran,M,15,rahmi228,cqtIc2bU)8,rahmi.tarihoran@yahoo.com,(0059) 255 8742,"Jalan Indragiri No. 601
+Denpasar, SR 64769"
+678,Darimin,Sirait,M,53,sirait532,adIHv6Ka*),darimin.sirait@gmail.com,(051) 560 5735,"Jalan Dipatiukur No. 066
+Padang Sidempuan, NT 76460"
+679,Mitra,Rajata,M,50,mitra623,E(_2Zcor*#,mitra.rajata@hotmail.com,+62 (0088) 321-1459,"Gang Cikapayang No. 7
+Sukabumi, Sulawesi Tengah 22720"
+680,Ciaobella,Tampubolon,F,81,ciaobella203,J@*9AOhow@,ciaobella.tampubolon@gmail.com,+62 (0621) 042 1231,"Gang Stasiun Wonokromo No. 017
+Sungai Penuh, PA 81070"
+681,Hana,Nababan,M,87,nababan874,*0anSeZ$8+,hana.nababan@yahoo.com,+62 (070) 616 3441,"Jl. Kiaracondong No. 0
+Mataram, Sulawesi Utara 57855"
+682,Mahfud,Mandasari,F,81,mandasari280,kmP71FRr!3,mahfud.mandasari@yahoo.com,+62 (0314) 306 3175,"Jl. Rungkut Industri No. 762
+Serang, JB 62768"
+683,Himawan,Hassanah,F,90,hassanah236,BX$b6ClE^m,himawan.hassanah@yahoo.com,+62 (871) 973 3505,"Jl. Moch. Toha No. 8
+Yogyakarta, Aceh 87436"
+684,Adiarja,Suryatmi,M,87,adiarja789,8k+d1aCfK5,adiarja.suryatmi@gmail.com,+62 (740) 098-8390,"Jl. Jayawijaya No. 49
+Bandung, BB 99756"
+685,Nova,Andriani,M,50,andriani881,I$ex9AJrW7,nova.andriani@gmail.com,+62 (089) 847-9944,"Gg. Ahmad Dahlan No. 731
+Kotamobagu, Gorontalo 42063"
+686,Nardi,Hastuti,F,44,hastuti132,$Q9Q4y6em_,nardi.hastuti@hotmail.com,+62 (83) 239 8110,"Gg. Pasir Koja No. 84
+Tangerang Selatan, Banten 26481"
+687,Kambali,Kusumo,F,21,kambali906,FO6MPWXcN!,kambali.kusumo@hotmail.com,-8779,"Gang Suryakencana No. 4
+Padangpanjang, Papua 30196"
+688,Kurnia,Kurniawan,M,50,kurnia546,*nGqx^hmB0,kurnia.kurniawan@yahoo.com,-5377,"Gang Jayawijaya No. 8
+Serang, Nusa Tenggara Barat 22385"
+689,Dartono,Permata,F,37,dartono126,H#M0x_Nbgg,dartono.permata@gmail.com,(016) 094-9467,"Jl. Moch. Ramdan No. 2
+Depok, YO 26101"
+690,Septi,Iswahyudi,M,27,septi134,1f#1S)3w!X,septi.iswahyudi@hotmail.com,859461414,"Jalan Merdeka No. 9
+Pariaman, GO 47883"
+691,Halima,Saragih,F,86,halima907,@%shNVxGL2,halima.saragih@yahoo.com,+62 (0973) 756-9532,"Gang Medokan Ayu No. 43
+Tasikmalaya, BT 00408"
+692,Ana,Napitupulu,F,60,napitupulu782,m43wGilv@L,ana.napitupulu@gmail.com,(008) 857-4820,"Jl. Joyoboyo No. 468
+Gorontalo, JT 91753"
+693,Olga,Hastuti,M,81,olga769,@%3AENnaBd,olga.hastuti@hotmail.com,-1902,"Gang Rajawali Barat No. 34
+Serang, Kepulauan Riau 67408"
+694,Hendra,Wasita,F,56,hendra505,&9hGVM5iK4,hendra.wasita@yahoo.com,(041) 027-8266,"Jl. Kutisari Selatan No. 34
+Gorontalo, ST 52854"
+695,Humaira,Suartini,F,77,humaira991,8cG6fpKB(y,humaira.suartini@hotmail.com,(075) 727 5657,"Gg. Wonoayu No. 413
+Tual, Aceh 59672"
+696,Latif,Nashiruddin,F,33,nashiruddin907,txZ5GTNfH_,latif.nashiruddin@yahoo.com,-4338,"Gang Laswi No. 4
+Probolinggo, Jawa Barat 81964"
+697,Enteng,Pranowo,F,38,enteng834,*N1QPtJpA(,enteng.pranowo@hotmail.com,(038) 562 3598,"Gang Pasir Koja No. 42
+Semarang, SU 47988"
+698,Hardi,Ramadan,M,46,ramadan444,aS+9Y^z*&5,hardi.ramadan@hotmail.com,862683136,"Gang HOS. Cokroaminoto No. 6
+Kota Administrasi Jakarta Pusat, Papua Barat 18482"
+699,Danuja,Siregar,F,15,siregar966,%XNj3Rcyx0,danuja.siregar@gmail.com,(085) 278-5507,"Gang KH Amin Jasuta No. 725
+Makassar, Gorontalo 27686"
+700,Gamanto,Wahyudin,M,26,wahyudin901,@8&Zz$^HEf,gamanto.wahyudin@hotmail.com,(0833) 961-6141,"Jalan Raya Setiabudhi No. 30
+Yogyakarta, Bengkulu 93234"
+701,Rosman,Hasanah,M,37,hasanah181,uRtEGrPy%6,rosman.hasanah@yahoo.com,+62 (42) 547-5204,"Jl. Pasir Koja No. 4
+Cimahi, Sumatera Barat 09101"
+702,Bakiadi,Samosir,F,72,samosir321,1Nr7!5MmCx,bakiadi.samosir@gmail.com,+62 (55) 774 4491,"Jalan Laswi No. 5
+Tarakan, Sulawesi Tengah 69157"
+703,Saka,Saefullah,F,70,saefullah774,@v8RwC1t)Z,saka.saefullah@yahoo.com,+62 (25) 578-1967,"Gang Ahmad Yani No. 385
+Madiun, PA 40801"
+704,Raina,Budiyanto,M,84,budiyanto154,$3H0JusD_w,raina.budiyanto@gmail.com,(0739) 970-4001,"Gg. PHH. Mustofa No. 0
+Banda Aceh, Maluku 42003"
+705,Lutfan,Kuswandari,F,25,lutfan72,&_9Cei*Xg2,lutfan.kuswandari@hotmail.com,(031) 848 5254,"Gang Wonoayu No. 45
+Tomohon, KT 94689"
+706,Hari,Wijayanti,F,90,wijayanti955,859uAWSb!2,hari.wijayanti@gmail.com,(0905) 805-6789,"Jl. Gegerkalong Hilir No. 12
+Pagaralam, Sulawesi Tenggara 00162"
+707,Gamanto,Situmorang,X,72,situmorang38,$XU15kHmMC,gamanto.situmorang@yahoo.com,(042) 719 2959,"Jalan Abdul Muis No. 676
+Kupang, KU 91819"
+708,Reksa,Uwais,M,16,reksa937,#W6W3mcsFw,reksa.uwais@gmail.com,866325233,"Jl. Sukajadi No. 3
+Tomohon, JT 27382"
+709,Gandi,Pudjiastuti,F,31,pudjiastuti21,^21RG@Ye^i,gandi.pudjiastuti@gmail.com,868685175,"Jl. Surapati No. 2
+Samarinda, BB 48634"
+710,Raihan,Hutapea,F,17,hutapea428,nk3Q35Tf*b,raihan.hutapea@yahoo.com,+62 (0870) 657 8538,"Jl. Antapani Lama No. 1
+Palopo, Bengkulu 63683"
+711,Genta,Susanti,F,81,genta381,u9Tc5+rf)b,genta.susanti@gmail.com,+62 (740) 598-8296,"Jalan Sadang Serang No. 35
+Jayapura, Kalimantan Barat 03466"
+712,Kasusra,Kuswandari,F,18,kasusra391,(GPN9Al6S&,kasusra.kuswandari@hotmail.com,+62 (0431) 308 9805,"Jl. Sukajadi No. 488
+Tarakan, Kalimantan Barat 19027"
+713,Bakti,Thamrin,F,85,thamrin593,^PVIFb(!W4,bakti.thamrin@yahoo.com,-1755,"Gg. Kutisari Selatan No. 20
+Kendari, SU 53754"
+714,Teddy,Hutagalung,F,24,hutagalung2,^5L3w1gw07,teddy.hutagalung@gmail.com,+62 (015) 868 5158,"Gg. Jakarta No. 261
+Bau-Bau, SU 46788"
+715,Kawaya,Laksita,M,46,kawaya837,*nATvvSs0t,kawaya.laksita@gmail.com,(032) 585-0586,"Gg. Merdeka No. 1
+Kediri, Jawa Tengah 75402"
+716,Salwa,Januar,F,15,januar806,!g1hW_Dw22,salwa.januar@yahoo.com,080 554 6955,"Jl. Peta No. 68
+Tanjungpinang, Nusa Tenggara Barat 60307"
+717,Elma,Nababan,M,48,elma669,B_V5lPZT)b,elma.nababan@gmail.com,(064) 437-7645,"Jalan Rawamangun No. 388
+Padang Sidempuan, JT 25869"
+718,Dian,Widiastuti,M,42,dian520,X0_#WbUq!2,dian.widiastuti@yahoo.com,+62 (89) 345 5640,"Gg. Raya Ujungberung No. 234
+Sabang, KR 61108"
+719,Enteng,Laksmiwati,F,61,laksmiwati980,$83FOf6!W5,enteng.laksmiwati@yahoo.com,-5021,"Gg. Pasteur No. 1
+Surakarta, SN 34618"
+720,Umay,Maryadi,M,40,maryadi332,2CCMoE*H%v,umay.maryadi@hotmail.com,+62 (942) 824-6938,"Gang Abdul Muis No. 014
+Kupang, Bali 08043"
+721,Tirta,Laksita,M,17,tirta611,U#1skBux+S,tirta.laksita@gmail.com,(0867) 561-9488,"Jalan H.J Maemunah No. 79
+Mataram, Lampung 67701"
+722,Paiman,Samosir,F,26,samosir525,@lMZ2jviJ6,paiman.samosir@hotmail.com,-2842,"Jalan Cikutra Timur No. 032
+Bima, Bali 93037"
+723,Asmadi,Prasetyo,M,49,prasetyo139,+2)SJdS7%k,asmadi.prasetyo@yahoo.com,+62 (537) 885 3459,"Jl. Stasiun Wonokromo No. 107
+Padang Sidempuan, Sumatera Utara 79769"
+724,Ihsan,Oktaviani,M,29,ihsan979,dElUG9^tN+,ihsan.oktaviani@yahoo.com,+62 (215) 552 5346,"Gg. KH Amin Jasuta No. 665
+Manado, Aceh 01598"
+725,Balidin,Kuswoyo,M,50,kuswoyo656,#B8B5JPlJy,balidin.kuswoyo@hotmail.com,080 470 5221,"Gang Antapani Lama No. 0
+Sibolga, SU 18445"
+726,Luwes,Permata,F,50,luwes712,$CaI24Gs!O,luwes.permata@yahoo.com,+62 (077) 004 3323,"Jl. Jayawijaya No. 30
+Tarakan, Kepulauan Riau 31200"
+727,Calista,Zulaika,M,69,calista677,^AOi(D1w4&,calista.zulaika@gmail.com,+62 (47) 990 7731,"Jalan Ciwastra No. 4
+Denpasar, Sumatera Barat 17593"
+728,Raina,Mandala,M,78,mandala494,sP*4XmMhy(,raina.mandala@yahoo.com,(003) 933 1718,"Gg. Abdul Muis No. 397
+Parepare, DKI Jakarta 04261"
+729,Ajiman,Gunarto,M,74,gunarto113,%(6Tt#0S)_,ajiman.gunarto@hotmail.com,+62 (14) 099 3195,"Jl. Ir. H. Djuanda No. 1
+Palu, SS 00297"
+730,Wage,Prabowo,M,71,prabowo792,CAI1Mmh3@1,wage.prabowo@yahoo.com,-2946,"Jalan Ciumbuleuit No. 3
+Jayapura, Maluku 06532"
+731,Danu,Latupono,M,22,latupono496,@c!tlXsK^1,danu.latupono@yahoo.com,+62 (427) 250-4428,"Gg. Rajiman No. 69
+Bengkulu, Sulawesi Utara 59826"
+732,Bahuwirya,Suartini,F,72,suartini580,LA&R2U@a&L,bahuwirya.suartini@gmail.com,(001) 587 3178,"Jl. H.J Maemunah No. 8
+Batam, Aceh 39400"
+733,Asmadi,Puspasari,M,29,asmadi552,LPC6I4c6d+,asmadi.puspasari@gmail.com,+62 (012) 183 6129,"Jalan Rajawali Barat No. 5
+Pontianak, Maluku Utara 52193"
+734,Rusman,Susanti,M,77,rusman13,%m2$0(Ef8i,rusman.susanti@yahoo.com,867768840,"Jalan Bangka Raya No. 321
+Binjai, KU 74148"
+735,Uli,Nuraini,M,63,uli825,hAn+)KxA%3,uli.nuraini@gmail.com,(001) 596-0926,"Gang BKR No. 99
+Tanjungpinang, KT 44721"
+736,Kuncara,Hastuti,X,30,kuncara541,#1NPbOXiMX,kuncara.hastuti@hotmail.com,-1749,"Gg. Ronggowarsito No. 14
+Tidore Kepulauan, NT 92034"
+737,Uchita,Mardhiyah,F,77,uchita228,)H8f0CPy)4,uchita.mardhiyah@gmail.com,(0900) 434-3426,"Jl. Jayawijaya No. 267
+Palangkaraya, Sumatera Barat 43767"
+738,Gasti,Wacana,F,67,gasti227,JiVkh1Rl*1,gasti.wacana@hotmail.com,(067) 066 9460,"Jalan Medokan Ayu No. 080
+Kota Administrasi Jakarta Selatan, JB 25110"
+739,Julia,Januar,M,25,jans96,389KiAoRx@,julia.januar@yahoo.com,+62 (021) 933 6110,"Jl. Rumah Sakit No. 976
+Probolinggo, SN 44018"
+740,Dagel,Hariyah,F,60,dagel292,8x7*8XtkK^,dagel.hariyah@yahoo.com,+62 (667) 206-0020,"Gg. Rajawali Timur No. 09
+Tanjungpinang, RI 85587"
+741,Lanang,Prasasta,M,40,lanang644,7l7Qi+Fi(G,lanang.prasasta@gmail.com,-7026,"Jl. PHH. Mustofa No. 154
+Lubuklinggau, SB 11121"
+742,Saka,Wijaya,M,15,saka499,6#mVjh)6&z,saka.wijaya@gmail.com,-5878,"Jalan Waringin No. 407
+Purwokerto, Kepulauan Bangka Belitung 38863"
+743,Banawa,Mangunsong,M,57,mangunsong766,#VL%aSsx43,banawa.mangunsong@yahoo.com,820519636,"Gg. Erlangga No. 4
+Bogor, Bali 29162"
+744,Lili,Laksita,F,71,lili769,w2jwZqly%B,lili.laksita@hotmail.com,+62 (0970) 059 5652,"Gang BKR No. 824
+Kota Administrasi Jakarta Utara, Maluku 47920"
+745,Ajiman,Mulyani,F,56,ajiman71,&9BmYZkYF%,ajiman.mulyani@yahoo.com,(0127) 824-1766,"Jl. Abdul Muis No. 35
+Pekalongan, BA 22572"
+746,Cahyadi,Ramadan,M,82,ramadan574,9h#Z7Yzvm#,cahyadi.ramadan@gmail.com,+62 (051) 629-7452,"Jalan H.J Maemunah No. 084
+Tomohon, Kalimantan Barat 89750"
+747,Balangga,Yolanda,F,47,balangga330,vE5ctD_uy!,balangga.yolanda@yahoo.com,(0206) 335-3845,"Jalan Astana Anyar No. 9
+Banda Aceh, SB 52239"
+748,Ikhsan,Gunawan,M,84,ikhsan943,i$4f4Lz_Og,ikhsan.gunawan@yahoo.com,+62 (0491) 830-5097,"Jl. Moch. Toha No. 04
+Bukittinggi, Kalimantan Timur 64269"
+749,Lasmanto,Natsir,F,25,lasmanto155,$9SzgPEnIw,lasmanto.natsir@hotmail.com,(0556) 669-4262,"Jl. Surapati No. 5
+Batu, JB 81480"
+750,Laswi,Wijayanti,M,34,laswi420,$05&fNF9tS,laswi.wijayanti@gmail.com,081 905 4258,"Gang Kutai No. 0
+Kota Administrasi Jakarta Utara, Kepulauan Bangka Belitung 29534"
+751,Cakrabuana,Gunarto,M,44,cakrabuana626,@R64OWe^*q,cakrabuana.gunarto@yahoo.com,-4715,"Jl. Moch. Toha No. 113
+Pekanbaru, Papua 47547"
+752,Galuh,Hassanah,F,24,hassanah119,&dIeTh_vx8,galuh.hassanah@hotmail.com,+62 (921) 936 6116,"Jl. S. Parman No. 252
+Bandung, Kalimantan Timur 89411"
+753,Caturangga,Palastri,F,58,caturangga448,&3v2RHqHIx,caturangga.palastri@hotmail.com,-4130,"Gang Cempaka No. 8
+Tangerang Selatan, Sumatera Utara 48062"
+754,Mustofa,Pudjiastuti,F,32,mustofa481,^jBQjIfG7X,mustofa.pudjiastuti@yahoo.com,-8622,"Jl. S. Parman No. 4
+Probolinggo, BT 31527"
+755,Parman,Dongoran,F,43,dongoran289,A6IK*(+q#2,parman.dongoran@gmail.com,+62 (0316) 451 0434,"Gg. Rajawali Timur No. 177
+Blitar, Sulawesi Tenggara 25357"
+756,Prabowo,Nashiruddin,M,67,prabowo81,*(Cvz*jew6,prabowo.nashiruddin@hotmail.com,+62 (093) 494 1776,"Gang Cikutra Barat No. 93
+Padang, Bali 33788"
+757,Yuni,Purwanti,M,23,yuni499,w!4Ugqcj@),yuni.purwanti@yahoo.com,(0215) 266-4871,"Jalan Kutisari Selatan No. 12
+Jambi, JT 66337"
+758,Joko,Saefullah,M,28,saefullah608,2r1eLgbR$x,joko.saefullah@hotmail.com,+62 (52) 399 3572,"Jl. Tebet Barat Dalam No. 8
+Sorong, Jawa Barat 90125"
+759,Sabar,Saptono,M,19,sabar114,@+@SwFYv91,sabar.saptono@hotmail.com,-2541,"Gang Pelajar Pejuang No. 1
+Palu, SG 74315"
+760,Edi,Mandala,F,86,mandala831,m5J8zDBn%0,edi.mandala@hotmail.com,+62 (051) 605 6454,"Gang Kendalsari No. 039
+Sorong, Sulawesi Utara 25429"
+761,Gawati,Latupono,F,33,gawati820,2Q@RRb)^+W,gawati.latupono@gmail.com,+62 (180) 770-1888,"Gang Ciumbuleuit No. 60
+Tangerang, Papua 69858"
+762,Wisnu,Nurdiyanti,F,83,wisnu924,z0ZwNGi1#x,wisnu.nurdiyanti@hotmail.com,(029) 783 7404,"Gang Medokan Ayu No. 94
+Pontianak, SU 90889"
+763,Kajen,Kusumo,F,49,kajen570,ZR3ohevr(4,kajen.kusumo@gmail.com,(0522) 461 9042,"Gg. Veteran No. 8
+Kediri, SG 94919"
+764,Nadia,Mandasari,F,18,mandasari491,!%gN$7VsaF,nadia.mandasari@hotmail.com,-2749,"Jl. Monginsidi No. 4
+Bekasi, SU 37366"
+765,Tiara,Thamrin,F,16,thamrin874,0!7ENfk9S6,tiara.thamrin@hotmail.com,-5017,"Gg. Pelajar Pejuang No. 53
+Langsa, Papua 76396"
+766,Asman,Yuliarti,M,26,asman245,k7xGMUiY*2,asman.yuliarti@gmail.com,+62 (0984) 079 8969,"Jalan K.H. Wahid Hasyim No. 86
+Cilegon, LA 46159"
+767,Lanang,Maulana,F,82,lanang297,z$9+_lybZZ,lanang.maulana@gmail.com,-8562,"Jl. W.R. Supratman No. 150
+Surabaya, BA 95089"
+768,Harjasa,Najmudin,M,32,najmudin479,*Id6BWosDW,harjasa.najmudin@hotmail.com,-8950,"Jl. Ahmad Yani No. 60
+Medan, Maluku 77613"
+769,Kala,Wijayanti,F,80,wijayanti474,_nY^cZftX0,kala.wijayanti@yahoo.com,+62 (092) 410 2612,"Gang Lembong No. 53
+Pekanbaru, Jawa Tengah 42474"
+770,Ganda,Wasita,M,41,wasita745,!bCLqdkd+0,ganda.wasita@hotmail.com,(044) 983-3369,"Gang Rajiman No. 0
+Lhokseumawe, DKI Jakarta 45337"
+771,Zamira,Firgantoro,F,33,zamira940,^w#F!v%e3s,zamira.firgantoro@gmail.com,+62 (488) 896 5282,"Jl. Pasteur No. 6
+Singkawang, Bengkulu 04737"
+772,Tantri,Gunarto,F,58,gunarto90,DLA75ResO(,tantri.gunarto@yahoo.com,-9277,"Jalan Yos Sudarso No. 4
+Batam, KT 91354"
+773,Tina,Saragih,M,39,saragih230,(5^FJfz%(r,tina.saragih@yahoo.com,+62 (367) 481 1274,"Gang Sadang Serang No. 3
+Subulussalam, JA 19548"
+774,Marwata,Pangestu,M,57,marwata323,^I70eMjr0G,marwata.pangestu@yahoo.com,-2688,"Jalan Ciumbuleuit No. 5
+Palangkaraya, SG 24014"
+775,Cinta,Hutasoit,F,56,hutasoit586,4$%7UQrdVr,cinta.hutasoit@yahoo.com,-5007,"Gang Ahmad Yani No. 8
+Tangerang, ST 45486"
+776,Icha,Astuti,F,22,astuti964,2avooQm1^X,icha.astuti@yahoo.com,+62 (271) 441 3722,"Gang Lembong No. 153
+Tual, Kalimantan Utara 68065"
+777,Kairav,Rahayu,M,73,rahayu252,p#3mOyvpVa,kairav.rahayu@gmail.com,-3886,"Gg. Sadang Serang No. 801
+Sukabumi, YO 33309"
+778,Pangestu,Rajasa,F,26,rajasa965,#2D5Q+hdKN,pangestu.rajasa@hotmail.com,-6928,"Gang Kiaracondong No. 2
+Bukittinggi, Lampung 34620"
+779,Estiono,Habibi,F,52,habibi742,hhUN9%FY!9,estiono.habibi@yahoo.com,+62 (233) 686 1744,"Gang H.J Maemunah No. 0
+Subulussalam, SB 21078"
+780,Diana,Wulandari,F,20,wulandari100,&)*@30RoFL,diana.wulandari@gmail.com,-2244,"Gang Suryakencana No. 29
+Tanjungpinang, Kalimantan Utara 63369"
+781,Mariadi,Wulandari,F,44,mariadi710,*S6Dxl#zW%,mariadi.wulandari@yahoo.com,+62 (445) 898 2948,"Gg. Otto Iskandardinata No. 301
+Singkawang, SR 82705"
+782,Erik,Hakim,M,35,erik758,$5Km+m7&lb,erik.hakim@yahoo.com,+62 (37) 796 7045,"Gg. M.H Thamrin No. 07
+Surakarta, Sulawesi Utara 57270"
+783,Alambana,Wacana,F,26,wacana609,&KRfnl1S7V,alambana.wacana@hotmail.com,+62 (49) 929-5321,"Gang Rawamangun No. 8
+Cirebon, LA 35125"
+784,Vanya,Yuniar,M,38,yuniar578,#WV4nOWUq8,vanya.yuniar@yahoo.com,083 174 9613,"Jalan Monginsidi No. 623
+Singkawang, Sumatera Barat 49456"
+785,Harja,Rahimah,M,68,rahimah770,mAg_!7Rlje,harja.rahimah@gmail.com,+62 (055) 682-3363,"Jl. Jamika No. 92
+Purwokerto, Kepulauan Bangka Belitung 26975"
+786,Samiah,Handayani,F,42,samiah364,qzPof^KO#2,samiah.handayani@hotmail.com,-6669,"Jl. Bangka Raya No. 125
+Pariaman, Kalimantan Barat 22123"
+787,Gaiman,Usamah,F,49,usamah229,I#g3CEPxeQ,gaiman.usamah@gmail.com,-7272,"Gang Antapani Lama No. 07
+Tidore Kepulauan, SU 36549"
+788,Legawa,Sihombing,M,58,legawa868,)9qBv8SyU_,legawa.sihombing@yahoo.com,+62 (84) 608 3926,"Gang Dipenogoro No. 43
+Binjai, Sulawesi Barat 40711"
+789,Harsaya,Hartati,F,75,hartati555,$3jmJPZOj8,harsaya.hartati@hotmail.com,851479609,"Jalan HOS. Cokroaminoto No. 357
+Bitung, KI 60937"
+790,Harja,Prakasa,M,47,harja890,&NYL5qiVt1,harja.prakasa@gmail.com,873097910,"Jl. R.E Martadinata No. 444
+Samarinda, Sulawesi Tengah 02547"
+791,Cahyanto,Gunawan,M,45,gunawan874,*3VIhC(mdy,cahyanto.gunawan@hotmail.com,-3400,"Gg. Siliwangi No. 62
+Denpasar, Papua Barat 18249"
+792,Sari,Kuswandari,F,77,kuswandari398,XMz9SYDh#Y,sari.kuswandari@gmail.com,+62 (068) 427 3645,"Gang Cihampelas No. 27
+Kendari, Sulawesi Tengah 33488"
+793,Putu,Jailani,M,84,putu344,q$_DI#Eq(2,putu.jailani@yahoo.com,+62 (56) 727-8377,"Gg. Jakarta No. 8
+Kota Administrasi Jakarta Timur, PA 58421"
+794,Rosman,Zulaika,F,38,zulaika277,%%fBgi3nb2,rosman.zulaika@gmail.com,+62 (02) 650-3667,"Gg. BKR No. 23
+Kota Administrasi Jakarta Utara, Jawa Barat 86918"
+795,Dodo,Novitasari,F,77,dodo213,b3OzVbr5+U,dodo.novitasari@hotmail.com,-2877,"Gang Bangka Raya No. 1
+Depok, SN 39203"
+796,Raisa,Mulyani,F,47,raisa723,$t5hL)Pplv,raisa.mulyani@yahoo.com,+62 (001) 580 0977,"Gang Astana Anyar No. 5
+Pekalongan, DI Yogyakarta 62341"
+797,Marsudi,Pertiwi,M,80,pertiwi181,a8iWaGTX(v,marsudi.pertiwi@hotmail.com,899206937,"Jl. Rajawali Timur No. 83
+Tanjungbalai, SS 76607"
+798,Ajiono,Halimah,F,90,ajiono356,cHY4CVxt_8,ajiono.halimah@hotmail.com,084 301 1680,"Gang Jakarta No. 282
+Kota Administrasi Jakarta Pusat, JA 34248"
+799,Dono,Padmasari,M,52,dono15,9PZF&mqC$),dono.padmasari@yahoo.com,+62 (28) 146 4347,"Gang Kutisari Selatan No. 6
+Sibolga, LA 95341"
+800,Dwi,Maryati,M,44,dwi179,)kOJL0lYJ8,dwi.maryati@yahoo.com,(010) 534 0440,"Gang Rajawali Timur No. 89
+Dumai, KS 66133"
+801,Genta,Mulyani,M,66,mulyani958,zw^4BiZq_Q,genta.mulyani@gmail.com,+62 (398) 704-5600,"Jl. Dipenogoro No. 65
+Probolinggo, SS 55569"
+802,Taswir,Palastri,F,29,taswir701,!H^VcZZr3p,taswir.palastri@gmail.com,-10489,"Jalan Joyoboyo No. 4
+Kota Administrasi Jakarta Utara, KB 39263"
+803,Clara,Irawan,F,56,clara968,)4IEdgpF2C,clara.irawan@hotmail.com,(035) 946-8589,"Jl. Kapten Muslihat No. 717
+Kota Administrasi Jakarta Pusat, JK 47236"
+804,Farhunnisa,Nasyiah,F,45,nasyiah439,&8Ga7D2@%i,farhunnisa.nasyiah@hotmail.com,(076) 649 1814,"Jl. Ir. H. Djuanda No. 1
+Padangpanjang, Kepulauan Riau 81189"
+805,Mulyanto,Sitorus,F,27,sitorus927,N#3B0pCmY^,mulyanto.sitorus@yahoo.com,+62 (0918) 859-3776,"Gang Sentot Alibasa No. 597
+Padang Sidempuan, Bengkulu 44741"
+806,Mutia,Dabukke,M,38,dabukke27,YX7XDynS_F,mutia.dabukke@gmail.com,083 507 6878,"Jalan Gardujati No. 38
+Tarakan, DI Yogyakarta 84183"
+807,Nabila,Wahyuni,F,41,wahyuni402,K$8FRD+f)7,nabila.wahyuni@yahoo.com,-7553,"Jl. Ahmad Dahlan No. 89
+Sukabumi, AC 26630"
+808,Saadat,Lestari,M,74,saadat771,!o&1PzNcA5,saadat.lestari@hotmail.com,-8830,"Gg. Setiabudhi No. 8
+Lubuklinggau, Sulawesi Selatan 12070"
+809,Ikhsan,Gunarto,M,84,ikhsan666,IQNx)IOu&1,ikhsan.gunarto@hotmail.com,(088) 301 8673,"Gg. Sukabumi No. 688
+Tasikmalaya, Gorontalo 89158"
+810,Salimah,Wahyudin,F,87,salimah604,_hD13tIu)),salimah.wahyudin@yahoo.com,847673422,"Gg. Jend. A. Yani No. 8
+Meulaboh, Sumatera Utara 27480"
+811,Makuta,Waluyo,F,30,waluyo913,X8G0V5ya)*,makuta.waluyo@hotmail.com,(016) 821-1353,"Gang Tebet Barat Dalam No. 1
+Malang, ST 81684"
+812,Balijan,Setiawan,F,38,balijan500,Y%98IXwb_s,balijan.setiawan@yahoo.com,083 632 4261,"Gang Gardujati No. 72
+Meulaboh, Jambi 98118"
+813,Intan,Tarihoran,M,18,intan164,c91+pDIg^9,intan.tarihoran@yahoo.com,+62 (0932) 049 4656,"Jl. H.J Maemunah No. 6
+Sawahlunto, Sumatera Utara 16892"
+814,Galih,Kusumo,M,74,kusumo629,2l@VMJ&3%6,galih.kusumo@gmail.com,+62 (61) 772-0313,"Gang Sadang Serang No. 5
+Palembang, Sulawesi Tengah 18183"
+815,Daniswara,Marpaung,M,64,daniswara780,+0G9LurT@1,daniswara.marpaung@hotmail.com,(008) 372-5030,"Jalan Merdeka No. 67
+Palu, Kalimantan Utara 44725"
+816,Saadat,Prasetya,M,62,prasetya320,f+v$9tHvrd,saadat.prasetya@hotmail.com,(054) 011-6559,"Gang KH Amin Jasuta No. 9
+Tual, JK 33333"
+817,Kacung,Wibisono,F,24,kacung406,7wS(SRuR!*,kacung.wibisono@hotmail.com,811363214,"Jalan Tubagus Ismail No. 38
+Tual, PB 06021"
+818,Halima,Nainggolan,F,63,nainggolan484,@5S^vK7z+I,halima.nainggolan@yahoo.com,831151420,"Gg. Pasir Koja No. 8
+Sungai Penuh, JK 51945"
+819,Nasab,Puspita,F,26,puspita419,*@&1Ky7XXz,nasab.puspita@hotmail.com,(0663) 655 2779,"Gang Cempaka No. 642
+Sukabumi, SS 30728"
+820,Siti,Mandala,F,88,mandala300,3snFKmDm)K,siti.mandala@gmail.com,+62 (053) 111-9695,"Gang HOS. Cokroaminoto No. 546
+Sabang, SN 08204"
+821,Hartana,Purnawati,M,84,purnawati124,)g7C%lk+O7,hartana.purnawati@gmail.com,-9927,"Gg. Dr. Djunjunan No. 64
+Bontang, SG 51613"
+822,Radit,Hidayat,M,32,radit974,n8oeMeAH@C,radit.hidayat@gmail.com,(0195) 148 8152,"Jalan Pasteur No. 884
+Purwokerto, Maluku Utara 81538"
+823,Nasab,Rajata,F,32,nasab574,(^oMKWgR8p,nasab.rajata@gmail.com,+62 (0415) 085-9017,"Jalan Stasiun Wonokromo No. 0
+Pekanbaru, DI Yogyakarta 59190"
+824,Chelsea,Uwais,M,80,chelsea748,+IgyJ@Gp57,chelsea.uwais@yahoo.com,+62 (203) 181-8959,"Gang M.H Thamrin No. 7
+Bandung, JT 62427"
+825,Mutia,Ardianto,F,58,mutia315,^0T5lX6k(T,mutia.ardianto@yahoo.com,+62 (232) 606 4623,"Jl. Sukabumi No. 05
+Kota Administrasi Jakarta Utara, KS 46479"
+826,Kasiran,Wacana,F,21,kasiran383,Aj5Bfvg#F^,kasiran.wacana@yahoo.com,(0411) 805-7599,"Jalan Rajawali Barat No. 89
+Metro, Papua Barat 57027"
+827,Ajeng,Prabowo,F,88,prabowo520,$7Pbg8ON)L,ajeng.prabowo@hotmail.com,+62 (813) 092 9064,"Jalan Raya Setiabudhi No. 844
+Cirebon, Bengkulu 87746"
+828,Zizi,Wasita,M,69,wasita971,ODJ+7_5pg&,zizi.wasita@yahoo.com,-1265,"Gang H.J Maemunah No. 9
+Tasikmalaya, Nusa Tenggara Barat 40266"
+829,Mutia,Usamah,M,58,mutia290,O2HP8Nkf$f,mutia.usamah@hotmail.com,+62 (85) 294-7852,"Gg. Peta No. 103
+Pariaman, BB 09944"
+830,Galak,Simanjuntak,F,90,galak732,@RPjGqan9w,galak.simanjuntak@gmail.com,+62 (45) 852 6407,"Jalan Dipatiukur No. 66
+Pontianak, JT 43051"
+831,Harimurti,Zulaika,F,69,harimurti820,P3bVAu7p_&,harimurti.zulaika@yahoo.com,+62 (0230) 305 2414,"Jl. Gedebage Selatan No. 6
+Tidore Kepulauan, Nusa Tenggara Barat 77574"
+832,Jasmin,Melani,F,44,melani512,#RzRzTrl%3,jasmin.melani@yahoo.com,-5203,"Gg. Waringin No. 744
+Sawahlunto, BT 89407"
+833,Satya,Nurdiyanti,F,66,nurdiyanti375,@8NgEKC26a,satya.nurdiyanti@gmail.com,+62 (33) 188 0968,"Jalan Kapten Muslihat No. 422
+Kendari, Papua Barat 56103"
+834,Cahyono,Mandala,M,86,cahyono900,z^830cFvcd,cahyono.mandala@gmail.com,-1092,"Jl. Tebet Barat Dalam No. 0
+Makassar, Nusa Tenggara Barat 94063"
+835,Satya,Narpati,M,69,satya323,#NAME?,satya.narpati@yahoo.com,+62 (840) 579 3474,"Gg. Medokan Ayu No. 744
+Tanjungpinang, Banten 29521"
+836,Wakiman,Dongoran,F,18,dongoran703,&$56JLpud),wakiman.dongoran@gmail.com,-5061,"Gang Setiabudhi No. 975
+Banjarbaru, Jawa Tengah 72230"
+837,Yulia,Putra,F,63,yulia483,T_93ZWJmoW,yulia.putra@yahoo.com,(0425) 784 9129,"Gg. HOS. Cokroaminoto No. 76
+Mataram, KI 79146"
+838,Kenzie,Prakasa,M,86,prakasa883,ns^CXSBB(6,kenzie.prakasa@hotmail.com,(0471) 597 1442,"Jl. Surapati No. 500
+Tasikmalaya, Jawa Timur 53222"
+839,Kusuma,Mulyani,F,90,kusuma891,(Z0Wl&bgM6,kusuma.mulyani@hotmail.com,-8321,"Jalan Merdeka No. 2
+Pekanbaru, JB 76572"
+840,Cawisadi,Uwais,M,37,cawisadi702,&hEK60PgD0,cawisadi.uwais@hotmail.com,-9672,"Jl. Cikutra Timur No. 3
+Bontang, Jawa Tengah 49890"
+841,Unggul,Waskita,M,34,unggul789,M*)cW0Ik9D,unggul.waskita@gmail.com,+62 (734) 995-7866,"Gg. Joyoboyo No. 8
+Tangerang, SS 46068"
+842,Jasmin,Natsir,F,90,natsir489,4j4Zh2KzR@,jasmin.natsir@gmail.com,+62 (816) 038-6873,"Gang Sentot Alibasa No. 72
+Jayapura, Banten 49332"
+843,Daliman,Megantara,F,45,megantara908,ce$52)HfX_,daliman.megantara@gmail.com,+62 (239) 012-4073,"Jl. Raya Ujungberung No. 26
+Prabumulih, Sulawesi Tengah 05719"
+844,Bala,Lazuardi,M,68,bala703,!#e45OIf!^,bala.lazuardi@yahoo.com,+62 (317) 081 4645,"Gg. Kutai No. 834
+Salatiga, DKI Jakarta 72754"
+845,Cawisadi,Pangestu,M,63,pangestu805,AJ@43NjPiQ,cawisadi.pangestu@hotmail.com,817294777,"Jalan Cikutra Timur No. 1
+Cilegon, Banten 31243"
+846,Viktor,Astuti,M,74,viktor494,J28nYgw6)6,viktor.astuti@gmail.com,(080) 288-1839,"Jalan Erlangga No. 116
+Surakarta, Lampung 96144"
+847,Lega,Permata,F,79,permata808,@@E9RxEvQk,lega.permata@gmail.com,+62 (085) 024 1223,"Gang Jend. A. Yani No. 814
+Mataram, Sulawesi Tenggara 11215"
+848,Cayadi,Gunawan,F,63,gunawan605,#N$IiUl_2h,cayadi.gunawan@yahoo.com,+62 (096) 759 5392,"Gg. Ir. H. Djuanda No. 14
+Surakarta, KB 35761"
+849,Genta,Mardhiyah,F,44,mardhiyah16,cZ0UGpveo#,genta.mardhiyah@yahoo.com,-6979,"Jl. Abdul Muis No. 28
+Denpasar, Jambi 26332"
+850,Wira,Zulaika,F,81,wira549,X%0Dl6kp&s,wira.zulaika@yahoo.com,+62 (0768) 506 2849,"Jl. Ronggowarsito No. 304
+Medan, Sumatera Selatan 65847"
+851,Wira,Prasasta,F,78,prasasta777,w5QFslx%*%,wira.prasasta@yahoo.com,897090646,"Jalan Setiabudhi No. 0
+Parepare, Jambi 20106"
+852,Hasim,Hassanah,M,89,hasim605,p__5GF3hfY,hasim.hassanah@hotmail.com,-9489,"Jl. Dr. Djunjunan No. 8
+Makassar, Kepulauan Riau 70883"
+853,Gandewa,Putra,M,58,putra928,R*2UPQwfq$,gandewa.putra@yahoo.com,(0009) 579 8307,"Jl. Wonoayu No. 78
+Batam, Sumatera Selatan 70283"
+854,Widya,Pranowo,F,20,widya73,5)6w)3Akex,widya.pranowo@yahoo.com,-7399,"Jl. K.H. Wahid Hasyim No. 160
+Lhokseumawe, Jambi 81271"
+855,Genta,Nurdiyanti,M,33,genta885,j!3JdwBjbE,genta.nurdiyanti@yahoo.com,+62 (020) 819-0073,"Gang Medokan Ayu No. 85
+Kota Administrasi Jakarta Timur, LA 94995"
+856,Agus,Mahendra,F,46,mahendra638,51&&5mDnK7,agus.mahendra@yahoo.com,(080) 468 0526,"Gang Kutisari Selatan No. 93
+Serang, NT 43541"
+857,Puput,Suwarno,M,40,puput754,ZJ*Y5PBaz+,puput.suwarno@yahoo.com,-1793,"Jalan Peta No. 40
+Pekanbaru, Nusa Tenggara Barat 75932"
+858,Tirta,Tampubolon,F,40,tirta34,Y@6ZrqnV+@,tirta.tampubolon@hotmail.com,(035) 852-0035,"Gang Gegerkalong Hilir No. 2
+Pagaralam, Jawa Tengah 86553"
+859,Eva,Narpati,F,78,narpati378,c_96CRo+)a,eva.narpati@gmail.com,(069) 390 6713,"Jalan Ciwastra No. 0
+Samarinda, Nusa Tenggara Barat 34343"
+860,Estiawan,Andriani,M,23,andriani299,anB9VQuk^2,estiawan.andriani@hotmail.com,+62 (525) 472-8868,"Jalan Waringin No. 9
+Lhokseumawe, SU 29676"
+861,Radika,Pratama,M,62,pratama532,cSEfYgCe^0,radika.pratama@gmail.com,(0098) 347-7590,"Gang H.J Maemunah No. 84
+Tasikmalaya, Sumatera Utara 66589"
+862,Raihan,Anggraini,F,48,raihan854,i_)r3IUnB_,raihan.anggraini@yahoo.com,+62 (0944) 342-3793,"Gang Ahmad Dahlan No. 28
+Prabumulih, Kalimantan Timur 44770"
+863,Eko,Fujiati,F,21,eko867,s9ZAlY5@_z,eko.fujiati@yahoo.com,(043) 826 2759,"Jl. Laswi No. 5
+Tidore Kepulauan, Jawa Tengah 33317"
+864,Lasmanto,Hastuti,M,59,lasmanto765,_5H(tYZzD%,lasmanto.hastuti@hotmail.com,-9057,"Gg. Merdeka No. 58
+Tanjungpinang, JT 13794"
+865,Kemba,Mustofa,M,84,mustofa477,0eQYvqZm+y,kemba.mustofa@gmail.com,+62 (082) 346-6507,"Gg. Jakarta No. 08
+Gorontalo, Kepulauan Riau 10295"
+866,Mutia,Lazuardi,F,79,lazuardi134,b412O*!H&t,mutia.lazuardi@yahoo.com,809789778,"Jalan Pasir Koja No. 253
+Bogor, Sulawesi Tengah 95276"
+867,Viktor,Mulyani,F,31,mulyani204,vbG)4XnbxA,viktor.mulyani@gmail.com,-1715,"Gang Indragiri No. 7
+Banjar, Kepulauan Bangka Belitung 03293"
+868,Cawisono,Nuraini,M,31,nuraini142,6!0!VJhtFE,cawisono.nuraini@hotmail.com,+62 (082) 291-9542,"Jalan Cempaka No. 4
+Lubuklinggau, Gorontalo 28006"
+869,Lulut,Nashiruddin,F,29,nashiruddin211,ZFK9JhBi!S,lulut.nashiruddin@yahoo.com,+62 (011) 323-8063,"Gang Rajawali Barat No. 03
+Pasuruan, ST 31771"
+870,Maimunah,Prasasta,M,17,maimunah52,*2rRXrLlu8,maimunah.prasasta@hotmail.com,+62 (600) 321 5149,"Gang Veteran No. 413
+Malang, Kepulauan Riau 73419"
+871,Martaka,Iswahyudi,F,67,martaka641,P@*7nWv*ed,martaka.iswahyudi@yahoo.com,+62 (808) 959-1006,"Jalan Kapten Muslihat No. 59
+Banda Aceh, JI 60795"
+872,Wahyu,Sihombing,F,20,wahyu977,Q%GK1jTvSG,wahyu.sihombing@gmail.com,(0119) 571 9410,"Gang Raya Setiabudhi No. 0
+Bima, KT 86151"
+873,Martana,Pangestu,M,68,martana935,Mm*W8YiZao,martana.pangestu@hotmail.com,(007) 690-3022,"Gg. Pasir Koja No. 8
+Serang, SB 33247"
+874,Nugraha,Handayani,M,44,nugraha362,l!g0aTsq_X,nugraha.handayani@gmail.com,+62 (254) 900-1113,"Jalan Pelajar Pejuang No. 663
+Tanjungpinang, Papua Barat 15441"
+875,Jumadi,Gunarto,F,67,gunarto437,$%8v8Dj@i1,jumadi.gunarto@yahoo.com,(0338) 422-1313,"Jl. Rajiman No. 92
+Batam, Sumatera Selatan 92811"
+876,Gantar,Nasyiah,M,84,gantar594,F@0RQFtek%,gantar.nasyiah@gmail.com,-6251,"Jl. Rajawali Barat No. 279
+Tegal, RI 58954"
+877,Jaka,Budiyanto,M,16,budiyanto179,0p_8H67a@3,jaka.budiyanto@gmail.com,-1924,"Gang Cihampelas No. 604
+Madiun, JT 98582"
+878,Perkasa,Zulaika,M,26,zulaika220,eV_t8DthH),perkasa.zulaika@yahoo.com,+62 (86) 563-6479,"Gang Tebet Barat Dalam No. 1
+Tanjungpinang, BB 48330"
+879,Opan,Putra,M,84,putra615,7CexaZlm#c,opan.putra@yahoo.com,(0675) 585-3428,"Jl. Setiabudhi No. 6
+Palangkaraya, Sumatera Barat 55794"
+880,Kardi,Adriansyah,M,69,adriansyah484,K7Iqhaxg%K,kardi.adriansyah@yahoo.com,(090) 212 6934,"Gg. Ronggowarsito No. 86
+Bontang, JK 12273"
+881,Harjaya,Wibisono,M,25,wibisono41,*^$8Kcjroj,harjaya.wibisono@gmail.com,-7148,"Gg. Joyoboyo No. 6
+Samarinda, SU 69032"
+882,Gading,Nashiruddin,F,72,gading452,_jVps(U6z7,gading.nashiruddin@yahoo.com,+62 (014) 205 7416,"Jl. Ronggowarsito No. 1
+Kota Administrasi Jakarta Barat, Bali 29008"
+883,Ajimat,Hidayanto,F,73,hidayanto357,C40JC9s*%R,ajimat.hidayanto@hotmail.com,+62 (0908) 036-4414,"Jl. Siliwangi No. 017
+Surakarta, Kalimantan Selatan 09945"
+884,Mursinin,Widodo,X,41,widodo170,k6$7ZcFleX,mursinin.widodo@yahoo.com,-10717,"Jl. Suryakencana No. 501
+Sungai Penuh, Lampung 18090"
+885,Tirta,Suartini,F,44,suartini426,U%3NhNHF1(,tirta.suartini@yahoo.com,+62 (226) 368-5889,"Gang Joyoboyo No. 8
+Dumai, Bali 08221"
+886,Tina,Mansur,M,30,tina424,N7MTbGud!i,tina.mansur@hotmail.com,815775475,"Gg. Veteran No. 85
+Cirebon, KU 09069"
+887,Anita,Prasetyo,F,71,anita112,+y+lAhco%9,anita.prasetyo@gmail.com,(0110) 330 0964,"Gang Cihampelas No. 1
+Semarang, Kalimantan Barat 29332"
+888,Bakti,Kuswoyo,M,23,kuswoyo126,ry59^BLiT_,bakti.kuswoyo@yahoo.com,+62 (25) 295-4190,"Jl. Kendalsari No. 7
+Jayapura, MA 05989"
+889,Cinthia,Marpaung,M,85,marpaung623,*qOfLlrf9T,cinthia.marpaung@gmail.com,-7679,"Gg. Astana Anyar No. 75
+Batam, PA 47149"
+890,Laras,Latupono,M,36,latupono943,N^l1AtUt5K,laras.latupono@yahoo.com,(082) 580-9652,"Jalan KH Amin Jasuta No. 702
+Sukabumi, JA 04493"
+891,Cahyono,Gunarto,F,30,gunarto197,1AA#QKq!#^,cahyono.gunarto@yahoo.com,088 729 3820,"Gg. Ahmad Dahlan No. 57
+Tegal, Sulawesi Barat 06621"
+892,Rizki,Pudjiastuti,F,21,rizki289,9c_L!fPt&0,rizki.pudjiastuti@yahoo.com,-4585,"Jalan Moch. Ramdan No. 5
+Binjai, JA 96679"
+893,Eka,Hardiansyah,F,86,hardiansyah486,$2JXdEna^z,eka.hardiansyah@gmail.com,+62 (16) 178-4979,"Gang Ahmad Dahlan No. 8
+Pekalongan, Nusa Tenggara Barat 21639"
+894,Tari,Melani,M,57,melani65,%wQ1YIon&@,tari.melani@yahoo.com,-4157,"Gang Ciumbuleuit No. 6
+Parepare, Jambi 60512"
+895,Rahmat,Novitasari,M,55,rahmat910,(GXPwaTb4h,rahmat.novitasari@hotmail.com,(043) 605-5833,"Jl. Laswi No. 003
+Kotamobagu, KR 95476"
+896,Umay,Prasasta,F,40,umay467,_yLnadmbB4,umay.prasasta@hotmail.com,-2476,"Gg. Stasiun Wonokromo No. 88
+Lhokseumawe, BA 00084"
+897,Harjaya,Purnawati,M,76,purnawati186,kv1jQ*4&r),harjaya.purnawati@hotmail.com,-8384,"Gang Tubagus Ismail No. 2
+Sibolga, Papua 69074"
+898,Restu,Oktaviani,M,47,restu266,d(4IRXkNZR,restu.oktaviani@yahoo.com,+62 (0729) 495-8832,"Gang Kebonjati No. 5
+Sibolga, Sumatera Barat 67696"
+899,Daliono,Mulyani,F,70,daliono66,1o7N7Vnu@v,daliono.mulyani@yahoo.com,(074) 036-3707,"Gg. Ronggowarsito No. 04
+Meulaboh, MA 74692"
+900,Ganda,Novitasari,M,35,ganda462,*KC0Nift9b,ganda.novitasari@hotmail.com,-5740,"Jalan Tubagus Ismail No. 82
+Surabaya, KU 76430"
+901,Cinthia,Hardiansyah,F,46,hardiansyah549,^0PFO^AfZ4,cinthia.hardiansyah@hotmail.com,+62 (138) 707 5965,"Jalan Jend. Sudirman No. 704
+Surakarta, Sulawesi Utara 75291"
+902,Simon,Rahmawati,F,16,simon52,d(9iyBq!4c,simon.rahmawati@gmail.com,082 621 1641,"Jalan Laswi No. 79
+Bengkulu, PB 58269"
+903,Rendy,Hutagalung,F,70,rendy785,z(L8lHTkd8,rendy.hutagalung@hotmail.com,+62 (817) 851 3531,"Gang Pasteur No. 037
+Salatiga, Bali 24126"
+904,Lulut,Hutasoit,M,81,hutasoit786,z+4W$2%z70,lulut.hutasoit@gmail.com,+62 (677) 346-4465,"Jalan Moch. Ramdan No. 00
+Batu, Sulawesi Selatan 57333"
+905,Kawaca,Hartati,M,66,hartati171,&&72BXb#SA,kawaca.hartati@hotmail.com,(0435) 788-5558,"Gg. Soekarno Hatta No. 275
+Tangerang Selatan, Jawa Tengah 03691"
+906,Jaswadi,Hutapea,F,62,jaswadi759,sbCb9FE$0+,jaswadi.hutapea@hotmail.com,+62 (0563) 447-9933,"Gg. Pasirkoja No. 0
+Padang, SB 40884"
+907,Shakila,Kuswandari,F,80,shakila755,vt_S8IqxMn,shakila.kuswandari@gmail.com,+62 (078) 861 1401,"Jl. Cikutra Barat No. 502
+Pasuruan, SN 46106"
+908,Dariati,Pratiwi,F,46,pratiwi957,$J$ZHQx0R0,dariati.pratiwi@gmail.com,(0363) 080-3693,"Gg. Ciwastra No. 5
+Jayapura, JI 83390"
+909,Dariati,Sudiati,M,38,dariati765,2SmSy$eY$g,dariati.sudiati@yahoo.com,+62 (388) 459-4710,"Gg. Medokan Ayu No. 685
+Banda Aceh, JT 68086"
+910,Mutia,Handayani,F,21,handayani153,ch28*R_j((,mutia.handayani@yahoo.com,(0445) 173 4316,"Jalan Jakarta No. 848
+Pangkalpinang, MU 76059"
+911,Gilda,Gunarto,M,39,gilda704,^x5M80KrJo,gilda.gunarto@hotmail.com,-4812,"Gang Rajawali Timur No. 693
+Prabumulih, SN 24084"
+912,Jabal,Prabowo,M,26,prabowo497,i+1T8vjyMW,jabal.prabowo@gmail.com,+62 (0411) 727 5683,"Gg. Raya Setiabudhi No. 655
+Bogor, Sulawesi Utara 33455"
+913,Balidin,Kuswoyo,F,59,balidin148,tbg!5TFjR@,balidin.kuswoyo@hotmail.com,+62 (162) 694 1071,"Gang Raya Setiabudhi No. 817
+Mojokerto, KI 06999"
+914,Jarwa,Zulkarnain,X,35,jarwa181,Ao+60F!itc,jarwa.zulkarnain@gmail.com,-8802,"Jl. Cikutra Barat No. 9
+Sawahlunto, KR 45678"
+915,Tania,Prastuti,F,77,prastuti781,#2o0h5JuUB,tania.prastuti@gmail.com,+62 (0767) 615 7204,"Gang Suniaraja No. 5
+Dumai, Lampung 98941"
+916,Galang,Santoso,M,25,santoso388,5S6i2XDa#I,galang.santoso@gmail.com,+62 (490) 546-1883,"Gg. Surapati No. 785
+Tanjungpinang, Lampung 87938"
+917,Endah,Prayoga,F,26,endah671,J45DXrR*m&,endah.prayoga@yahoo.com,+62 (088) 580 5221,"Gg. Medokan Ayu No. 56
+Palopo, Jawa Timur 89756"
+918,Dinda,Namaga,M,17,dinda582,5#8dlOgu!!,dinda.namaga@gmail.com,(0342) 967 7055,"Jalan Kutai No. 100
+Pangkalpinang, KR 15507"
+919,Nadia,Putra,M,70,putra209,1L94YBoZ&&,nadia.putra@hotmail.com,086 948 4064,"Jl. Setiabudhi No. 4
+Cilegon, Bengkulu 50009"
+920,Raharja,Irawan,F,56,raharja410,#NAME?,raharja.irawan@gmail.com,-7715,"Jalan Jakarta No. 011
+Batam, Sulawesi Tenggara 71451"
+921,Darijan,Prakasa,F,25,prakasa995,u3uzdDyd#8,darijan.prakasa@gmail.com,-1384,"Gg. Pacuan Kuda No. 51
+Solok, JT 66908"
+922,Yuni,Saragih,M,87,yuni452,3e2#(8XbnR,yuni.saragih@yahoo.com,+62 (48) 437 0874,"Jalan Moch. Ramdan No. 405
+Bima, Bali 82368"
+923,Jane,Situmorang,F,25,situmorang321,Z(2RH@Dg6N,jane.situmorang@gmail.com,(0678) 696-0215,"Jalan Pasirkoja No. 19
+Pasuruan, Kalimantan Timur 03766"
+924,Chelsea,Dongoran,F,37,dongoran893,4%0vXT#v%n,chelsea.dongoran@yahoo.com,+62 (015) 534-3195,"Jalan Cikutra Barat No. 966
+Kupang, Bengkulu 87891"
+925,Balidin,Handayani,X,77,handayani206,Ai7sCZkG#r,balidin.handayani@hotmail.com,833468901,"Jl. Rajawali Timur No. 4
+Tual, KR 29653"
+926,Gamblang,Utami,F,75,gamblang295,*78#RAJsP@,gamblang.utami@hotmail.com,-9276,"Gg. Ir. H. Djuanda No. 2
+Gorontalo, MU 30812"
+927,Keisha,Wibowo,M,25,wibowo138,c%x(2ZHnB8,keisha.wibowo@gmail.com,+62 (89) 239-7776,"Gg. Cikutra Barat No. 7
+Langsa, AC 86352"
+928,Vicky,Palastri,F,28,vicky676,c3J5jKn2@C,vicky.palastri@hotmail.com,-2142,"Jl. Wonoayu No. 81
+Pangkalpinang, MU 99381"
+929,Irfan,Wijaya,F,43,wijaya991,_+QC0NGfJ8,irfan.wijaya@gmail.com,(0880) 604-6586,"Gang Setiabudhi No. 511
+Tomohon, LA 80450"
+930,Banawa,Thamrin,M,66,thamrin19,Xq_8NgFlE&,banawa.thamrin@hotmail.com,(0247) 343 9574,"Gg. Sukajadi No. 6
+Tasikmalaya, Sulawesi Tengah 07471"
+931,Gamanto,Namaga,F,84,gamanto854,cY382Nin&+,gamanto.namaga@hotmail.com,+62 (096) 076-2265,"Gg. S. Parman No. 06
+Banjar, Jawa Tengah 22829"
+932,Kunthara,Utama,M,47,kunthara603,*Z7@Vu(1^_,kunthara.utama@gmail.com,+62 (07) 167-4703,"Gang Ciwastra No. 725
+Cilegon, YO 43685"
+933,Ian,Mandala,F,49,mandala871,n#75_4jnoF,ian.mandala@gmail.com,+62 (311) 505 7109,"Gg. Cihampelas No. 78
+Bau-Bau, KT 72484"
+934,Bakidin,Sudiati,M,41,sudiati897,F5KustFf(p,bakidin.sudiati@hotmail.com,088 019 0541,"Gg. Sukabumi No. 45
+Blitar, Gorontalo 94223"
+935,Lantar,Napitupulu,F,74,napitupulu308,$4Og56tF@+,lantar.napitupulu@yahoo.com,-4335,"Gang Veteran No. 422
+Tarakan, SN 68693"
+936,Wage,Wahyudin,F,21,wahyudin968,Hn7CJHilF^,wage.wahyudin@hotmail.com,+62 (54) 429-1306,"Gg. Erlangga No. 7
+Tidore Kepulauan, MU 33258"
+937,Ega,Pratama,F,35,pratama25,BeIBFdXz@3,ega.pratama@hotmail.com,+62 (020) 977 6897,"Jalan Suryakencana No. 447
+Kupang, MU 76873"
+938,Digdaya,Lailasari,F,71,digdaya255,648!XJ3v)b,digdaya.lailasari@yahoo.com,(006) 081 5694,"Jl. Surapati No. 3
+Kota Administrasi Jakarta Pusat, PA 38638"
+939,Karna,Puspasari,F,30,puspasari61,ih3Ymt6u@M,karna.puspasari@yahoo.com,087 564 0550,"Gg. M.T Haryono No. 618
+Blitar, DKI Jakarta 72772"
+940,Mumpuni,Wijaya,F,75,wijaya223,@C0mUapKMt,mumpuni.wijaya@gmail.com,(058) 235 4058,"Jl. Monginsidi No. 713
+Solok, Maluku Utara 25719"
+941,Karja,Mangunsong,M,47,karja584,)83birPeV6,karja.mangunsong@hotmail.com,(0830) 838 7768,"Jl. K.H. Wahid Hasyim No. 170
+Tual, PA 88544"
+942,Arsipatra,Putra,F,60,arsipatra198,#NAME?,arsipatra.putra@gmail.com,(0028) 744 6317,"Jalan Ciumbuleuit No. 553
+Depok, SR 56370"
+943,Juli,Maryati,F,81,maryati982,DT9GcJcbo%,juli.maryati@yahoo.com,(0991) 734-2439,"Jl. Ciumbuleuit No. 484
+Blitar, Maluku Utara 37332"
+944,Langgeng,Anggraini,M,45,anggraini349,EtE!b6SG)1,langgeng.anggraini@yahoo.com,-2333,"Jl. Setiabudhi No. 6
+Dumai, JI 24163"
+945,Rosman,Januar,F,42,januar550,A$7*Z$NsdH,rosman.januar@yahoo.com,(065) 191-7241,"Jalan M.H Thamrin No. 799
+Bandar Lampung, Kalimantan Barat 55402"
+946,Akarsana,Widiastuti,F,78,widiastuti559,(u&2HTjfb2,akarsana.widiastuti@yahoo.com,+62 (80) 601-7667,"Jl. Ir. H. Djuanda No. 9
+Sorong, Bengkulu 40454"
+947,Banawa,Narpati,M,44,narpati667,B&Cx6kZyXZ,banawa.narpati@hotmail.com,-7931,"Gg. Kutai No. 44
+Parepare, Maluku 53142"
+948,Rafid,Najmudin,F,64,rafid305,TB$v5Zyc2j,rafid.najmudin@hotmail.com,875658204,"Jl. Rajawali Barat No. 9
+Pontianak, KI 58543"
+949,Farhunnisa,Hartati,M,34,farhunnisa251,m@5bRT*wb4,farhunnisa.hartati@yahoo.com,+62 (021) 571-4289,"Gg. Siliwangi No. 63
+Tomohon, Riau 71388"
+950,Heryanto,Uyainah,M,26,uyainah241,TSdk@8CzhW,heryanto.uyainah@yahoo.com,087 136 8900,"Jalan Surapati No. 54
+Sukabumi, NT 61228"
+951,Ulya,Maryadi,M,79,ulya474,g2UGxCDe_U,ulya.maryadi@hotmail.com,+62 (0448) 982-2674,"Gang Laswi No. 3
+Semarang, AC 64072"
+952,Zelaya,Latupono,M,44,latupono841,$4CEtx6WYD,zelaya.latupono@hotmail.com,+62 (764) 888-2931,"Gang Raya Ujungberung No. 33
+Batu, Kepulauan Riau 94218"
+953,Bambang,Laksita,F,57,bambang428,_@T3C1rkaC,bambang.laksita@yahoo.com,+62 (0601) 911 9252,"Gg. Sentot Alibasa No. 732
+Tomohon, Kalimantan Timur 16222"
+954,Kawaca,Kusumo,M,34,kusumo472,+$2HN4+sPt,kawaca.kusumo@yahoo.com,+62 (61) 040 8744,"Gang Gegerkalong Hilir No. 6
+Dumai, Jambi 03521"
+955,Tiara,Winarno,M,73,winarno301,T4EYRapd^9,tiara.winarno@gmail.com,(0732) 424 9368,"Jl. Rajawali Barat No. 0
+Palangkaraya, YO 67204"
+956,Uda,Adriansyah,F,23,adriansyah236,a!1wwHdP)$,uda.adriansyah@yahoo.com,+62 (286) 895 3714,"Jl. Siliwangi No. 07
+Medan, Kalimantan Timur 18781"
+957,Marsudi,Astuti,F,30,astuti571,$vj7UsD8^5,marsudi.astuti@gmail.com,-1048,"Jalan Surapati No. 931
+Batam, Maluku Utara 16234"
+958,Cecep,Tarihoran,M,72,cecep6,^iP8Mel7Y),cecep.tarihoran@gmail.com,(0055) 617 4385,"Jl. Indragiri No. 4
+Bandar Lampung, Lampung 31723"
+959,Clara,Rahimah,F,78,rahimah610,d_h1WPem+M,clara.rahimah@hotmail.com,-8769,"Gang Pelajar Pejuang No. 29
+Bukittinggi, Sulawesi Tenggara 51069"
+960,Garda,Pratiwi,M,58,pratiwi513,13oKlHzu^m,garda.pratiwi@gmail.com,-9076,"Gg. Jayawijaya No. 34
+Medan, Nusa Tenggara Timur 29367"
+961,Nasim,Uyainah,M,37,uyainah153,!aU7BR&C^8,nasim.uyainah@hotmail.com,+62 (066) 560-3508,"Gang Peta No. 6
+Jambi, Lampung 30177"
+962,Bakijan,Hartati,M,53,hartati784,c26JdV+!$0,bakijan.hartati@hotmail.com,815344595,"Gang Cihampelas No. 716
+Ambon, Jawa Timur 70532"
+963,Najwa,Sitorus,F,72,najwa668,Z@0Dh*hrA$,najwa.sitorus@yahoo.com,-5844,"Gg. R.E Martadinata No. 4
+Lubuklinggau, LA 49923"
+964,Sakti,Purnawati,F,60,purnawati891,ch#t8KYo#$,sakti.purnawati@gmail.com,+62 (059) 662 5351,"Jl. Sukabumi No. 92
+Banjar, Kalimantan Timur 34415"
+965,Mulya,Wibisono,F,37,mulya898,(DMPm8CYt4,mulya.wibisono@yahoo.com,+62 (265) 589-9868,"Jalan Kapten Muslihat No. 68
+Jayapura, KT 80715"
+966,Diana,Adriansyah,M,49,adriansyah742,qFP46GLfb^,diana.adriansyah@yahoo.com,+62 (679) 925 3581,"Jalan KH Amin Jasuta No. 762
+Bau-Bau, Nusa Tenggara Timur 37508"
+967,Irnanto,Natsir,F,54,irnanto759,%#_8nM&l)@,irnanto.natsir@yahoo.com,-574,"Jalan Rumah Sakit No. 00
+Bogor, Sulawesi Utara 66120"
+968,Jais,Pangestu,M,22,pangestu560,J9HH33Op8),jais.pangestu@yahoo.com,-6715,"Gang Pelajar Pejuang No. 971
+Mojokerto, Maluku Utara 02902"
+969,Cawisadi,Natsir,M,86,cawisadi719,)Z*0Fxll1F,cawisadi.natsir@hotmail.com,(068) 313 1975,"Gg. Rajawali Barat No. 072
+Payakumbuh, YO 46323"
+970,Kiandra,Suryatmi,X,80,suryatmi811,t+rpO6A2Fw,kiandra.suryatmi@gmail.com,+62 (043) 887 3385,"Jl. W.R. Supratman No. 99
+Magelang, PB 95396"
+971,Sabrina,Santoso,F,41,santoso398,)*3hWFO34j,sabrina.santoso@hotmail.com,+62 (077) 873 5827,"Gang Moch. Toha No. 034
+Banda Aceh, Kalimantan Tengah 52982"
+972,Cakrabirawa,Maryadi,M,79,maryadi734,P(!171Fu1r,cakrabirawa.maryadi@hotmail.com,-7005,"Gg. Dr. Djunjunan No. 03
+Tasikmalaya, Sulawesi Tengah 34362"
+973,Hari,Anggriawan,F,15,hari690,%V@p4zYzWC,hari.anggriawan@hotmail.com,848508321,"Jl. Cikapayang No. 8
+Palembang, Aceh 29586"
+974,Mariadi,Zulkarnain,M,83,mariadi722,61UEk%Mp$e,mariadi.zulkarnain@gmail.com,-2544,"Gg. KH Amin Jasuta No. 0
+Yogyakarta, Jawa Tengah 44935"
+975,Wulan,Maryati,M,28,wulan450,f!5fHq$xW&,wulan.maryati@yahoo.com,+62 (259) 531 2489,"Jl. K.H. Wahid Hasyim No. 90
+Sibolga, YO 44493"
+976,Restu,Nainggolan,F,24,restu885,@MP)MhDcj1,restu.nainggolan@gmail.com,-320,"Jl. Bangka Raya No. 7
+Solok, Sulawesi Tenggara 23427"
+977,Aurora,Mayasari,F,89,mayasari896,%naRY6YoYK,aurora.mayasari@gmail.com,-9060,"Jl. Jend. A. Yani No. 23
+Tanjungpinang, JT 24942"
+978,Capa,Ardianto,F,45,ardianto495,z_c7DP+n5R,capa.ardianto@gmail.com,-10095,"Jl. Jayawijaya No. 89
+Bima, KR 16871"
+979,Puspa,Natsir,M,51,natsir886,BvrJfCia+8,puspa.natsir@yahoo.com,(078) 239 9120,"Gang Kebonjati No. 666
+Pontianak, Kalimantan Barat 92921"
+980,Vino,Pranowo,F,74,pranowo584,!mJXAQbV0q,vino.pranowo@hotmail.com,-8343,"Jl. Indragiri No. 9
+Sorong, Sulawesi Selatan 69413"
+981,Asirwanda,Usamah,F,55,usamah888,(KY6k!Fr)4,asirwanda.usamah@hotmail.com,-9146,"Jalan Merdeka No. 6
+Malang, AC 93689"
+982,Galuh,Haryanto,F,61,haryanto503,GJ1Jv0SH(!,galuh.haryanto@yahoo.com,+62 (059) 045-4259,"Jl. Rajawali Barat No. 85
+Singkawang, NB 95084"
+983,Jaga,Najmudin,M,63,najmudin415,Jta22Y%x)X,jaga.najmudin@hotmail.com,085 732 1450,"Gg. Pacuan Kuda No. 33
+Mataram, Kalimantan Utara 56091"
+984,Cawuk,Haryanto,M,76,cawuk597,rI9HmTCcf_,cawuk.haryanto@hotmail.com,+62 (923) 648 5441,"Jalan Siliwangi No. 782
+Surabaya, ST 66011"
+985,Kanda,Wijayanti,F,48,wijayanti946,@JkRO58f72,kanda.wijayanti@gmail.com,-5075,"Gang Ahmad Dahlan No. 1
+Manado, DKI Jakarta 98598"
+986,Zelaya,Riyanti,F,48,riyanti962,$m114AUoD6,zelaya.riyanti@yahoo.com,+62 (0908) 870 2005,"Gg. Setiabudhi No. 95
+Semarang, Kepulauan Bangka Belitung 93956"
+987,Ika,Sihotang,M,86,sihotang862,%ecv7Z#kfP,ika.sihotang@gmail.com,-7257,"Jalan Jend. A. Yani No. 7
+Serang, JA 30776"
+988,Simon,Nashiruddin,M,85,nashiruddin306,+2@6zBgzT_,simon.nashiruddin@yahoo.com,+62 (13) 369-6601,"Jalan Yos Sudarso No. 24
+Bekasi, RI 70364"
+989,Ghani,Melani,M,42,melani686,)2KUxELj@6,ghani.melani@hotmail.com,+62 (04) 266-4993,"Jl. Merdeka No. 5
+Bandar Lampung, Sumatera Barat 12815"
+990,Rusman,Rahimah,F,43,rusman900,KBs94Do4%M,rusman.rahimah@gmail.com,+62 (0176) 654 3500,"Jl. Pelajar Pejuang No. 04
+Parepare, BA 31244"
+991,Harjasa,Wibisono,F,21,harjasa43,@nF^(53H28,harjasa.wibisono@yahoo.com,+62 (98) 461-5020,"Jl. Jend. Sudirman No. 158
+Kota Administrasi Jakarta Timur, KR 36387"
+992,Humaira,Mangunsong,M,69,mangunsong910,&6RUZonW91,humaira.mangunsong@gmail.com,+62 (034) 579-9119,"Gang Kiaracondong No. 334
+Tanjungbalai, KR 09265"
+993,Mursinin,Mangunsong,M,40,mursinin581,olYUBn5K$0,mursinin.mangunsong@hotmail.com,+62 (094) 543 5573,"Gang Monginsidi No. 810
+Bengkulu, PB 04753"
+994,Padmi,Nuraini,F,85,padmi951,2zBMjSU2&7,padmi.nuraini@yahoo.com,+62 (622) 177-2537,"Jalan Kutisari Selatan No. 60
+Pariaman, Aceh 14358"
+995,Natalia,Winarsih,F,25,winarsih458,)9hzAy^t6#,natalia.winarsih@gmail.com,+62 (046) 051-5530,"Jl. Rumah Sakit No. 18
+Cimahi, Kalimantan Utara 99706"
+996,Rafid,Novitasari,F,67,novitasari128,P4+E9Kfp)f,rafid.novitasari@hotmail.com,+62 (731) 822-3733,"Gg. PHH. Mustofa No. 4
+Depok, Lampung 76602"
+997,Mursita,Zulkarnain,M,32,mursita48,$OF9YbuI31,mursita.zulkarnain@hotmail.com,(0094) 788-2705,"Gang Ronggowarsito No. 507
+Tanjungbalai, DKI Jakarta 99952"
+998,Arta,Putra,F,24,arta854,Ue88XOuhF+,arta.putra@gmail.com,+62 (34) 181-9119,"Jl. Dipatiukur No. 14
+Palembang, DI Yogyakarta 76079"
+999,Atmaja,Lestari,M,82,lestari187,&U&#AnBd(1,atmaja.lestari@gmail.com,-1498,"Jl. Jamika No. 991
+Makassar, Sulawesi Selatan 21930"
+1000,Vega,Wasita,M,71,vega39,CMt1Zs@wc$,vega.wasita@gmail.com,+62 (67) 913-9224,"Gang Tebet Barat Dalam No. 2
+Kota Administrasi Jakarta Timur, Nusa Tenggara Barat 73442"
