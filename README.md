@@ -1,5 +1,6 @@
 ### **Library Management System**
 SQL implementation to design a database system for an e-library application. The application oversees multiple libraries, each hosting a diverse collection of books with varying quantities available for borrowing. Users can borrow or place holds on books (when the book is not immediately available for borrowing). 
+
 [Books Dataset](https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks?resource=download)
 
 ### **Database design structure**
