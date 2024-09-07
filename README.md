@@ -74,8 +74,7 @@ Based on the visual representation of your PAC-LIB database (ERD), I’ll explai
 ![image](https://github.com/user-attachments/assets/86363e69-f7b4-4e79-a190-61ae06e8f07d)
 
 
-####**Books Dataset**
-https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks?resource=download
+[Books Dataset](https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks?resource=download)
 
 
 
