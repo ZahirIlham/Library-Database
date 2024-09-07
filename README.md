@@ -40,7 +40,6 @@ The loans table records all the book loans made by users. It tracks which user b
 If PAC-LIB allows users to reserve books that are currently unavailable, the reservations table will manage this data. It tracks the user who made the reservation, the reserved book, the date of the reservation, and whether it has been fulfilled.
 
 ### **Determine Table Relationships and Business Rules:**
-Based on the visual representation of your PAC-LIB database (ERD), I’ll explain the relationships between the tables and outline the business rules that can be derived from them.
 
 1. **Authors and Books (Many-to-Many Relationship)**  
    - **Tables Involved**: `authors`, `books`, and `books_author`  
