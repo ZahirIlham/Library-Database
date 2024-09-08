@@ -7,7 +7,7 @@ SQL implementation to design a database system for an e-library application. The
 
 ### **Database design structure**
 * Mission Statement
-* Creating Table Structures & Determine Business Rules
+* Creating Table Structures
 * Determine Table Relationships and Business Rules
 * ERD Diagram
 
